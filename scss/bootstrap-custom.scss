@@ -1,0 +1,83 @@
+/*!
+ *
+ * <<<CUSTOM>>> 
+ *
+ * Bootstrap v4.1.3 (https://getbootstrap.com/)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+// Small devices (landscape phones, 576px and up)
+// Medium devices (tablets, 768px and up)
+// Large devices (desktops, 992px and up)
+// Extra large devices (large desktops, 1200px and up)
+
+@import "bootstrap-4.1.3/functions";
+@import "bootstrap-4.1.3/variables";
+@import "bootstrap-4.1.3/mixins";
+
+// @import "bootstrap-4.1.3/utilities/background";
+// @import "bootstrap-4.1.3/utilities/borders";
+
+
+/* utilities/align */
+@import "bootstrap-4.1.3/utilities/align";
+/* utilities/clearfix */
+@import "bootstrap-4.1.3/utilities/clearfix";
+/* utilities/display */
+@import "bootstrap-4.1.3/utilities/display";
+
+
+// // @import "bootstrap-4.1.3/utilities/embed";
+
+
+/* utilities/flex */
+@import "bootstrap-4.1.3/utilities/flex";
+/* utilities/float */
+@import "bootstrap-4.1.3/utilities/float";
+/* utilities/position */
+@import "bootstrap-4.1.3/utilities/position";
+/* utilities/screenreaders */
+@import "bootstrap-4.1.3/utilities/screenreaders";
+
+
+// @import "bootstrap-4.1.3/utilities/shadows";
+
+
+/* utilities/sizing */
+@import "bootstrap-4.1.3/utilities/sizing";
+
+// Spacing
+//
+// Control the default styling of most Bootstrap elements by modifying these
+// variables. Mostly focused on spacing.
+// You can add more entries to the $spacers map, should you need more variation.
+
+$spacer: 1rem !default;
+$spacers: () !default;
+// stylelint-disable-next-line scss/dollar-variable-default
+$spacers: map-merge(
+  (
+    0: 0,                         // 0px
+    1: ($spacer * .25),           // 4px
+    2: ($spacer * .5),            // 8px
+    3: $spacer,                   // 16px
+    4: ($spacer * 1.5),           // 24px
+    5: ($spacer * 3),             // 48px
+    // CUSTOM (e.g. custom01: between default spacer 0 and 1)
+    custom01: ($spacer * 0.125),  // 2px
+    custom34: ($spacer * 1.25),   // 20px
+    custom45: ($spacer * 2.25)    // 36px
+  ),
+  $spacers
+);
+
+/* utilities/spacing */
+@import "bootstrap-4.1.3/utilities/spacing";
+/* utilities/text */
+@import "bootstrap-4.1.3/utilities/text";
+/* utilities/visibility */
+@import "bootstrap-4.1.3/utilities/visibility";

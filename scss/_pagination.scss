@@ -1,0 +1,84 @@
+/*********************
+PAGINATION
+*********************/
+.itz-pagination {
+    display: block;
+    text-align: center;
+    div {
+        display: inline-block;
+        margin: 0 auto;
+        vertical-align: middle;
+    }
+    a {
+        color: $color-primary-blue;
+        float: left;
+        text-decoration: none;
+        transition: background-color .3s;
+        border: 1px solid transparent;
+        border-radius: 2px;
+        margin-left: 0.5rem;
+        height: 2.5rem;
+        width: 2.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: $h7-font-size;
+        font-weight: bold;
+        &:not(:first-child):not(:last-child) {
+            &:not(.itz-active) {
+                border-color: $color-secondary-gray;
+                background-color: $color-light;
+                &:hover {
+                    background-color: $color-primary-gray;
+                }
+            }   
+        }
+        &.itz-active {
+            background-color: $color-primary-blue;
+            color: $color-light;
+        }
+        &:hover {
+            text-decoration: none;
+        }
+
+        img {
+            width: 2.5rem;
+            height: 2.5rem;
+        }
+    }
+}
+
+.itz-pagination-disabled {
+    opacity: .7;
+    a {
+        pointer-events: none;
+        cursor: default;
+        &:hover {
+            background-color:  $color-light;
+        }
+        &.itz-active, 
+        &.itz-active:hover {
+            background-color: $color-secondary-gray-AA;
+            color: $color-light;
+        }   
+        &:not(:first-child):not(:last-child) {
+            &:not(.itz-active) {
+                &:hover {
+                    background-color: $color-light;
+                }
+            }   
+        }
+    }
+}
+
+@include media-breakpoint-down(sm) {
+    .itz-pagination {
+        a {  
+            height: 2rem;
+            width: 2rem;
+            margin-left: 0rem;
+            border: none;
+        }
+    }    
+
+}

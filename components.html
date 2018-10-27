@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>T4G Components</title>
+  <meta name="description" content="Zoll-Auktion">
+  <meta name="author" content="Tech4Germany">
+  <link rel="stylesheet" href="css/bootstrap-4.1.3/bootstrap-reboot.css?v=1.0">
+  <link rel="stylesheet" href="css/bootstrap-4.1.3/bootstrap-grid.css?v=1.0">
+  <link rel="stylesheet" href="css/bootstrap-custom.css?v=1.1">
+  <link rel="stylesheet" href="css/style.css?v=1.1">
+
+</head>
+
+<body>
+
+  <div class="container">
+    <!-- HEADINGS -->
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+
+    <button class="itz-btn itz-btn-primary-blue">Register</button>
+    <button class="itz-btn itz-btn-outline-primary-blue">Anmelden</button>
+    <button class="itz-btn itz-btn-secondary">Register</button>
+    <button class="itz-btn itz-btn-outline-secondary">Anmelden</button>
+    <br>
+    <button class="itz-btn itz-btn-primary-blue itz-btn-block">Register</button>
+    <button class="itz-btn itz-btn-outline-primary-blue itz-btn-block">Anmelden</button>
+    <button class="itz-btn itz-btn-secondary itz-btn-block">Register</button>
+    <button class="itz-btn itz-btn-outline-secondary itz-btn-block">Anmelden</button>
+    <br>
+    <a>This is a link</a>
+    <br>
+
+    <a class="access-link">
+      <img src="./assets/leichte.svg" alt="">
+      <label class="itz-undertitle">Leichte Sprache</label>
+    </a>
+    <hr>
+
+    <!-- FORMS -->
+    <input type="text" class="itz-form-control" placeholder="Insert your search term here">
+    <input type="text" class="itz-form-control itz-form-control-gray" placeholder="Insert your search term here">
+    <input type="text" class="itz-form-control" placeholder="Bad luck! This is disabled." disabled>
+    <br>
+    <select class="itz-form-control" id="">
+      <option value="h">First Item</option>
+      <option value="h">hello</option>
+    </select>
+    <select class="itz-form-control itz-form-control-gray" id="">
+      <option value="h">First Item</option>
+      <option value="h">hello</option>
+    </select>
+
+    <textarea class="itz-form-control" name=""></textarea>
+    <textarea class="itz-form-control itz-form-control-gray" name=""></textarea>
+    <input type="range" class="itz-form-control">
+
+    <hr>
+
+    <div class="itz-checkbox">
+      <label class="itz-form-check">
+        Three
+        <input type="itz-checkbox">
+        <span class="itz-checkmark"></span>
+      </label>
+    </div>
+
+    <label class="form-check">Two
+      <input type="radio">
+      <span class="radiomark"></span>
+    </label>
+
+    <hr>
+
+    <!-- ALERTS -->
+    <div class="itz-alert">
+      This is a warning!
+      <button class="itz-alert-close">&times;</button>
+    </div>
+    <div class="itz-alert itz-alert-primary-blue">
+      This is a warning!
+      <button class="itz-alert-close">&times;</button>
+    </div>
+    <div class="itz-alert itz-alert-primary-gray">
+      This is a warning!
+      <button class="itz-alert-close">&times;</button>
+    </div>
+    <div class="itz-alert itz-alert-secondary-blue">
+      This is a warning!
+    </div>
+    <div class="itz-alert itz-alert-secondary-gray">
+      This is a warning!
+      <!-- <button class="itz-alert-close">&times;</button> -->
+    </div>
+    <div class="itz-alert itz-alert-red">
+      This is a warning!
+      <!-- <button class="itz-alert-close">&times;</button> -->
+    </div>
+    <div class="itz-alert itz-alert-green">
+      This is a warning!
+      <!-- <button class="itz-alert-close">&times;</button> -->
+    </div>
+    <div class="itz-alert itz-alert-yellow">
+      This is a warning!
+      <!-- <button class="itz-alert-close">&times;</button> -->
+    </div>
+
+    <!-- Pagination -->
+    <div class="itz-pagination">
+      <div>
+        <a>
+          <img src="/assets/pager-pfeil-links.svg" alt="">
+        </a>
+        <a href="#">1</a>
+        <a class="itz-active" href="#">2</a>
+        <a href="#">3</a>
+        <a href="#">4</a>
+        <a href="#">5</a>
+        <a href="#">6</a>
+        <a href="#">
+          <img src="/assets/pager-pfeil-rechts.svg" alt="">
+        </a>
+      </div>
+    </div>
+
+    <div class="itz-pagination mt-3">
+      <div>
+        <a class="itz-cursor-default" alt="Vorherige Seite">
+          <img src="./assets/pager-pfeil-links.svg" alt="" aria-label="Pfeil Links">
+        </a>
+        <a class="itz-txt-light itz-cursor-default bg-secondary-gray">1</a>
+        <a class="itz-cursor-default" alt="Nächste Seite">
+          <img src="./assets/pager-pfeil-rechts.svg" alt="" aria-label="Pfeil Rechts">
+        </a>
+      </div>
+    </div>
+
+    <div class="itz-tabset">
+      <ul>
+        <li class="itz-current"><a href="#tab1">Gebote</a></li>
+        <li><a href="#tab2">Merkliste</a></li>
+        <li><a href="#tab3">Einstellungen</a></li>
+      </ul>
+      <div>
+        <h2 id="tab1">Gebote</h2>
+      </div>
+      <div>
+        <h2 id="tab2">Merkliste</h2>
+      </div>
+      <div>
+        <h2 id="tab3">Einstellungen</h2>
+      </div>
+    </div>
+
+    <div class="itz-category-list">
+      <div class="itz-category-item">
+        <h4>Antiquität</h4>
+        <span class="itz-category-pic">
+          <img src="./assets/antiq.svg" alt="">
+        </span>
+      </div>
+    </div>
+
+    <div class="search-bar-inline">
+      <input type="text" class="itz-form-control" placeholder="Insert your search term here">
+      <button class="itz-search-btn">
+        <img src="./assets/search.svg" alt="">
+      </button>
+    </div>
+    <div class="search-bar-inline">
+      <input type="text" class="itz-form-control itz-form-control-gray" placeholder="Insert your search term here">
+      <button class="search-btn">
+        <img src="./assets/search.svg" alt="">
+      </button>
+    </div>
+    <div class="itz-search-bar">
+      <input type="text" class="itz-form-control" placeholder="Insert your search term here">
+      <button class="itz-search-btn itz-btn-primary-blue">
+        <img src="./assets/search-white.svg">
+        <label>Suchen</label>
+      </button>
+    </div>
+
+    <div class="itz-top-auktion-item">
+      <div class="itz-head clearfix">
+        <span class="itz-undertitle">Noch 30 Tage 22 Std. 59 Min.</span>
+        <span class="star">
+          <img src="./assets/star-yellow.svg" alt="">
+        </span>
+      </div>
+      <div class="itz-title">
+        <span class="itz-body-big">
+          1 Posten Skatepark Elemente "Pyramide mit schräger Lorem ipsum" und so weiterasf asdfas
+        </span>
+      </div>
+      <div class="itz-price clearfix">
+        <h4>EUR 1.000,00</h4>
+      </div>
+      <div class="itz-pictures">
+        <img src="./assets/580338_1.png" alt="">
+        <img src="./assets/580338_1.png" alt="">
+      </div>
+    </div>
+    <div class="itz-top-auktion-item">
+      <div class="itz-head clearfix">
+        <span class="itz-undertitle">Noch 30 Tage 22 Std. 59 Min.</span>
+        <span class="star">
+          <img src="./assets/star.svg" alt="">
+        </span>
+      </div>
+      <div class="itz-title">
+        <span class="itz-body-big">
+          1 Posten Skatepark Elemente "Pyramide mit schräger Lorem ipsum" und so weiterasf asdfas
+        </span>
+      </div>
+      <div class="itz-price clearfix">
+        <h4>EUR 1.000,00</h4>
+      </div>
+      <div class="itz-pictures">
+        <img src="./assets/580338_1.png" alt="">
+        <img src="./assets/580338_1.png" alt="">
+      </div>
+    </div>
+
+    <div class="itz-bid-window">
+      <div class="itz-more-info">
+        <div class="itz-info-icon">
+          <img src="./assets/info.svg" alt="">
+        </div>
+        <span class="itz-info-text itz-undertitle">
+          Here's how you can bid
+        </span>
+      </div>
+      <div class="itz-current-bid">
+        <p>Aktuelles Gebot</p>
+        <h3>EUR 2.231.00</h3>
+        <p><a>99 Gebote</a> | <span> 245 mal angesehen</span></p>
+      </div>
+      <div class="itz-bid-now">
+        <input type="text" class="itz-form-control" placeholder="Maximal Beitrag eingeben">
+        <button class="itz-btn itz-btn-primary-blue itz-btn-block">
+          Bieten
+        </button>
+        <p>
+          <span>Merken</span>
+          <img src="./assets/star.svg" alt="">
+        </p>
+      </div>
+      <div class="itz-bid-info">
+        <p>
+          <span>Anfangsgebot:</span>
+          <span>500,00 EUR</span>
+        </p>
+        <p>
+          <span>Minimalgebot:</span>
+          <span>2.331,00 EUR</span>
+        </p>
+      </div>
+    </div>
+
+    <!-- Merken wird ausgeblendet -->
+    <div class="itz-bid-window bg-primary-gray">
+      <div class="itz-more-info">
+        <div class="itz-info-icon">
+          <img src="./assets/info.svg" alt="">
+        </div>
+        <span class="itz-info-text itz-undertitle">
+          Here's how you can bid 
+        </span>
+      </div>
+      <div class="itz-current-bid">
+        <p>Aktuelles Gebot</p>
+        <h3>EUR 2.231.00</h3>
+        <p><a>99 Gebote</a> | <span> 245 mal angesehen</span></p>
+      </div>
+      <div class="your-bid">
+        <p>Ihr maximaler Gebot: EUR 2.231.00</p>
+      </div>
+      <div class="itz-bid-now">
+        <input type="text" class="itz-form-control" placeholder="Maximal Beitrag eingeben">
+        <button class="itz-btn itz-btn-outline-primary-blue itz-btn-block">
+          Maximaler Gebot erhöhen
+        </button>
+      </div>
+      <div class="itz-bid-info">
+        <p>
+          <span>Anfangsgebot:</span>
+          <span>500,00 EUR</span>
+        </p>
+        <p>
+          <span>Minimalgebot:</span>
+          <span>2.331,00 EUR</span>
+        </p>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row itz-misc-item">
+        <div class="col-lg-2 col-3 itz-misc-pic">
+          <img src="./assets/580338_1.png" alt="">
+        </div>
+        <div class="col-lg-10 col-9 itz-misc-content itz-truncate">
+          <span class="itz-float-right">
+            <img src="./assets/star.svg" alt="">
+          </span>
+          <a href="" class="itz-body-big">1 Posten Skatepark Elemente "Pyramide mit schräger Lorem</a>
+          <div class="misc-price">1000,00 EUR</div>
+          <div>Noch 30 Tage 22 Std. 59 Min.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row list-item">
+        <div class="col-lg-3  col-4 list-item-pic">
+          <img src="./assets/auk3.png" alt="" class="itz-img-fluid">
+        </div>
+        <div class="col-lg-7 col-8 itz-list-item-content">
+          <a href="">1 Posten Skatepark Elemente sadfasdfasdf "Pyramide mit schräger Lorem</a>
+          <div class="itz-list-item-price">
+            <h4>1000,00 EUR</h4>
+            <span class="itz-bids">99 Gebote</span>
+            <div>30T 22Std 59 Min</div>
+            <div class="itz-shipping">
+              Abholung / Versand
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class=" itz-bookmark">
+            <span>Merken</span>
+            <img src="./assets/star.svg" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row list-item">
+        <div class="col-lg-3  col-4 list-item-pic">
+          <img src="./assets/auk3.png" alt="" class="img-fluid">
+        </div>
+        <div class="col-lg-7 col-8 itz-list-item-content">
+          <a href="">1 Posten Skatepark Elemente sadfasdfasdf "Pyramide mit schräger Lorem</a>
+          <div class="itz-list-item-price">
+            <h4>1000,00 EUR</h4>
+            <span class="itz-bids">99 Gebote</span>
+            <div>30T 22Std 59 Min</div>
+            <div class="itz-shipping">
+              Abholung / Versand
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class=" itz-bookmark">
+            <span>Entfernen</span>
+            <img src="./assets/remove.svg" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+  </div>
+
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/scripts.js"></script>
+</body>
+
+</html>

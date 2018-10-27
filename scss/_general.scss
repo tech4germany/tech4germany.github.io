@@ -1,0 +1,194 @@
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+html,
+body {
+  background-color: $color-light;
+  text-rendering: optimizeLegibility;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+button,
+select,
+a,
+input[type="button"] {
+  cursor: pointer;
+}
+
+.itz-float-right {
+  float: right;
+}
+
+.itz-img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.itz-truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.itz-uppercase {
+  text-transform: uppercase;
+}
+
+.itz-line-height-1375 {
+  line-height: 1, 375rem;
+}
+
+.itz-bb-2 {
+  border-bottom: 0.125rem;
+  border-bottom-style: solid;
+  border-color: $color-primary-gray;
+}
+
+.itz-br-2 {
+  border-right: 0.125rem;
+  border-right-style: solid;
+  border-color: $color-primary-gray;
+}
+
+.itz-bl-2 {
+  border-left: 0.125rem;
+  border-left-style: solid;
+  border-color: $color-primary-gray;
+}
+
+.itz-bt-2 {
+  border-top: 0.125rem;
+  border-top-style: solid;
+  border-color: $color-primary-gray;
+}
+
+.itz-max-width-20 {
+  width: 20px;
+}
+
+.itz-logo-width {
+  width: auto;
+  height: 88px;
+}
+
+
+.itz-custom-button-control {
+  background-image: linear-gradient(45deg, transparent 50%, #262627 50%),
+    linear-gradient(135deg, #262627 50%, transparent 50%);
+  background-position: calc(100% - 20px) calc(1em + 5px),
+    calc(100% - 15px) calc(1em + 5px), calc(100% - 0.5em) 0.5em;
+  background-size: 5px 5px, 5px 5px, 1.5em 1.5em;
+  background-repeat: no-repeat;
+}
+
+.itz-custom-button {
+  border-radius: 2px;
+  border: 1px solid #f2f2f2;
+  height: 2.815rem;
+  margin: 0;
+  padding: 0 1.2rem;
+  font-size: 1rem;
+  transition: background-color 0.2s ease-in, border 0.1s ease-in;
+  width: 100%;
+  appearance: none;
+  text-align: left;
+}
+
+.itz-custom-button-lh {
+  line-height: 2.6875rem;
+}
+
+.itz-minh-product {
+  min-height: 1rem;
+}
+
+.itz-br-custom01 {
+  border-radius: 1rem * 0.125;
+}
+
+.itz-bc-transparent {
+  border-color: transparent !important;
+}
+
+@include media-breakpoint-up(lg) {
+  .itz-mw-45em {
+    max-width: 45em;
+  }
+}
+
+.itz-cursor-pointer {
+  cursor: pointer;
+}
+.itz-cursor-default {
+  cursor: default;
+}
+.itz-w-100 {
+  width: 100%;
+}
+.itz-lh-1 {
+  line-height: 1rem;
+}
+.itz-fw-400 {
+  font-weight: 600;
+}
+
+.itz-border-none {
+  border: none;
+}
+
+// Base class
+//
+// Easily usable on <ul>, <ol>, or <div>.
+
+.itz-list-group {
+  display: flex;
+  flex-direction: column;
+  // No need to set list-style: none; since .list-group-item is block level
+  padding-left: 0; // reset padding because ul and ol
+  margin-bottom: 0;
+}
+// Individual list items
+//
+// Use on `li`s or `div`s within the `.list-group` parent.
+
+.itz-list-group-item {
+  position: relative;
+  display: block;
+}
+
+.itz-list-style {
+  color: $color-light;
+  font-weight: 100;
+  font-size: $h5-font-size;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.itz-list-style-square {
+  list-style-type: square;
+}
+
+.itz-custom-padding08 {
+  padding: 0 0.8rem;
+}
+
+@include media-breakpoint-up(lg) {
+  .itz-mw-45em {
+    max-width: 45em;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .itz-pb-025rem {
+    padding-bottom: 0.25rem !important;
+  } 
+}

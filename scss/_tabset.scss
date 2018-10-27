@@ -1,0 +1,105 @@
+/*********************
+TABSET
+*********************/
+
+.itz-tabset {
+  display: block; 
+  position: relative; 
+  clear:both;
+  
+  .itz-tabsList {
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding-inline-start: 0;
+    li {
+      position: relative; /*for z-index*/
+      float: left;
+      margin: 0 .5rem 0 0;
+      z-index: 10; 
+      min-height: 1.9rem;
+      a {
+        background-color: transparent;
+        padding: 0.45rem 1.75rem;
+        position: static;
+        cursor: pointer;
+        font-weight: bold;
+        transition: color 0.05s ease-in;
+        margin: 0;
+        color: $color-secondary-gray-AA;
+      }
+      &:hover:not(.itz-current):not(#itz-logout-link) {
+        border-bottom: 2px solid $color-secondary-gray-AA;
+      }
+      &.itz-current {
+        z-index: 10;
+        border-bottom: 2px solid $color-primary-blue;
+        &:hover {
+          color: $color-primary-blue;
+        }
+        a, a:active {
+          color: $color-primary-blue;
+          cursor: auto;
+        }
+      }
+    }
+  }
+
+  .itz-tabPanel {
+    position: relative;  /*for z-index*/
+    display: block;
+    visibility: visible;
+    clear: left;
+    overflow: auto;
+    padding: .5em 3em 2em;
+    z-index: 5;
+    min-height: 6rem;
+    // margin-top: 0.35rem;
+    border-radius: 2px;
+    background-color: $color-light;
+    padding: 1rem;
+    // border: 1px solid $color-secondary-gray;
+    &:nth-of-type(n + 3) {
+      display: none;
+    }
+  }
+}
+
+.container-fluid {
+  .itz-items {
+    .itz-misc-item:last-child,
+    .itz-list-item:last-child {
+      border-bottom: none;
+    }
+  }
+  
+}
+
+@include media-breakpoint-down(sm) {
+  .itz-tabset {
+    padding: 0;
+
+    .itz-tabsList {
+      display: block;
+      width: 100%;
+      li {
+        margin: 0 0 0 0;
+        width: 50%;
+        a {
+          display: block;
+          width: 100%;
+          text-align: center;
+        }
+      }
+      li#itz-settings-link {
+        display: none;
+      }
+      #itz-logout-link {
+        display: none;
+      }
+    }
+    .itz-tabPanel {
+      margin: 0;
+    }
+  }
+}

@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Zoll-Auktion - Listenansicht</title>
+    <meta name="description" content="Zoll-Auktion">
+    <meta name="author" content="Tech4Germany">
+    <link rel="stylesheet" href="css/bootstrap-4.1.3/bootstrap-reboot.css?v=2.0">
+    <!-- <link rel="stylesheet" href="slick/slick.css" />
+    <link rel="stylesheet" href="slick/slick-theme.css" /> -->
+    <link rel="stylesheet" href="nouislider/nouislider.min.css">
+    <link rel="stylesheet" href="css/bootstrap-4.1.3/bootstrap-grid.css?v=2.0">
+    <link rel="stylesheet" href="css/bootstrap-custom.css?v=2.0">
+    <link rel="stylesheet" href="css/style.css?v=2.0">
+</head>
+
+<body class="d-flex flex-column itz-minh-100">
+    <a class="sr-only sr-only-focusable itz-bg-primary-gray text-center itz-w-100" href="#itz-main-content" aria-hidden="true">Zum
+        Hauptinahlt springen</a>
+    <header>
+        <div class="container">
+            <div class="row my-3">
+                <!-- Logo -->
+                <div class="col-lg-2 col-md-3 col-5 align-self-end">
+                    <div class="itz-logo">
+                        <h1><a href="index.html" class="itz-link-inherit"><img src="./assets/Logo/zollauktionlogo.svg"
+                                    alt="Startseite Zoll-Auktion" class="itz-img-fluid"></a></h1>
+                    </div>
+                </div>
+                <!-- weitere Elemente -->
+                <div class="col-lg-10 col-md-9 col-7 align-self-center">
+                    <div class="row">
+                        <!-- Barrierefreiheit (Viewport >= lg) -->
+                        <div class="offset-lg-7 col-lg-5 justify-content-around d-none d-lg-block mb-1">
+                            <div class="itz-access-links mb-3">
+                                <a class="itz-link-inherit mr-4" href="leichte-sprache.html">
+                                    <img src="./assets/leichte-sprache.svg" alt="Leichte Sprache" class="itz-img-fluid itz-max-width-20 mr-1">
+                                    <span class="itz-undertitle">Leichte Sprache</span>
+                                </a>
+                                <a class="itz-link-inherit" href="gebaerdensprache.html">
+                                    <img src="./assets/gebaerdensprache.svg" alt="Gebärdensprache" class="itz-img-fluid itz-max-width-20 mr-1">
+                                    <span class="itz-undertitle">Gebärdensprache</span>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- Kategorien, Suche (Viewport >= lg) -->
+                        <div class="col-xl-8 col-lg-7 pr-0 align-bottom d-none d-lg-block pl-lg-5 pr-lg-5">
+                            <div class="row">
+                                <select name="sortieren" id="itz-subcats" class="col-auto itz-form-control itz-bg-light itz-bc-light itz-h7 custom-line-height-45 itz-custom-padding08"
+                                    aria-label="sortieren" style="width:8rem;">
+                                    <option value="sort-1">Kategorien</option>
+                                    <option value="sort-2">Antiquität</option>
+                                    <option value="sort-3">LKW</option>
+                                    <option value="sort-4">Münzen</option>
+                                    <option value="sort-5">Sonstiges</option>
+                                </select>
+
+                                <div class="itz-search-bar-inline col p-0 ml-lg-2">
+                                    <input type="text" class="itz-form-control itz-form-control-gray" placeholder="Suchbegriff eingeben.."
+                                        aria-label="Suchbegriff eingeben">
+                                    <button class="itz-search-btn" aria-label="Suchen">
+                                        <img src="./assets/search-blue.svg" alt="">
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Registrieren & Anmelden (Viewport >= lg) -->
+                        <div class="col-xl-4 col-lg-5 col-12 align-self-end d-none d-lg-block">
+                            <div class="itz-float-right">
+                                <button class="itz-btn itz-btn-outline-primary-blue itz-btn-fixed-size mr-2">Registrieren</button>
+                                <button class="itz-btn itz-btn-primary-blue itz-btn-fixed-size">Anmelden</button>
+                            </div>
+                        </div>
+                        <!-- Benutzerkonto (Viewport >= lg) -->
+                        <!-- <div class="col-xl-4 col-lg-5 col-12 d-none d-lg-block">
+                            <a class="itz-my-account" href="">
+                                <span>
+                                    <span class="itz-h7">Mein Konto</span>
+                                    <img src="./assets/account.svg" alt="">
+                                    <span class="itz-notification itz-notification-circle"></span>
+                                </span>
+                            </a>
+                        </div> -->
+                        <!-- Suche & Benutzerkonto (mobil) -->
+                        <div class="col-12 d-lg-none d-md-block itz-clearfix">
+                            <div class="itz-float-right">
+                                <img src="./assets/search-blue.svg" alt="" class="mx-3">
+                                <a href="" class="itz-my-account">
+                                    <span>
+                                        <img src="./assets/account-blue.svg" alt="" class="mx-3">
+                                        <span class="d-none">Benutzerkonto</span>
+                                        <!-- <span class="itz-notification itz-notification-circle"></span> -->
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="d-flex flex-grow-1 itz-bg-primary-gray" id="itz-main-content">
+        <div class="d-flex flex-column container">
+            <!-- Breadcrumbs -->
+            <div class="row mt-3 mt-lg-4 d-none d-lg-block mx-1 itz-undertitle">
+                <a href="./landingpage.html">
+                    Startseite </a>/ Listenansicht
+            </div>
+            <!-- Headline (Viewport >= lg) -->
+            <div class="row mb-2 mb-lg-2 mx-1 d-none d-lg-block">
+                <h2 class="itz-h1 d-inline">Laufende Auktionen</h2>
+                <h3 class="itz-h5 d-inline itz-txt-secondary-gray-AA ml-2">99 Ergebnisse</h3>
+            </div>
+            <!-- Headline (mobil) -->
+            <div class="row mt-3 mb-2 mt-lg-4 mb-lg-3 mx-1 d-block d-lg-none">
+                <h2 class="itz-h1 mb-0">Auktionen</h2>
+                <h3 class="itz-h5 itz-bc-secondary-gray-AA-mobile">99 Ergebnisse</h3>
+            </div>
+            <!-- Filtern, erweiterte Suche, Sortieren -->
+            <div class="row itz-bg-light">
+                <div class="col-6 col-lg-3 itz-bb-2 itz-br-2 align-items-center">
+                    <div class="row align-items-center h-100">
+                        <div class="col-12 d-none d-lg-block itz-body-big itz-uppercase">Filtern</div>
+                        <!-- Filtern (mobil)-->
+                        <div class="col-12 d-block d-lg-none px-0">
+                            <button name="category" class="itz-custom-button itz-itz-custom-button-control itz-bg-light itz-bc-light">
+                                <span class="itz-custom-button-lh-custom01">Filter <span class="ml-custom01 itz-counter">4</span></span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <!-- erweiterte Suche (dekstop) -->
+                <div class="col-6 d-none d-lg-block itz-bb-2 itz-br-2 px-0">
+                    <div class="itz-search-bar-inline">
+                        <input type="text" class="itz-form-control itz-bc-transparent" aria-label="Suchebegriff"
+                            placeholder="Suchbegriff hinzufügen...">
+                        <button class="itz-add-btn" aria-label="Suche verfeinern">
+                            <strong>&#43;</strong>
+                        </button>
+                    </div>
+                </div>
+                <!-- Sortieren -->
+                <div class="col-6 col-lg-3 itz-bb-2 itz-body-big itz-uppercase itz-line-height-1375">
+                    <div class="row align-items-center h-100">
+                        <div class="col-12 px-0">
+                            <select name="sortieren" id="sortieren" class="itz-form-control itz-bg-light itz-bc-light"
+                                aria-label="sortieren">
+                                <option value="sort-1">Sortieren nach</option>
+                                <option value="sort-2">Neueste zuerst</option>
+                                <option value="sort-3">Älteste zuerst</option>
+                                <option value="sort-4">Preis (niedrig - hoch)</option>
+                                <option value="sort-5">Preis (hoch - niedrig)</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row flex-grow-1 itz-bg-light">
+                <!-- Filteroptionen (Viewport >= lg) -->
+                <div class="col-3 d-none d-lg-block itz-br-2">
+                    <!-- Kategorie -->
+                    <div class="itz-filter-section py-3 itz-bb-2">
+                        <label for="category">
+                            <span class="mb-2 itz-h6">Kategorie</span>
+                        </label>
+                        <select name="category" id="category" class="itz-form-control itz-bg-primary-blue itz-txt-light itz-custom-dropdown-color">
+                            <option value="cat-1">Antiquität</option>
+                            <option value="cat-2">Antiquität</option>
+                            <option value="cat-3">Antiquität</option>
+                        </select>
+                    </div>
+                    <!-- Unterkategorien -->
+                    <input type="checkbox" class="itz-read-more-state" id="itz-subkategorien" />
+                    <div class="itz-filter-section py-3 itz-bb-2 itz-read-more-wrap">
+
+                        <div class="mb-2 itz-h6">Unterkategorien</div>
+                        <div class="itz-checkbox-group">
+                            <label class="itz-form-check">
+                                One
+                                <input type="checkbox" checked="checked">
+                                <span class="itz-checkmark"></span>
+                            </label>
+                            <div class="itz-child">
+                                <label class="itz-form-check">
+                                    Child
+                                    <input type="checkbox">
+                                    <span class="itz-checkmark"></span>
+                                </label>
+                            </div>
+                            <div class="itz-child">
+                                <label class="itz-form-check">
+                                    Child
+                                    <input type="checkbox" checked="checked">
+                                    <span class="itz-checkmark"></span>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="itz-checkbox-group">
+                            <label class="itz-form-check">
+                                Two
+                                <input type="checkbox">
+                                <span class="itz-checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="itz-checkbox-group">
+                            <label class="itz-form-check">
+                                Two
+                                <input type="checkbox">
+                                <span class="itz-checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="itz-checkbox-group">
+                            <label class="itz-form-check">
+                                Three
+                                <input type="checkbox">
+                                <span class="itz-checkmark"></span>
+                            </label>
+                            <div class="itz-child">
+                                <label class="itz-form-check">
+                                    Child
+                                    <input type="checkbox">
+                                    <span class="itz-checkmark"></span>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="itz-checkbox-group itz-read-more-target">
+                            <label class="itz-form-check">
+                                Four
+                                <input type="checkbox" aria-hidden="true">
+                                <span class="itz-checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="itz-checkbox-group itz-read-more-target">
+                            <label class="itz-form-check">
+                                Five
+                                <input type="checkbox" aria-hidden="true">
+                                <span class="itz-checkmark"></span>
+                            </label>
+                        </div>
+                        <!-- Alle anzeigen -->
+                        <label for="itz-subkategorien" class="itz-read-more-trigger itz-txt-primary-blue"><span class="d-none">Alle
+                                anzeigen</span></label>
+                    </div>
+                    <!-- Umkreis Filter -->
+                    <div class="itz-filter-section py-3 itz-bb-2 clearfix">
+                        <div class="mb-2 itz-h6">Umkreissuche</div>
+                        <div class="itz-input-group-inline">
+                            <label for="itz-input-plz">Postleitzahl</label>
+                            <input type="text" class="itz-form-control" id="itz-input-plz" placeholder="80331"
+                                aria-label="Postleitzahl">
+                        </div>
+                        <div class="itz-input-group-inline">
+                            <label for="itz-input-km">Umkreis</label>
+                            <input type="text" class="itz-form-control" id="itz-input-km" placeholder="200km"
+                                aria-label="Umkreis in Kilometer">
+                        </div>
+                        <div id="itz-range-slider-km"></div>
+                    </div>
+                    <!-- Preis Filter -->
+                    <div class="itz-filter-section py-3 itz-bb-2 clearfix">
+                        <div class="mb-2 itz-h6">Preisfilter</div>
+                        <div class="itz-input-group-inline">
+                            <label for="itz-input-euro-min">EUR von</label>
+                            <input type="text" class="itz-form-control" id="itz-input-euro-min" name="price-start"
+                                placeholder="0" aria-label="Preis Minimum">
+                            <!-- <input type="range" id="itz-price-start" name="price-start" class="form-range" min="0" max="100" value="0" > -->
+                        </div>
+                        <div class="itz-input-group-inline">
+                            <label for="itz-input-euro-max">EUR bis</label>
+                            <input type="text" class="itz-form-control" id="itz-input-euro-max" placeholder="100"
+                                aria-label="Preis Maximum">
+                        </div>
+                        <div id="itz-range-slider-euro"></div>
+                    </div>
+                    <!-- weitere Filteroptionen -->
+                    <div class="itz-filter-section py-3 itz-bb-2">
+                        <div class="mb-2 itz-h6">Transport</div>
+                        <div class="itz-checkbox-group">
+                            <label class="itz-form-check">
+                                Abholung
+                                <input type="checkbox">
+                                <span class="itz-checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="itz-checkbox-group">
+                            <label class="itz-form-check">
+                                Versand
+                                <input type="checkbox">
+                                <span class="itz-checkmark"></span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <!-- Ergebnisse, Tags -->
+                <div class="col-12 col-lg-9" id="listen-ansicht">
+                    <div class="container-fluid">
+                        <!-- Tags -->
+                        <div class="row itz-bb-2 py-3">
+                            <div class="col-auto itz-filter-tag mr-2">
+                                <a href="">
+                                    <img src="./assets/x-icon.svg" alt="Kreuz">
+                                </a>
+                                <span> Abholung</span>
+                            </div>
+                            <div class="col-auto itz-filter-tag">
+                                <a href="">
+                                    <img src="./assets/x-icon.svg" alt="Kreuz">
+                                </a>
+                                <span>EUR 0 - EUR 455</span>
+                            </div>
+                        </div>
+                        <!-- Suchergebnisse -->
+                        <div class="itz-items">
+                            <div class="row itz-list-item">
+                                <div class="col-xl-2 col-lg-3 col-4 itz-list-item-pic">
+                                    <img src="./assets/auk2.png" alt="" class="itz-img-fluid">
+                                </div>
+                                <div class="col-xl-8 col-lg-7 col-8 itz-list-item-content">
+                                    <h4 class="itz-p mb-0"><a href="">1 Posten Skatepark Elemente sadfasdfasdf
+                                            "Pyramide mit schräger Lorem</a></h4>
+                                    <div class="itz-list-item-price">
+                                        <p class="itz-custom-price mb-0">1000,00 EUR</p>
+                                        <span class="itz-bids">99 Gebote</span>
+                                        <div>30T 22Std 59 Min</div>
+                                        <div class="itz-shipping">
+                                            Abholung / Versand
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2">
+                                    <a class="itz-bookmark">
+                                        <span> </span>
+                                        <img src="./assets/star.svg" alt="Stern">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="row itz-list-item">
+                                <div class="col-xl-2 col-lg-3 col-4 itz-list-item-pic">
+                                    <img src="./assets/auk2.png" alt="" class="itz-img-fluid">
+                                </div>
+                                <div class="col-xl-8 col-lg-7 col-8 itz-list-item-content">
+                                    <h4 class="itz-p mb-0"><a href="">1 Posten Skatepark Elemente sadfasdfasdf
+                                            "Pyramide mit schräger Lorem</a></h4>
+                                    <div class="itz-list-item-price">
+                                        <p class="itz-custom-price mb-0">1000,00 EUR</p>
+                                        <span class="itz-bids">99 Gebote</span>
+                                        <div>30T 22Std 59 Min</div>
+                                        <div class="itz-shipping">
+                                            Abholung / Versand
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2">
+                                    <a class=" itz-bookmark">
+                                        <span> </span>
+                                        <img src="./assets/star.svg" alt="Stern">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="row itz-list-item">
+                                <div class="col-xl-2 col-lg-3 col-4 itz-list-item-pic">
+                                    <img src="./assets/auk2.png" alt="" class="itz-img-fluid">
+                                </div>
+                                <div class="col-xl-8 col-lg-7 col-8 itz-list-item-content">
+                                    <h4 class="itz-p mb-0"><a href="">1 Posten Skatepark Elemente sadfasdfasdf
+                                            "Pyramide mit schräger Lorem</a></h4>
+                                    <div class="itz-list-item-price">
+                                        <p class="itz-custom-price mb-0">1000,00 EUR</p>
+                                        <span class="itz-bids">99 Gebote</span>
+                                        <div>30T 22Std 59 Min</div>
+                                        <div class="itz-shipping">
+                                            Abholung / Versand
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2">
+                                    <a class=" itz-bookmark">
+                                        <span> </span>
+                                        <img src="./assets/star.svg" alt="Stern">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="row itz-list-item">
+                                <div class="col-xl-2 col-lg-3 col-4 itz-list-item-pic">
+                                    <img src="./assets/auk2.png" alt="" class="itz-img-fluid">
+                                </div>
+                                <div class="col-xl-8 col-lg-7 col-8 itz-list-item-content">
+                                    <h4 class="itz-p mb-0"><a href="">1 Posten Skatepark Elemente sadfasdfasdf
+                                            "Pyramide mit schräger Lorem</a></h4>
+                                    <div class="itz-list-item-price">
+                                        <p class="itz-custom-price mb-0">1000,00 EUR</p>
+                                        <span class="itz-bids">99 Gebote</span>
+                                        <div>30T 22Std 59 Min</div>
+                                        <div class="itz-shipping">
+                                            Abholung / Versand
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2">
+                                    <a class=" itz-bookmark">
+                                        <span> </span>
+                                        <img src="./assets/star.svg" alt="Stern">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="row itz-list-item">
+                                <div class="col-xl-2 col-lg-3 col-4 itz-list-item-pic">
+                                    <img src="./assets/auk2.png" alt="" class="itz-img-fluid">
+                                </div>
+                                <div class="col-xl-8 col-lg-7 col-8 itz-list-item-content">
+                                    <h4 class="itz-p mb-0"><a href="">1 Posten Skatepark Elemente sadfasdfasdf
+                                            "Pyramide mit schräger Lorem</a></h4>
+                                    <div class="itz-list-item-price">
+                                        <p class="itz-custom-price mb-0">1000,00 EUR</p>
+                                        <span class="itz-bids">99 Gebote</span>
+                                        <div>30T 22Std 59 Min</div>
+                                        <div class="itz-shipping">
+                                            Abholung / Versand
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2">
+                                    <a class=" itz-bookmark">
+                                        <span> </span>
+                                        <img src="./assets/star.svg" alt="Stern">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="itz-pagination my-3">
+                        <div>
+                            <a href="">
+                                <img src="./assets/pager-pfeil-links.svg" alt="Pfeil Links">
+                            </a>
+                            <a href="#">1</a>
+                            <a href="#">...</a>
+                            <a href="#">3</a>
+                            <a href="#" class="itz-active">4</a>
+                            <a href="#">5</a>
+                            <a href="#">...</a>
+                            <a href="#">7</a>
+                            <a href="">
+                                <img src="./assets/pager-pfeil-rechts.svg" alt="Pfeil Rechts">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <!-- blauer Bereich -->
+        <div class="container-fluid itz-bg-primary-blue itz-txt-light px-0 py-3">
+            <div class="container">
+                <div class="row">
+                    <!-- Versteigerungsbedingungen -->
+                    <div class="col-12">
+                        <a class="itz-link-inherit itz-list-group itz-list-group-item" href="versteigerungsbedingungen.html">Versteigerungsbedingungen</a>
+                    </div>
+                </div>
+                <div class="row justify-content-between">
+                    <!-- Kontakt, Hilfe -->
+                    <div class="col-auto">
+                        <a class="itz-link-inherit itz-list-group itz-list-group-item" href="kontakt.html">Kontakt</a><br />
+                        <a class="itz-link-inherit itz-list-group itz-list-group-item" href="hilfe.html">Hilfe</a>
+                    </div>
+                    <!-- Barrierefreiheit (mobil) -->
+                    <div class="col-auto d-block d-lg-none align-self-end">
+                        <a class="itz-link-inherit">
+                            <img src="./assets/gebaerdensprache-w.svg" alt="" class="itz-img-fluid itz-max-width-20">
+                            <span class="itz-undertitle d-none">Leichte Sprache</span>
+                        </a>
+                        <a class="itz-link-inherit ml-custom34">
+                            <img src="./assets/leichte-sprache-w.svg" alt="" class="itz-img-fluid itz-max-width-20">
+                            <span class="itz-undertitle d-none">Gebärdesprache</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- weißer Bereich -->
+        <div class="container py-3">
+            <div class="row justify-content-between mb-3">
+                <!-- Logo -->
+                <div class="col-6 col-lg-auto pt-2">
+                    <img src="./assets/logo.svg" alt="Generalzolldirektion" class="itz-logo-width">
+                </div>
+                <!-- Datenschutz, Impressum, Sitemap -->
+                <div class="col-auto">
+                    <a class="itz-link-inherit itz-list-group itz-list-group-item" href="datenschutz.html">Datenschutz</a><br />
+                    <a class="itz-link-inherit itz-list-group itz-list-group-item" href="impressum.html">Impressum</a><br />
+                    <a class="itz-link-inherit itz-list-group itz-list-group-item mt-3" href="sitemap.html">Sitemap</a>
+                </div>
+            </div>
+            <!-- Copyright -->
+            <div class="row justify-content-end">
+                <div class="col-auto">
+                    &copy; Bundesministerium der Finanzen
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- JS -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/scripts.js"></script>
+    <script src="slick/slick.js"></script>
+    <script src="nouislider/nouislider.min.js"></script>
+    <script>
+        var html5Slider = document.getElementById('itz-range-slider-euro');
+
+        noUiSlider.create(html5Slider, {
+            start: [0, 8000],
+            behaviour: 'tap-drag',
+            connect: true,
+            range: {
+                'min': 0,
+                'max': 10000
+            }
+        });
+
+        var inputEuroMin = document.getElementById('itz-input-euro-min');
+        var inputEuroMax = document.getElementById('itz-input-euro-max');
+
+        html5Slider.noUiSlider.on('update', function (values, handle) {
+
+            var value = values[handle];
+
+            if (handle) {
+                inputEuroMax.value = Math.round(value);
+            } else {
+                inputEuroMin.value = Math.round(value);
+            }
+        });
+
+        inputEuroMin.addEventListener('change', function () {
+            html5Slider.noUiSlider.set([this.value, null]);
+        });
+
+        inputEuroMax.addEventListener('change', function () {
+            html5Slider.noUiSlider.set([null, this.value]);
+        });
+
+        // KM Slider
+        var html5Slider = document.getElementById('itz-range-slider-km');
+
+        noUiSlider.create(html5Slider, {
+            start: 50,
+            behaviour: 'tap-drag',
+            connect: true,
+            range: {
+                'min': 0,
+                'max': 500
+            }
+        });
+
+        var inputKm = document.getElementById('itz-input-km');
+
+        html5Slider.noUiSlider.on('update', function (values, handle) {
+
+            var value = values[handle];
+
+            if (handle) {
+
+            } else {
+                inputKm.value = Math.round(value);
+            }
+        });
+
+        inputKm.addEventListener('change', function () {
+            html5Slider.noUiSlider.set([this.value, null]);
+        });
+    </script>
+</body>
+
+</html>

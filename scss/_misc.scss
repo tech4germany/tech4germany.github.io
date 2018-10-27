@@ -1,0 +1,459 @@
+/*********************
+Zoll-Auktion Spezifische Komponente
+*********************/
+
+.itz-top-auktion-item {
+  width: 18rem !important;
+  height: 17rem;
+  // border-bottom: 2px solid $color-secondary-gray;
+  // border-right: 2px solid $color-secondary-gray;
+  background-color: $color-light;
+  padding: 1rem;
+  margin: 0 auto;
+  display: block !important;
+
+  // &:hover {
+  //   // border-bottom-color: $color-primary-blue;
+  //   // border-right-color: $color-primary-blue;
+  // }
+
+  .itz-head {
+    position: relative;
+    .itz-undertitle {
+      color: $color-secondary-gray-AA; // 6d6d6d
+    }
+  }
+
+  .itz-title {
+    height: 3.3rem;
+    padding-top: 0.1rem;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 100%;
+    white-space: normal;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+  .itz-price {
+    span {
+      float: right;
+      margin-block-start: 0.5em;
+      margin-block-end: 0.5em;
+    }
+  }
+  .itz-pictures {
+    display: flex;
+    height: 7rem;
+    align-items: center;
+    justify-content: space-between;
+    img {
+      width: 7.5rem;
+      height: auto;
+    }
+    min-height: 2rem;
+  }
+}
+
+@include media-breakpoint-down(lg) {
+  .itz-top-auktion-item {
+    margin: 1rem;
+  }
+}
+
+.itz-bid-window {
+  height: auto;
+  width: 100%;
+  text-align: center;
+  align-content: center;
+  margin: 1rem 0;
+  position: relative;
+
+  .itz-more-info {
+    position: absolute;
+    top: 0.5rem;
+    left: 1rem;
+    text-align: left;
+
+    .itz-info-icon {
+      left: 1rem;
+    }
+
+    .itz-info-text {
+      display: none;
+      font-weight: normal;
+      border: 1px solid $color-secondary-gray;
+      background-color: white;
+      padding: 0.5rem 0.5rem;
+      position: absolue;
+      bottom: -50px;
+      border-radius: 4px;
+      max-width: 75%;
+      &:before {
+        content: " ";
+        border-bottom: 1px solid $color-secondary-gray;
+        border-right: 1px solid $color-secondary-gray;
+        border-left: none;
+        border-top: none;
+        display: inline-block;
+        padding: 3px;
+        background-color: white;
+        transform: rotate(-135deg);
+        -webkit-transform: rotate(-135deg);
+        position: relative;
+        bottom: 20px;
+      }
+    }
+    &:hover .itz-info-text {
+      display: block;
+    }
+  }
+  .itz-current-bid {
+    padding: 1rem;
+    p {
+      margin-block-start: 0;
+      margin-block-end: 0;
+    }
+    h3 {
+      margin: 0;
+    }
+  }
+
+  .itz-bid-now {
+    position: relative;
+    width: 75%;
+    margin: 0 auto;
+    input {
+      &::placeholder {
+        text-align: center;
+      }
+      margin-bottom: 0;
+    }
+    p {
+      margin span {
+        vertical-align: middle;
+        display: inline-block;
+        color: $color-primary-blue;
+      }
+      img {
+        height: 100%;
+        display: inline-block;
+        vertical-align: middle;
+      }
+    }
+  }
+  .itz-bid-info {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    p {
+      display: flex;
+      justify-content: space-between;
+      margin: 0 0;
+    }
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .itz-bid-window {
+    .itz-bid-now {
+      width: 90%;
+    }
+    .itz-more-info {
+      display: none;
+    }
+  }
+}
+
+.itz-filter-tag {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
+  font-size: 0.875rem;
+  border-radius: 1rem;
+  border: 1px solid $color-dark;
+  background-color: $color-light;
+  color: $color-dark;
+  vertical-align: middle;
+  text-transform: uppercase;
+  img {
+    width: 0.8rem;
+    padding-bottom: 1px;
+    padding-right: 4px;
+  }
+}
+
+// .itz-custom-gradient-blue {
+//   background: linear-gradient(
+//     to bottom,
+//     $color-primary-blue 0%,
+//     $color-primary-blue 75%,
+//     rgba(255, 255, 255, 0) 75%,
+//     rgba(255, 255, 255, 0) 100%
+//   );
+// }
+
+
+.itz-my-account {
+  line-height: 2.812rem;
+  color: $color-primary-blue;
+  position: absolute;
+  right: 1rem;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.itz-notification-circle {
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 25px;
+  background: $color-red;
+  border: 2px solid white;
+  padding: 0;
+  margin: 0;
+
+  display: inline-block;
+  position: absolute;
+  right: -0.05rem;
+  top: 0.45rem;
+}
+
+@include media-breakpoint-down(md) {
+  .itz-my-account {
+    line-height: 2.812rem;
+    color: $color-primary-blue !important;
+    position: relative;
+    right: 0;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  .itz-notification-circle {
+    right: .9rem;
+    top: -.3rem;
+  }
+}
+
+/*********************
+CATEGORY
+*********************/
+.itz-category-item {
+  position: relative;
+  height: 6.5rem;
+  border-radius: 2px;
+  border: 1px solid $color-light;
+  border-bottom: 3px solid $color-dark;
+  margin: 1rem 0;
+  padding-left: 2.375rem;
+  padding-right: 1rem;
+  width: 100%;
+  background-color: $color-light;
+  cursor: pointer;
+  color: $color-dark;
+
+  h3 {
+    position: absolute;
+    bottom: 0rem;
+    max-width: 75%;
+    font-size: $h5-font-size;
+  }
+
+  span.itz-category-pic {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+  &:hover {
+    background-color: $color-primary-gray;
+    // border: 1px solid $color-primary-blue;
+    border-bottom: 3px solid $color-dark;
+  }
+}
+
+.itz-category-show-all {
+  text-align: center;
+  width: 100%;
+}
+
+@include media-breakpoint-down(md) {
+  .itz-category-item {
+    margin: 0;
+    padding-left: 1.5rem;
+    // height: 4.2rem;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .itz-category-item {
+    padding-left: 1rem;
+  }
+  h3 {
+    font-size: $h5-font-size;
+  }
+}
+
+/*********************
+LIST-ITEMS
+*********************/
+.itz-misc-item {
+    padding: 1rem;
+    border-bottom: 1px solid $color-secondary-gray;
+
+    .itz-misc-pic {
+        img {
+            height: auto;
+            width: 100%;
+        }
+    }
+
+    .itz-misc-content {
+        .itz-misc-price {
+            font-weight: bold;
+        }
+    }
+}
+
+.itz-list-item {
+    padding: 1rem;
+    border-bottom: 1px solid $color-secondary-gray;
+
+    .itz-list-item-pic {
+        padding: 0;
+    }
+    .itz-list-item-content {
+        .itz-list-item-price {
+            position: relative;
+            bottom: 0;
+            h4 {
+                margin-bottom: 0;
+            }
+            .itz-bids {
+                color: $color-secondary-gray-AA;
+            }
+        }
+    }
+}
+
+.itz-btn {    
+    .itz-bookmark {
+        position: relative;
+    }
+}
+.itz-bookmark-remove {
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+    span {
+        position: relative;
+        color: $color-secondary-gray-AA;
+        right: 4px;
+    }
+}
+.itz-bookmark{
+    font-size: $h7-font-size;
+    position: absolute;
+    right:0;
+    cursor: pointer;
+    span {
+        // margin-right: .5rem;
+        position: relative;
+        bottom: -2px;
+        // right: px;
+        color: $color-secondary-gray;
+        &::after {
+            content: "Merken";
+        }
+    }
+    img {
+        width: 25px;
+        height: 25px;
+        padding: 25px 25px 0 0;
+        background-image: url('../assets/star.svg');
+        // background-size: 25px auto;
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+}
+
+.itz-bookmark-selected {
+    span {
+        color: #e59c00;
+    }
+    span::after {
+        content: "Gemerkt";
+    }
+
+    img {
+        background-image: url('../assets/star-yellow.svg'); 
+    }
+}
+
+@include media-breakpoint-down(md) {
+    .itz-list-item {
+        padding: .5rem;
+        .itz-bookmark,
+        .itz-bookmark-remove {
+            bottom: .2rem;
+            span {
+                display: none;
+            }
+        }
+        .itz-list-item-content {
+            .itz-list-item-price {
+                position: relative;
+                left: 0;
+            }
+        }
+    }
+} 
+
+@include media-breakpoint-down(sm) {
+    .itz-shipping {
+        display: none;
+    }
+}
+
+
+// noUI Slider
+
+#itz-range-slider-euro, #itz-range-slider-km {
+  margin-top: 0.5rem;
+}
+
+.noUi-target {
+  border: 0px solid #D3D3D3;
+}
+
+.noUi-connect {
+  background: $color-primary-blue;
+}
+
+.noUi-origin {
+  top: -2px;
+}
+
+.noUi-horizontal {
+  height: 0.25rem;
+}
+
+
+
+.noUi-handle {
+  border: 0.125rem solid $color-primary-blue;
+  border-radius: 50px;
+  background: #fff;
+  cursor: default;
+  box-shadow: inset 0 0 1px #fff, inset 0 1px 7px #ebebeb, 0 3px 6px -3px #bbb;
+}
+
+.noUi-horizontal .noUi-handle {
+  width: 20px;
+  height: 20px;
+}
+
+.noUi-handle:after, .noUi-handle:before {
+  display: none;
+}

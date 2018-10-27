@@ -1,0 +1,237 @@
+/*********************
+FORMS
+*********************/
+.itz-form-control {
+  border-radius: 2px;
+  border: 1px solid $color-primary-gray;
+  height: 2.815rem;
+  margin: 0;
+  padding: 0 1.2rem;
+  font-size: $h6-font-size;
+  transition: background-color 0.2s ease-in, border 0.1s ease-in;
+  width: 100%;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  &:hover:not([disabled]),
+  &:focus:not([disabled]) {
+    background-color: white;
+  }
+  &:disabled {
+    background-color: $color-secondary-gray;
+    color: $color-dark;
+
+    &::placeholder {
+      color: $color-dark;
+    }
+  }
+}
+
+select.itz-form-control {
+  &::-ms-expand {
+    display:none;
+  }
+  background-image:
+    linear-gradient(45deg, transparent 50%, $color-dark 50%),
+    linear-gradient(135deg, $color-dark 50%, transparent 50%);
+  background-position:
+    calc(100% - 20px) calc(1em + 5px),
+    calc(100% - 15px) calc(1em + 5px),
+    calc(100% - .5em) .5em;
+  background-size:
+    5px 5px,
+    5px 5px,
+    1.5em 1.5em;
+  background-repeat: no-repeat;
+}
+
+.itz-custom-dropdown-color {
+  background-image:
+    linear-gradient(45deg, transparent 50%, $color-light 50%),
+    linear-gradient(135deg, $color-light 50%, transparent 50%) !important;
+}
+
+.itz-form-control-gray {
+  border: 1px solid $color-primary-gray;
+  background-color: $color-primary-gray;
+}
+
+.itz-checkbox-group {
+  // height: 2rem;
+  .itz-child {
+    padding-left: 2rem;
+  }
+  .itz-child:first-of-type {
+    padding-top: .1rem;
+  }
+  .itz-child:last-of-type {
+    padding-bottom: .1rem;
+  }
+}
+
+.itz-input-group {
+  padding-bottom: 0.5rem;
+}
+
+.itz-form-check {
+  display: inline-block;
+  position: relative;
+  padding-left: 2rem;
+  padding-top: 0.3rem;
+  cursor: pointer;
+  font-size: $h6-font-size;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  line-height: 1rem;
+
+  input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+
+    &:checked ~ .itz-checkmark,
+    &:checked ~ .itz-radiomark {
+      background-color: $color-primary-blue;
+      color: $color-light;
+      border-color: $color-primary-blue;
+    }
+    &:checked ~ .itz-checkmark:after,
+    &:checked ~ .itz-radiomark:after {
+      display: block;
+    }
+    &:focus ~ .itz-checkmark,
+    &:focus ~ .itz-radiomark {
+      outline: 1px dotted #212121;
+      outline: 5px auto -webkit-focus-ring-color;
+    }
+  }
+
+  .itz-checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: $color-light;
+    border: 2px solid $color-secondary-gray;
+
+    &:after {
+      content: "";
+      position: absolute;
+      display: none;
+    }
+
+    &:after {
+      left: 0.43rem;
+      top: 0.17rem;
+      width: 0.5rem;
+      height: 0.8rem;
+      border: solid $color-light;
+      border-width: 0 3px 3px 0;
+      -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      transform: rotate(45deg);
+    }
+  }
+
+  .itz-radiomark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 1.625rem;
+    width: 1.625rem;
+    border: 2px solid $color-secondary-gray;
+    border-radius: 50%;
+    background-color: $color-light;
+
+    &:after {
+      content: "";
+      position: absolute;
+      display: none;
+    }
+
+    &:after {
+      top: 0.437rem;
+      left: 0.437rem;
+      width: 0.5rem;
+      height: 0.5rem;
+      border-radius: 50%;
+      background: $color-light;
+    }
+  }
+}
+
+.itz-search-bar-inline {
+  position: relative;
+  .itz-search-btn {
+    position: absolute;
+    bottom: 0rem;
+    right: 0;
+    height: 2.812rem;
+    background-color: transparent;
+    border: none;
+    width: 3.5rem;
+  }
+  .itz-add-btn {
+    @extend .itz-search-btn;
+    font-size: 1.4rem;
+    color: $color-dark;
+  }
+}
+
+.itz-search-bar {
+  position: relative;
+
+  input {
+    display: inline-block;
+    width: 80%;
+    margin-right: 0;
+    margin-top: 0;
+    border-bottom: 2px solid $color-primary-blue;
+  }
+
+  .itz-search-btn {
+    display: inline-block;
+    position: absolute;
+    margin-left: 0.5rem;
+    border: none;
+    width: 20%;
+    height: 2.8rem;
+    font-size: $h6-font-size;
+    line-height: 45px;
+    img {
+      width: 25px;
+      height: 25px;
+      margin-bottom: .25rem;
+    }
+    label {
+      margin-left: 0.5rem;
+    }
+  }
+}
+
+.itz-input-group-inline {
+  position: relative;
+  @extend .clearfix;
+
+  label {
+    width: 40%;
+    line-height: 2.75rem;
+  }
+
+  input.itz-form-control {
+    width: 55%;
+    float: right;
+  }
+  
+}
+@include media-breakpoint-down(lg) {
+  .itz-search-btn {
+    label {
+      display: none;
+    }
+  }
+}

@@ -1,8 +1,3 @@
-# dev.tech4germany.org
+# Tech4Germany Archiv
 
-Go back to [www.tech4germany.org](https://www.tech4germany.org) or check out our dev projects.
-
-## Zoll 2018
-
-- [Website](https://dev.tech4germany.org/zoll-auktion.de/)
-- [Styleguide](https://dev.tech4germany.org/zoll2018styleguide/)
+Go back to [https://digitalservice.bund.de/fellowships/tech4germany](https://digitalservice.bund.de/fellowships/tech4germany) or check out our dev projects.

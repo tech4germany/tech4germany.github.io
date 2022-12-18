@@ -1,0 +1,12 @@
+.bg-primary {
+  background-color: #4265ff !important;
+  background-image: none;
+}
+
+a {
+  color: #4265ff;
+}
+
+a:hover {
+  color: #555b62;
+}

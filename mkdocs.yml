@@ -5,4 +5,8 @@ plugins:
   - search:
       min_search_length: 3
       lang: de
-theme: material
+theme:
+  name: material
+  font:
+    text: inter
+  logo: Logo/Logo-t4g-00x109.png

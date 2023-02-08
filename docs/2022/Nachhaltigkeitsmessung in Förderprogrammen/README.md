@@ -32,30 +32,31 @@ Der SDG-Checker ist ein "Conversation-Starter" auf dem Weg zu einer größeren V
 Der SDG-Checker ist ein Schritt auf dem Weg, um die SDGs in der Projektgestaltung zu operationalisieren und Nachhaltigkeit zu einer Priorität in der Politik zu machen. Begleiten Sie uns auf dem Weg in eine nachhaltigere Zukunft!
 
 
-# Team
 
-![alt](Anna_Rojan__tech4germany_Final.jpg) \
-#### **Anna Rojan**
-Product Fellow
+##### Team
 
-![alt](Sundus_Sherif__tech4germany_Final) \
-#### **Sundus Sherif **
-Product Fellow
+![alt](Anna_Rojan__tech4germany_Final.jpg) 
+**Anna Rojan
+**/ Product Fellow
 
-![alt](Thomas_Miebach__tech4germany_Final.jpg) \
-#### **Thomas Miebach**
-Design Fellow	
+![alt](Sundus_Sherif__tech4germany_Final.jpg) 
+**Sundus Sherif
+**/ Product Fellow
 
-![alt](Friedrich_Zahn__tech4germany_Final.jpg) \
-#### **Friedrich Zahn**
-Engineering Fellow
+![alt](Thomas_Miebach__tech4germany_Final.jpg) 
+**Thomas Miebach 
+**/ Design Fellow	
+
+![alt](Friedrich_Zahn__tech4germany_Final.jpg) 
+**Friedrich Zahn 
+**/ Engineering Fellow
 
 
 # Projektpartner
 
-![alt](AA_Nele_Heinevetter_Final.jpg) \
+![alt](AA_Nele_Heinevetter_Final.jpg) 
 #### **Nele Heinvetter**
 
-![alt](AA_Valerie_Scherf_Final.jpg) \
+![alt](AA_Valerie_Scherf_Final.jpg) 
 #### **Valerie Scherf**
 

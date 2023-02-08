@@ -1,12 +1,9 @@
-# SDG Checker
-
-
-## Projektpartner: Auswärtiges Amt 
+# SDG Checker Auswärtiges Amt 2022
 
 
 # SDG-Checker: Eine Lösung zur Operationalisierung von Nachhaltigkeit im Projektdesign
 
-#### [Der Prototyp](https://dev.tech4germany.org/AZUR-Frontend/)
+#### [Der Prototyp](https://sdg4aal.eu/landingpage)
 #### [GitHub Repository](https://github.com/tech4germany/sdg4aal)
 
 # Einleitung:Nachhaltigkeit in der Politik verankern

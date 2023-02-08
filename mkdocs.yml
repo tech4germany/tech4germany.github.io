@@ -7,6 +7,9 @@ plugins:
       lang: de
 theme:
   name: material
+
   font:
     text: inter
   logo: Logo/Logo-t4g-00x109.png
+
+

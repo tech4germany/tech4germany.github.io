@@ -5,4 +5,6 @@ plugins:
   - search:
       min_search_length: 3
       lang: de
-theme: material
+theme:
+  name: material
+

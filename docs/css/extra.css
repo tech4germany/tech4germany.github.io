@@ -1,12 +1,5 @@
-.bg-primary {
-  background-color: #4265ff !important;
-  background-image: none;
-}
-
-a {
-  color: #4265ff;
-}
-
-a:hover {
-  color: #555b62;
+:root {
+  --md-primary-fg-color:        #FFFFFF;
+  --md-primary-fg-color--light: #E0F0FF;
+  --md-primary-fg-color--dark:  #0000FF;
 }

@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Projekt e-Learning ITZ Bund 2019
 
 
@@ -70,7 +76,7 @@ Case Study zur Vorgehensweise im Projekt “E-Learning Plattform für die E-Akte
 How-To Guide zur Erstellung von Schulungsvideos in Behörden.
 
 
-#### [Download](f2_T4G_Schritt-für-Schritt-Anleitung_Video.pdf) 
+#### [Download](f2_T4G_Schritt-für-Schritt-Anleitung_Video.pdf) 
 
 
 # ProjektTEAM

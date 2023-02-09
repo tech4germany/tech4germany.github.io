@@ -1,7 +1,7 @@
-# Projekt eRechnung ITZ Bund 2019
+# **eRechnung ITZ Bund 2019**
 
 
-# Projekt eRechnung
+
 
 In diesem Projekt haben wir uns aus Nutzer-Sicht mit der Zentralen Rechnungs-Eingangsplattform (ZRE), über welche eRechnungen an öffentliche Auftraggeber versendet werden, beschäftigt und dieses signifikant verbessert.
 

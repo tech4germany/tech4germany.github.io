@@ -1,6 +1,6 @@
 # Home
 
-Zugriff auf die detaillierten Projekte befindet sich in der Navigation für jeden Jahrgang.
+Jahrgang 2019
 
 Das ist Tech4Germany
 Bei Tech4Germany arbeiten die besten Talente und Expert:innen aus den Bereichen Product, Design und Engineering mit digitalen Vorreiter:innen aus Bundesministerien und -behörden an konkreten Digitalvorhaben. In interdisziplinären Teams entwickeln sie mit agilen und nutzerzentrierten Methoden ein tiefes Problem- und Nutzerverständnis und erstellen innerhalb von 3 Monaten prototypische Software-Produkte.

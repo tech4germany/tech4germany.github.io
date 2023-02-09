@@ -7,8 +7,6 @@ hide:
 # Projekt e-Learning ITZ Bund 2019
 
 
-# Projekt E-Learning im Bund
-
 Die IT-Konsolidierung des Bundes bringt einen enormen Schulungsaufwand mit sich. Um allen Mitarbeiter:innen der Verwaltung einen reibungslosen Umstieg zu gewähren sollte E-Learning als wertvolle Chance genutzt werden.
 
 

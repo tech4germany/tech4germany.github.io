@@ -8,12 +8,11 @@ plugins:
 
 theme:
   name: material
-
-
   font:
     text: inter
   logo: Logo/Logo-t4g-00x109.png
-
+  features:
+    - navigation.tabs
 markdown_extensions:
   - md_in_html
 

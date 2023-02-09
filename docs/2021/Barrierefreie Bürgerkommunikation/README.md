@@ -1,4 +1,4 @@
-# Projekt Barrierefreie Bürgerkommunikation Generalzolldirektion & ITZBund 2021
+# **Barrierefreie Bürgerkommunikation Generalzolldirektion & ITZBund 2021**
 
 
 # Hintergrund
@@ -10,31 +10,31 @@
 # Ressourcen** **
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie_Barrierefreie-Buergerkommunikation_barrierefrei.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie_Barrierefreie-Buergerkommunikation_barrierefrei.pdf)
 
 
-#### [Doku (PDF)](f2_Barrierefreie_Buergerkommunikation_Doku.pdf)
+### [Doku (PDF)](f2_Barrierefreie_Buergerkommunikation_Doku.pdf)
 
 
-#### [Leitlinien (PDF)](f3_design-prinzipien_team_gzd_itz-bund-1.pdf)
+### [Leitlinien (PDF)](f3_design-prinzipien_team_gzd_itz-bund-1.pdf)
 
 
-#### [Mahnung neu & alt (PDF)](f4_MahnungAltNeu.pdf)
+### [Mahnung neu & alt (PDF)](f4_MahnungAltNeu.pdf)
 
 
-#### [GitHub (Code)](https://github.com/tech4germany/Zoll-Assistent)
+### [GitHub (Code)](https://github.com/tech4germany/Zoll-Assistent)
 
 
 # LINKS
 
 
-#### [Prototyp](https://www.figma.com/proto/FSohhu1p2cjVo5oPKmbeSF/Digitaler_Assistent_v01?page-id=1%3A2&node-id=562%3A10777&viewport=287%2C48%2C0.18&scaling=min-zoom&starting-point-node-id=562%3A10777)
+### [Prototyp](https://www.figma.com/proto/FSohhu1p2cjVo5oPKmbeSF/Digitaler_Assistent_v01?page-id=1%3A2&node-id=562%3A10777&viewport=287%2C48%2C0.18&scaling=min-zoom&starting-point-node-id=562%3A10777)
 
 
-#### [Pressemitteilung GZD](https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2021/z03_digitalisierungsprojekt.html)
+### [Pressemitteilung GZD](https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2021/z03_digitalisierungsprojekt.html)
 
 
-#### [Pressemitteilung ITZB](https://www.itzbund.de/SharedDocs/Pressemitteilungen/DE/2021/2021-11-05_T4G_Abschluss_2021.html;jsessionid=6EF076E8BAFD97650C54324F2D693B0D.internet352?nn=178502)
+### [Pressemitteilung ITZB](https://www.itzbund.de/SharedDocs/Pressemitteilungen/DE/2021/2021-11-05_T4G_Abschluss_2021.html;jsessionid=6EF076E8BAFD97650C54324F2D693B0D.internet352?nn=178502)
 
 
 # Problem vs. Symptom
@@ -102,7 +102,7 @@ Um auch nach unserem Projekt einen Wandel hin zur bürgernahen Kommunikation zu 
 Detailliertes Vorgehen und Ergebnisse des Projektteams
 
 
-#### [Download](f2_Barrierefreie_Buergerkommunikation_Doku.pdf) 
+### [Download](f2_Barrierefreie_Buergerkommunikation_Doku.pdf) 
 
 
 ## Prototyp
@@ -110,7 +110,7 @@ Detailliertes Vorgehen und Ergebnisse des Projektteams
 Funktionierender Prototyp unseres digitalen Assistenten
 
 
-#### [Jetzt ausprobieren](https://www.figma.com/proto/FSohhu1p2cjVo5oPKmbeSF/Digitaler_Assistent_v01?page-id=1%3A2&node-id=562%3A10777&viewport=287%2C48%2C0.18&scaling=min-zoom&starting-point-node-id=562%3A10777) 
+### [Jetzt ausprobieren](https://www.figma.com/proto/FSohhu1p2cjVo5oPKmbeSF/Digitaler_Assistent_v01?page-id=1%3A2&node-id=562%3A10777&viewport=287%2C48%2C0.18&scaling=min-zoom&starting-point-node-id=562%3A10777) 
 
 
 ## Mahnbescheide
@@ -118,7 +118,7 @@ Funktionierender Prototyp unseres digitalen Assistenten
 Neues und altes (originales) Mahnschreiben 
 
 
-#### [Download](f4_MahnungAltNeu.pdf) 
+### [Download](f4_MahnungAltNeu.pdf) 
 
 
 ## Leitlinien
@@ -126,7 +126,7 @@ Neues und altes (originales) Mahnschreiben
 Unsere Leitlinien für das Arbeiten als moderne Verwaltung
 
 
-#### [Download](f3_design-prinzipien_team_gzd_itz-bund-1.pdf)
+### [Download](f3_design-prinzipien_team_gzd_itz-bund-1.pdf)
 
 
 # das Team

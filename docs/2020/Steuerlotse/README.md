@@ -1,12 +1,10 @@
-# Projekt Steuerlotse BMF 2020
+# **Steuerlotse BMF 2020**
 
-
-# Steuerlotse
 
 Gemeinsam mit dem BMF und MdFE entwickelter Prototyp für eine einfache, zukunftsfähige und digitale Steuererklärung für Rentner:innen. 
 
 
-#### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/Fallstudie_Steuerlotse.pdf)
+### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/Fallstudie_Steuerlotse.pdf)
 
 
 # +++ Steuerlotse seit 31. Mai 2021 live +++
@@ -14,7 +12,7 @@ Gemeinsam mit dem BMF und MdFE entwickelter Prototyp für eine einfache, zukunft
 Nach der Prototypisierung durch Tech4Germany wurde der [DigitalService](https://digitalservice.bund.de) mit der Umsetzung und Weiterentwicklung des Steuerlotsen beauftragt. Rentner:innen können ihre Steuererklärung jetzt mit dem Steuerlotsen einfach und unkompliziert abgeben. 
 
 
-#### [Jetzt Steuererklärung machen](http://www.steuerlotse-rente.de) 
+### [Jetzt Steuererklärung machen](http://www.steuerlotse-rente.de) 
 
 
 # Hintergrund & Herausforderung
@@ -25,22 +23,22 @@ Immer mehr Rentenempfänger:innen müssen eine Steuererklärung abgeben. Um dies
 # Ressourcen
 
 
-#### [GitHub (Code)](https://github.com/tech4germany/steuerlotse) 
+### [GitHub (Code)](https://github.com/tech4germany/steuerlotse) 
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie_Steuerlotse.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie_Steuerlotse.pdf)
 
 
-#### [Dokumentation (PDF)](f2_Steuerlotse-Doku-Final-212020.pdf)
+### [Dokumentation (PDF)](f2_Steuerlotse-Doku-Final-212020.pdf)
 
 
 # LINKS
 
 
-#### [Prototyp](https://steuerlotse.tech4germany.org/)
+### [Prototyp](https://steuerlotse.tech4germany.org/)
 
 
-#### [Auf der BMF-Seite](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Schlaglichter/Rentenbesteuerung/2020-10-16-steuerlotse.html)
+### [Auf der BMF-Seite](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Schlaglichter/Rentenbesteuerung/2020-10-16-steuerlotse.html)
 
 ![alt](01_Screenshot-from-1280x730.png)
 
@@ -91,7 +89,7 @@ Darüber hinaus zeigt der Prototyp, wie ein nutzerfreundlicher Prozess für ein 
 Detailliertes Vorgehen und Ergebnisse des Projektteams
 
 
-#### [Download](f2_Steuerlotse-Doku-Final-212020.pdf) 
+### [Download](f2_Steuerlotse-Doku-Final-212020.pdf) 
 
 
 ## Prototyp
@@ -99,7 +97,7 @@ Detailliertes Vorgehen und Ergebnisse des Projektteams
 Funktionierender Prototyp unseres Steuerlotsen
 
 
-#### [Jetzt ausprobieren](http://www.steuerlotse.tech4germany.org) 
+### [Jetzt ausprobieren](http://www.steuerlotse.tech4germany.org) 
 
 
 ## Code
@@ -107,7 +105,7 @@ Funktionierender Prototyp unseres Steuerlotsen
 Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 
-#### [Link](https://github.com/tech4germany/steuerlotse) 
+### [Link](https://github.com/tech4germany/steuerlotse) 
 
 
 # das Team

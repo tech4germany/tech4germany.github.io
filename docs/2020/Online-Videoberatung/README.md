@@ -1,12 +1,10 @@
-# Projekt Online-Videoberatung DRV 2020
+# **Online-Videoberatung DRV 2020**
 
-
-# Online-Videoberatung
 
 Zusammen mit der Deutschen Rentenversicherung haben wir am Thema Videoberatung gearbeitet. Bei ca. 80 Millionen Kund:innen gibt es eine Menge zu beachten.
 
 
-#### [Prototyp ausprobieren](https://www.figma.com/proto/RKOGPPatPQ1HGUdYwo3Ynw/T4G_Rentify?node-id=1133%3A696&viewport=1533%2C-185%2C0.05017091706395149&scaling=scale-down-width&hide-ui=1)
+### [Prototyp ausprobieren](https://www.figma.com/proto/RKOGPPatPQ1HGUdYwo3Ynw/T4G_Rentify?node-id=1133%3A696&viewport=1533%2C-185%2C0.05017091706395149&scaling=scale-down-width&hide-ui=1)
 
 
 # Hintergrund & Herausforderung
@@ -21,13 +19,13 @@ Einblick in unsere Ergebnisse: Die Landing Page der beiden Services Videoberatun
 # Ressourcen
 
 
-#### [Prototyp (Figma)](https://www.figma.com/proto/RKOGPPatPQ1HGUdYwo3Ynw/T4G_Rentify?node-id=1133%3A696&viewport=1533%2C-185%2C0.05017091706395149&scaling=scale-down-width&hide-ui=1)
+### [Prototyp (Figma)](https://www.figma.com/proto/RKOGPPatPQ1HGUdYwo3Ynw/T4G_Rentify?node-id=1133%3A696&viewport=1533%2C-185%2C0.05017091706395149&scaling=scale-down-width&hide-ui=1)
 
 
-#### [Prototyp (InVision)](https://inken764402.invisionapp.com/overview/Rentify-ckg93au1w0bp901c92kiodieu/screens)
+### [Prototyp (InVision)](https://inken764402.invisionapp.com/overview/Rentify-ckg93au1w0bp901c92kiodieu/screens)
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie-Videoberatung.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie-Videoberatung.pdf)
 
 
 # Zielsetzung & Vorgehen

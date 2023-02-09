@@ -1,4 +1,4 @@
-# Online Antragsportal Bundeszentralamt für Steuern 2021
+# **Online Antragsportal Bundeszentralamt für Steuern 2021**
 
 
 # Digitales Antragsportal
@@ -6,7 +6,7 @@
 Das Bundeszentralamt-für-Steuern-Online-Portal (BOP) ermöglicht die digitale Abgabe von Steueranträgen. Tech4Germany hatte das Ziel, das Portal einfacher zu gestalten. Mit dem entwickelten Prototypen können Nutzer:innen schneller Steuern abgeben und zurückerhalten. 
 
 
-#### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2021/11/Fallstudie_BZSt.pdf)
+### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2021/11/Fallstudie_BZSt.pdf)
 
 
 # Hintergrund & Herausforderung
@@ -19,31 +19,31 @@ Das BZSt entwickelt das BOP in einer Kooperation mit dem ITZBund jetzt **komplet
 # Ressourcen
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie_BZSt.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie_BZSt.pdf)
 
 
-#### [Empfehlungen (PDF)](f2_Handlungsempfehlungen.pdf)
+### [Empfehlungen (PDF)](f2_Handlungsempfehlungen.pdf)
 
 
-#### [Dokumentation (PDF)](f3_BZSt-Projektdokumentation_compressed.pdf)
+### [Dokumentation (PDF)](f3_BZSt-Projektdokumentation_compressed.pdf)
 
 
-#### [Personas (PDF)](f4_BZSt_Personas.pdf)
+### [Personas (PDF)](f4_BZSt_Personas.pdf)
 
 
 # Prototypen
 
 
-#### [Vollzugang](https://xd.adobe.com/view/6cdf55d0-7407-4e1b-a1bc-43a4acf970eb-398c/)
+### [Vollzugang](https://xd.adobe.com/view/6cdf55d0-7407-4e1b-a1bc-43a4acf970eb-398c/)
 
 
-#### [Sofortzugang](https://xd.adobe.com/view/1922703a-5335-486b-8654-b6ecd65a9fcf-4c71/)
+### [Sofortzugang](https://xd.adobe.com/view/1922703a-5335-486b-8654-b6ecd65a9fcf-4c71/)
 
 
-#### [Registrierungsprozess](https://xd.adobe.com/view/b80bc39a-14fe-42fc-9ec7-2bf7d82967d2-ed58/)
+### [Registrierungsprozess](https://xd.adobe.com/view/b80bc39a-14fe-42fc-9ec7-2bf7d82967d2-ed58/)
 
 
-#### [BZSt-Projektdokumentation](https://tech.4germany.org/wp-content/uploads/2021/11/BZSt-Projektdokumentation.pdf)
+### [BZSt-Projektdokumentation](https://tech.4germany.org/wp-content/uploads/2021/11/BZSt-Projektdokumentation.pdf)
 
 ![alt](1_BOP-before-and-after-3-1280x831.png)
 
@@ -111,7 +111,7 @@ Zusätzlich schaffen detaillierte Statusmeldungen mehr **Transparenz** über den
 Detailliertes Vorgehen und Ergebnisse
 
 
-#### [Download](f3_BZSt-Projektdokumentation_compressed.pdf) 
+### [Download](f3_BZSt-Projektdokumentation_compressed.pdf) 
 
 
 ## Prototyp
@@ -119,7 +119,7 @@ Detailliertes Vorgehen und Ergebnisse
 Clickdummy für den Vollzugang
 
 
-#### [Ausprobieren](https://xd.adobe.com/view/6cdf55d0-7407-4e1b-a1bc-43a4acf970eb-398c/) 
+### [Ausprobieren](https://xd.adobe.com/view/6cdf55d0-7407-4e1b-a1bc-43a4acf970eb-398c/) 
 
 
 ## Prototyp
@@ -127,7 +127,7 @@ Clickdummy für den Vollzugang
 Clickdummy für den Sofortzugang
 
 
-#### [Ausprobieren](https://xd.adobe.com/view/1922703a-5335-486b-8654-b6ecd65a9fcf-4c71/) 
+### [Ausprobieren](https://xd.adobe.com/view/1922703a-5335-486b-8654-b6ecd65a9fcf-4c71/) 
 
 
 ## Prototyp
@@ -135,7 +135,7 @@ Clickdummy für den Sofortzugang
 BOP Redesign für den Registrierungsprozess
 
 
-#### [Ausprobieren](https://xd.adobe.com/view/b80bc39a-14fe-42fc-9ec7-2bf7d82967d2-ed58/) 
+### [Ausprobieren](https://xd.adobe.com/view/b80bc39a-14fe-42fc-9ec7-2bf7d82967d2-ed58/) 
 
 
 # das Team

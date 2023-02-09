@@ -1,12 +1,10 @@
-# Projekt Antidiskriminierung Antidiskriminierungsstelle 2020
+# **Antidiskriminierung Antidiskriminierungsstelle 2020**
 
-
-# Antidiskriminierung
 
 Die Antidiskriminierungsstelle des Bundes berät Ratsuchende, die einen Diskriminierungs-fall erlebt haben und spielt eine zentrale Rolle in der Arbeit gegen Diskriminierung. Seit Jahren steigen die Fallzahlen an. Für das kleine Team der Berater:innen, die über hohe juristische Fachkompetenzen verfügen, bedeutet das eine hohe Arbeitslast. Auf der Seite der Ratsuchenden herrscht gleichzeitig Verwirrung und Frustration. Sie sehen sich mit langen Wartezeiten konfrontiert, können Informationen schwer auffinden und oft ist ihnen nicht klar, was sie erwarten können. Das Ziel des Projektes ist es, einen Zugang zu schaffen, der die momentane Situation auf beiden Seiten verbessert.
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie_Antidiskriminierung_final-1.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie_Antidiskriminierung_final-1.pdf)
 
 
 # +++ Wegweiser live +++
@@ -14,7 +12,7 @@ Die Antidiskriminierungsstelle des Bundes berät Ratsuchende, die einen Diskrimi
 Nach der Prototypisierung des Wegweisers während des Tech4Germany Fellowships wurden drei der Fellows im Anschluss als Freelancer:innen von der Antidiskriminierungsstelle mit der Umsetzung beauftragt. Der Wegweiser steht seit Juni 2021 auf der Website der ADS zur Verfügung. 
 
 
-#### [Jetzt durchklicken](https://www.antidiskriminierungsstelle.de/DE/wir-beraten-sie/wegweiser-durch-die-beratung/wegweiser-node.html) 
+### [Jetzt durchklicken](https://www.antidiskriminierungsstelle.de/DE/wir-beraten-sie/wegweiser-durch-die-beratung/wegweiser-node.html) 
 
 
 # Hintergrund & Herausforderung
@@ -25,37 +23,37 @@ Die Antidiskriminierungsstelle des Bundes, kurz ADS, unterstützt und berät Rat
 # Ressourcen
 
 
-#### [GitHub (Code) ](https://github.com/tech4germany/ads-prototype)
+### [GitHub (Code) ](https://github.com/tech4germany/ads-prototype)
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie_Antidiskriminierung_final-1.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie_Antidiskriminierung_final-1.pdf)
 
 
-#### [Dokumentation (PDF)](f2_Projektdokumentation_Antidiskriminierung.pdf)
+### [Dokumentation (PDF)](f2_Projektdokumentation_Antidiskriminierung.pdf)
 
 
-#### [User Journey (PDF)](f3_1b_ADS-Digital-Whiteboard-User-Journey-Ratsuchende.pdf)
+### [User Journey (PDF)](f3_1b_ADS-Digital-Whiteboard-User-Journey-Ratsuchende.pdf)
 
 
 # LINKS
 
 
-#### [Prototyp](https://wegweiser.tech4germany.org/)
+### [Prototyp](https://wegweiser.tech4germany.org/)
 
 
-#### [Zwischenprototypen](https://antidiskriminierung.invisionapp.com/console/Prototypen_ADS-cke9r5lic00ky01x2cnw20pq5/cke9ruyxt003d01v01yqhaupj/play)
+### [Zwischenprototypen](https://antidiskriminierung.invisionapp.com/console/Prototypen_ADS-cke9r5lic00ky01x2cnw20pq5/cke9ruyxt003d01v01yqhaupj/play)
 
 
-#### [Prototyp Pfadtest](https://xd.adobe.com/view/d65206cf-6cb6-43ad-8477-d56748e00af2-8301/screen/7b8c93d5-0090-4cb2-9fa8-7d3accc5a147/?fullscreen&hints=off)
+### [Prototyp Pfadtest](https://xd.adobe.com/view/d65206cf-6cb6-43ad-8477-d56748e00af2-8301/screen/7b8c93d5-0090-4cb2-9fa8-7d3accc5a147/?fullscreen&hints=off)
 
 
-#### [Prototyp Usertest](https://xd.adobe.com/view/2e7ec35f-54e7-4b91-9ed1-1b5245b5e121-7b2d/?fullscreen&hints=off)
+### [Prototyp Usertest](https://xd.adobe.com/view/2e7ec35f-54e7-4b91-9ed1-1b5245b5e121-7b2d/?fullscreen&hints=off)
 
 
-#### [Twitter-Video](https://twitter.com/Tech4Germany/status/1295985449375334400)
+### [Twitter-Video](https://twitter.com/Tech4Germany/status/1295985449375334400)
 
 
-#### [Pressemitteilung](https://www.antidiskriminierungsstelle.de/SharedDocs/Kurzmeldungen/DE/2020/nl_02_2020/nl_02_aus_der_arbeit_3.html)
+### [Pressemitteilung](https://www.antidiskriminierungsstelle.de/SharedDocs/Kurzmeldungen/DE/2020/nl_02_2020/nl_02_aus_der_arbeit_3.html)
 
 ![alt](1_Screenshot-2020-10-20-161600-1280x695.png)
 
@@ -124,7 +122,7 @@ Unsere Lösung ermöglicht es den Ratsuchenden über einen automatisierten Einst
 Detailliertes Vorgehen und Ergebnisse des Projektteams
 
 
-#### [Download](f2_Projektdokumentation_Antidiskriminierung.pdf) 
+### [Download](f2_Projektdokumentation_Antidiskriminierung.pdf) 
 
 
 ## Prototyp
@@ -132,7 +130,7 @@ Detailliertes Vorgehen und Ergebnisse des Projektteams
 Funktionierender Prototyp unseres Antidiskriminierungs-wegweisers
 
 
-#### [Link](http://wegweiser.tech4germany.org) 
+### [Link](http://wegweiser.tech4germany.org) 
 
 
 ## Code
@@ -140,7 +138,7 @@ Funktionierender Prototyp unseres Antidiskriminierungs-wegweisers
 Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 
-#### [Link](https://github.com/tech4germany/ads-prototype) 
+### [Link](https://github.com/tech4germany/ads-prototype) 
 
 
 # das Team

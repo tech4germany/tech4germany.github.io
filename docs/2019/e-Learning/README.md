@@ -1,16 +1,10 @@
----
-hide:
-  - navigation
-  - toc
----
-
-# Projekt e-Learning ITZ Bund 2019
+# **e-Learning ITZ Bund 2019**
 
 
 Die IT-Konsolidierung des Bundes bringt einen enormen Schulungsaufwand mit sich. Um allen Mitarbeiter:innen der Verwaltung einen reibungslosen Umstieg zu gewähren sollte E-Learning als wertvolle Chance genutzt werden.
 
 
-#### [Case Study](https://medium.com/tech4germany/fallstudie-e-learning-e-learning-zur-e-akte-bund-dad91e49d1dc)
+### [Case Study](https://medium.com/tech4germany/fallstudie-e-learning-e-learning-zur-e-akte-bund-dad91e49d1dc)
 
 
 # Herausforderung
@@ -58,7 +52,7 @@ Auch punktuelle Lerner kommen mit einer erweiterten Suche auf ihre Kosten und k�
 Executive Summary der Dokumentation der E-Learning Plattform für die E-Akte.
 
 
-#### [Download](f1_T4G_Executive-Summary-E-Akte_2019.pdf)
+### [Download](f1_T4G_Executive-Summary-E-Akte_2019.pdf)
 
 
 ## Case Study
@@ -66,7 +60,7 @@ Executive Summary der Dokumentation der E-Learning Plattform für die E-Akte.
 Case Study zur Vorgehensweise im Projekt “E-Learning Plattform für die E-Akte”.
 
 
-#### [Link](https://medium.com/tech4germany/fallstudie-e-learning-e-learning-zur-e-akte-bund-dad91e49d1dc) 
+### [Link](https://medium.com/tech4germany/fallstudie-e-learning-e-learning-zur-e-akte-bund-dad91e49d1dc) 
 
 
 ## Content
@@ -74,7 +68,7 @@ Case Study zur Vorgehensweise im Projekt “E-Learning Plattform für die E-Akte
 How-To Guide zur Erstellung von Schulungsvideos in Behörden.
 
 
-#### [Download](f2_T4G_Schritt-für-Schritt-Anleitung_Video.pdf) 
+### [Download](f2_T4G_Schritt-für-Schritt-Anleitung_Video.pdf) 
 
 
 # ProjektTEAM

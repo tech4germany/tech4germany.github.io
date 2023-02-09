@@ -1,12 +1,10 @@
-# Projekt Rotationsportal der Diplomaten AA 2019
+#  **Rotationsportal der Diplomaten AA 2019**
 
-
-# Rotationsportal der Diplomaten
 
 Jeden Sommer wechseln über 2.000 Mitarbeiter:innen des Auswärtigen Dienstes den Dienstort. Ab 2020 können sie die erste Version des Rotationsplaners nutzen, der ihnen die anstehenden Aufgaben rund um die Rotation – zugeschnitten auf ihre persönlichen Lebensumstände – auflistet.
 
 
-#### [Case Study](https://medium.com/tech4germany/fallstudie-rotationsportal-planungstool-zur-unterst%C3%BCtzung-der-rotation-15d852f494b8)
+### [Case Study](https://medium.com/tech4germany/fallstudie-rotationsportal-planungstool-zur-unterst%C3%BCtzung-der-rotation-15d852f494b8)
 
 
 # Ausgangslage
@@ -61,7 +59,7 @@ Bildet zum ersten Mal den Prozess der Rotation ganzheitlich und zentral ab und b
 Grobe Auflistung des Arbeitsprozesses und Zwischen-ergebnisse im Rahmen von Tech4Germany. 
 
 
-#### [Download](f1_Prozesspapier.pdf) 
+### [Download](f1_Prozesspapier.pdf) 
 
 
 ## Umsetzungsplan
@@ -69,7 +67,7 @@ Grobe Auflistung des Arbeitsprozesses und Zwischen-ergebnisse im Rahmen von Tech
 Strategiekonzept, Potentiale und Risikobewertung zur Weiterarbeit im Auswärtigen Amt.
 
 
-#### [Download](f2_Umsetzungsplan_Veröffentlichung-auf-Projektseite.pdf) 
+### [Download](f2_Umsetzungsplan_Veröffentlichung-auf-Projektseite.pdf) 
 
 
 ## Rotationsplaner
@@ -77,7 +75,7 @@ Strategiekonzept, Potentiale und Risikobewertung zur Weiterarbeit im Auswärtige
 GitHub Repository der Webapp, die im Sharepoint des Auswärtigen Amtes läuft.
 
 
-#### [Link](https://github.com/tech4germany/rotationsplaner) 
+### [Link](https://github.com/tech4germany/rotationsplaner) 
 
 
 # Projektteam

@@ -1,4 +1,4 @@
-# Projekt Partnerschaftliche Gleichstellung BMFSFJ 2021
+# **Partnerschaftliche Gleichstellung BMFSFJ 2021**
 
 
 # StartApp Familie
@@ -23,31 +23,31 @@ Das Angebot soll **_informierte und reflektierte Entscheidungen_** über die Rol
 # Ressourcen
 
 
-#### [Fallstudie](f1_BMFSFJ-2021-Fallstudie-Partnerschaftliche-Gleichstellung_end.pdf)
+### [Fallstudie](f1_BMFSFJ-2021-Fallstudie-Partnerschaftliche-Gleichstellung_end.pdf)
 
 
-#### [Prozesspapier](f2_BMFSFJ-2021-Prozesspapier-Partnerschaftliche-Gleichstellung.pdf)
+### [Prozesspapier](f2_BMFSFJ-2021-Prozesspapier-Partnerschaftliche-Gleichstellung.pdf)
 
 
-#### [Handlungsempfehlungen](f3_BMFSFJ-2021-Öff.-Handlungsempfehlungen-Partnerschaftliche-Gleichstellung.pdf)
+### [Handlungsempfehlungen](f3_BMFSFJ-2021-Öff.-Handlungsempfehlungen-Partnerschaftliche-Gleichstellung.pdf)
 
 
-#### [OnePager StartApp Familie](f4_OnePager_BMFSFJ_final.pdf)
+### [OnePager StartApp Familie](f4_OnePager_BMFSFJ_final.pdf)
 
 
-#### [GitHub (Code)](https://github.com/tech4germany/bmfsfj-partnerschaftliche-gleichstellung) 
+### [GitHub (Code)](https://github.com/tech4germany/bmfsfj-partnerschaftliche-gleichstellung) 
 
 
 # LINKS
 
 
-#### [Prototyp](https://dev.tech4germany.org/bmfsfj-partnerschaftliche-gleichstellung)
+### [Prototyp](https://dev.tech4germany.org/bmfsfj-partnerschaftliche-gleichstellung)
 
 
-#### [Aktuelles-Meldung](https://www.bmfsfj.de/bmfsfj/aktuelles/alle-meldungen/digital-talente-entwickeln-app-prototypen-fuer-mehr-partnerschaftlichkeit-186718)
+### [Aktuelles-Meldung](https://www.bmfsfj.de/bmfsfj/aktuelles/alle-meldungen/digital-talente-entwickeln-app-prototypen-fuer-mehr-partnerschaftlichkeit-186718)
 
 
-#### [Tweet-Collection](https://twitter.com/Jonathan4GER/timelines/1455830377516441604)
+### [Tweet-Collection](https://twitter.com/Jonathan4GER/timelines/1455830377516441604)
 
 # Gallerie ![Team BMFSFJ](1_20211007-ws-wireframes-lowres-23-1-scaled.jpg) ![Symbolbild Partnerschaftlichkeit](2_20210916-ws-ideation-lowres-3-1-scaled.jpg) ![Expert:innen-Interviews](3_20210823-t4g-buero-bmfsfj-lowres-14-scaled.jpg) ![Spinnennetz als Methode für die Zielgruppenfindung](4_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-28-scaled.jpg) ![Workshop im Ministerium](5_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-32-scaled.jpg) ![Eisberg-Modelle für die Zielgruppen](6_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-48-scaled.jpg) ![Nutzer:innen-Interviews](7_20210907-t4g-bmfsfj-nutzer-lowres-10-scaled.jpg) ![Workshop Ideation](8_20210916-ws-ideation-lowres-47-1-scaled.jpg) ![Papier-Prototypen](9_bmfsfj-twitter-16zu9-12-scaled.jpg) ![Testing der Papier-Prototypen](10_20210930-prototyping-lowres-1-1-scaled.jpg) ![Werkstattbesuch von Prof. Dr. Helge Braun](11_20211007-werkstattbesuch-helge-braun-lowres-40-scaled.jpg) ![Werkstattbesuch Dr. Markus Richter, CIO des Bundes](12_20211014-werkstattbesuch-markus-richter-lowres-11-scaled.jpg) ![Feedback zu den Wireframes von unseren Digitallotsinnen](13_20211007-ws-wireframes-lowres-15-scaled.jpg) ![Iteration über die Wireframes](14_20211021-twitter-takeover-woche-lowres-4-scaled.jpg) ![Malte Laukötter erklärt den Code](15_20211021-twitter-takeover-woche-lowres-10-scaled.jpg) ![Fellows BMFSFJ](16_20210823-t4g-buero-bmfsfj-lowres-28-scaled.jpg) 
 
@@ -128,7 +128,7 @@ Das BMFSFJ genießt ein großes Vertrauen der Bürger:innen.**_„StartApp Famil
 Detalliertes Vorgehen und Ergebnisse des Projektteams
 
 
-#### [Download](f2_BMFSFJ-2021-Prozesspapier-Partnerschaftliche-Gleichstellung.pdf) 
+### [Download](f2_BMFSFJ-2021-Prozesspapier-Partnerschaftliche-Gleichstellung.pdf) 
 
 
 ## Handlungsempfehlungen
@@ -136,7 +136,7 @@ Detalliertes Vorgehen und Ergebnisse des Projektteams
 Empfehlungen an das BMFSFJ zur agilen Weiterführung des Projekts
 
 
-#### [Download](f3_BMFSFJ-2021-Öff.-Handlungsempfehlungen-Partnerschaftliche-Gleichstellung.pdf) 
+### [Download](f3_BMFSFJ-2021-Öff.-Handlungsempfehlungen-Partnerschaftliche-Gleichstellung.pdf) 
 
 
 ## Prototyp (Demo)
@@ -144,7 +144,7 @@ Empfehlungen an das BMFSFJ zur agilen Weiterführung des Projekts
 Funktionierender Prototyp „StartApp Familie“
 
 
-#### [Ausprobieren](https://dev.tech4germany.org/bmfsfj-partnerschaftliche-gleichstellung) 
+### [Ausprobieren](https://dev.tech4germany.org/bmfsfj-partnerschaftliche-gleichstellung) 
 
 
 ## Code
@@ -152,7 +152,7 @@ Funktionierender Prototyp „StartApp Familie“
 Unsere Arbeitsergebnisse als Open Source auf GitHub
 
 
-#### [StartApp Familie auf GitHub](https://github.com/tech4germany/bmfsfj-partnerschaftliche-gleichstellung) 
+### [StartApp Familie auf GitHub](https://github.com/tech4germany/bmfsfj-partnerschaftliche-gleichstellung) 
 
 
 # das Team

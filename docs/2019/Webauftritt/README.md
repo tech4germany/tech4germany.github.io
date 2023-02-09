@@ -1,15 +1,13 @@
-# Projekt Webauftritt BMBF 2019
+# **Webauftritt BMBF 2019**
 
-
-# Projekt Webauftritte des Bundesministeriums für Bildung und Forschung
 
 Wie können Hauptseiten und Fachseiten von Ministerien nutzerzentriert gestaltet sein? Wir zeigen am Beispiel des Bundesministeriums für Bildung & Forschung wie Webauftritte aussehen, die sich an den Bedürfnissen der Nutzer:innen und Bürger:innen orientieren, anstatt an internen Strukturen.
 
 
-#### [Case Study Ministeriumswebseite](https://medium.com/tech4germany/fallstudie-ministeriumswebseite-der-zukunft-5579641ab865)
+### [Case Study Ministeriumswebseite](https://medium.com/tech4germany/fallstudie-ministeriumswebseite-der-zukunft-5579641ab865)
 
 
-#### [Case Study BuFI](https://medium.com/tech4germany/fallstudie-bufi-infoplattform-zu-bildung-und-forschung-d7e10af51e22)
+### [Case Study BuFI](https://medium.com/tech4germany/fallstudie-bufi-infoplattform-zu-bildung-und-forschung-d7e10af51e22)
 
 
 # +++ Bundesbericht Forschung und Innovation im neuen Design +++
@@ -91,7 +89,7 @@ Wir empfehlen die Etablierung einer zentralen Einheit auf Bundesebene, die Stand
 Vorgehen & Ergebnisse zum Projekt **Ministeriumswebseite der Zukunft**
 
 
-##### [Download](f1_Dokumentation-BMBF-Short-1.pdf) 
+#### [Download](f1_Dokumentation-BMBF-Short-1.pdf) 
 
 
 ## Dokumentation 
@@ -99,7 +97,7 @@ Vorgehen & Ergebnisse zum Projekt **Ministeriumswebseite der Zukunft**
 Vorgehen & Ergebnisse zum Projekt Bundesbericht Forschung und Innovation
 
 
-##### [Download](f2_Dokumentation-BuFI-Short-1.pdf) 
+#### [Download](f2_Dokumentation-BuFI-Short-1.pdf) 
 
 
 ## Design Prototyp
@@ -107,22 +105,22 @@ Vorgehen & Ergebnisse zum Projekt Bundesbericht Forschung und Innovation
 Webauftritt des Bundesbericht Forschung und Innovation
 
 
-##### [Link](https://www.figma.com/proto/1hBlUSAEgupcsIZVdlZKf1/BuFI-Showcase?node-id=875%3A14933&scaling=min-zoom) 
+#### [Link](https://www.figma.com/proto/1hBlUSAEgupcsIZVdlZKf1/BuFI-Showcase?node-id=875%3A14933&scaling=min-zoom) 
 
 
 # Umsetzung: Webauftritt des Bundesbericht Live
 
 
-##### [Video](v1_BuFI-Promo-Clip-BMBF.mov)
+#### [Video](v1_BuFI-Promo-Clip-BMBF.mov)
 
 _“Der Bericht wird online völlig neu präsentiert: aufgeräumt und übersichtlich, vor allem aber interaktiv. In Zusammenarbeit mit Tech4Germany, der Digitalisierungsinitiative unter der Schirmherrschaft des Bundeskanzleramts, wurde die Website des Bundesberichts nutzerzentriert weiterentwickelt und ist im neuen Look ab jetzt online verfügbar.” _ \
 Pressemitteilung 13.05.2020, BMBF
 
 
-#### [Der neue BuFI](https://www.bundesbericht-forschung-innovation.de) 
+### [Der neue BuFI](https://www.bundesbericht-forschung-innovation.de) 
 
 
-#### [Pressemitteilung BMBF](https://www.bmbf.de/de/karliczek-forschung-und-innovation-sind-unsere-staerke-11580.html) 
+### [Pressemitteilung BMBF](https://www.bmbf.de/de/karliczek-forschung-und-innovation-sind-unsere-staerke-11580.html) 
 
 
 # TEAM

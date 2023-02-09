@@ -3,8 +3,8 @@
 
 # SDG-Checker: Eine Lösung zur Operationalisierung von Nachhaltigkeit im Projektdesign
 
-#### [Der Prototyp](https://sdg4aal.eu/landingpage)
-#### [GitHub Repository](https://github.com/tech4germany/sdg4aal)
+### [Der Prototyp](https://sdg4aal.eu/landingpage)
+### [GitHub Repository](https://github.com/tech4germany/sdg4aal)
 
 # Einleitung:Nachhaltigkeit in der Politik verankern
 
@@ -33,7 +33,7 @@ Der SDG-Checker ist ein Schritt auf dem Weg, um die SDGs in der Projektgestaltun
 
 
 
-##### Team
+#### Team
 
 ![alt](Anna_Rojan__tech4germany_Final.jpg) 
 **Anna Rojan
@@ -55,8 +55,8 @@ Der SDG-Checker ist ein Schritt auf dem Weg, um die SDGs in der Projektgestaltun
 # Projektpartner
 
 ![alt](AA_Nele_Heinevetter_Final.jpg) 
-#### **Nele Heinvetter**
+### **Nele Heinvetter**
 
 ![alt](AA_Valerie_Scherf_Final.jpg) 
-#### **Valerie Scherf**
+### **Valerie Scherf**
 

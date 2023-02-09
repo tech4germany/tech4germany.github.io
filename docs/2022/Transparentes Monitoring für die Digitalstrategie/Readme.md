@@ -1,11 +1,11 @@
-# Monitoring der Digitalstrategie BMDV 2022
+# **Monitoring der Digitalstrategie BMDV 2022**
 
 
 ## Einleitung:
 
 Die Digitalstrategie der Bundesregierung ist beschlossen und ihre Projekte und Maßnahmen sollen umgesetzt werden. Das Bundesministerium für Digitales und Verkehr (BMDV) spielt eine koordinierende Rolle bei der Umsetzung dieser Strategie, die mehr als 100 Projekte in allen Ministerien umfasst. Ziel des Projekts war es, eine technische Lösung und einen kollaborativen Prozess zur Überwachung der Umsetzung der Strategie zu entwickeln.
 
-#### [Der Prototyp](https://www.figma.com/file/IoYpBGuxhiMpDiHYNNUc0L/Prototyp?node-id=2%3A1380&t=WSMTKimoVGLMMIPe-0)
+### [Der Prototyp](https://www.figma.com/file/IoYpBGuxhiMpDiHYNNUc0L/Prototyp?node-id=2%3A1380&t=WSMTKimoVGLMMIPe-0)
 
 ## Problemanalyse:
 

@@ -1,12 +1,10 @@
-# Projekt Digitale Klagewege BMJV 2021
+# **Digitale Klagewege BMJV 2021**
 
-
-# Digitale Klagewege
 
 Auch wenn Bürger:innen durch unser Rechtssystem gut geschützt sind, werden gerade kleine Ansprüche häufig nicht durchgesetzt. Deshalb wurde im Tech4Germany **Fellowship 2021** mit dem **BMJV** die Vision für ein **Justizportal** entwickelt: Dieses ermächtigt Bürger:innen, Ihre Rechtsprobleme und mögliche Ansprüche bei Alltagsproblemen zu verstehen, Handlungsoptionen für Ihren Fall zu finden und falls nötig auch eine Klage einzureichen. Damit gliedert sich das Projekt in eine laufende Reform zur Modernisierung des Zivilprozesses. 
 
 
-#### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2021/11/Fallstudie-Digitale-Klagewege-Tech4Germany-2021.pdf)
+### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2021/11/Fallstudie-Digitale-Klagewege-Tech4Germany-2021.pdf)
 
 
 # Hintergrund & Herausforderung
@@ -19,28 +17,28 @@ Gleichzeitig haben private Rechtsdienstleister einen Bedarf für leichte, digita
 # Ressourcen
 
 
-#### [GitHub (Code)](https://github.com/tech4germany/bmjv-justizportal/)
+### [GitHub (Code)](https://github.com/tech4germany/bmjv-justizportal/)
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie-Digitale-Klagewege-Tech4Germany-2021.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie-Digitale-Klagewege-Tech4Germany-2021.pdf)
 
 
 # LINKS
 
 
-#### [Prototyp](https://dev.tech4germany.org/bmjv-justizportal)
+### [Prototyp](https://dev.tech4germany.org/bmjv-justizportal)
 
 
-#### [BMJV Pressemitteilung](https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2021/0816_Online_Klagetool.html)
+### [BMJV Pressemitteilung](https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2021/0816_Online_Klagetool.html)
 
 
-#### [Bericht im Handelsblatt](https://www.handelsblatt.com/politik/deutschland/programm-tech4germany-digitales-angebot-der-justiz-das-staats-legal-tech-kommt/27607342.html)
+### [Bericht im Handelsblatt](https://www.handelsblatt.com/politik/deutschland/programm-tech4germany-digitales-angebot-der-justiz-das-staats-legal-tech-kommt/27607342.html)
 
 
-#### [Bericht im Anwaltsblatt](https://anwaltsblatt.anwaltverein.de/de/anwaeltinnen-anwaelte/anwaltspraxis/mit-einem-online-klagetool-den-zivilprozess-umkrempeln)
+### [Bericht im Anwaltsblatt](https://anwaltsblatt.anwaltverein.de/de/anwaeltinnen-anwaelte/anwaltspraxis/mit-einem-online-klagetool-den-zivilprozess-umkrempeln)
 
 
-#### [“Rechtsgespräch” Interview](https://rechtsgespraech.libsyn.com/folge-25-tech4germany-das-online-klagetool-des-bmjv-vernderungen-in-der-justiz-und-digitale-lehre)
+### [“Rechtsgespräch” Interview](https://rechtsgespraech.libsyn.com/folge-25-tech4germany-das-online-klagetool-des-bmjv-vernderungen-in-der-justiz-und-digitale-lehre)
 
 ![alt](1_Screen-Shots-JP-WP-6-1280x824.png)
 
@@ -70,7 +68,7 @@ Hier führen wir Sie beispielhaft durch das Angebot des Justizportals. Für den 
 Der Wegweiser hilft Bürger:innen, für verschiedene Bereiche Ihres Alltags Rechtsprobleme und mögliche Ansprüche zu identifizieren. Dabei werden die relevanten Informationen mit einfachen Ja-Nein-Fragen eingegrenzt. Kann das Portal den Fall nicht abdecken, wird an Beratungsstellen verwiesen.
 ![alt](3_Screen-Shots-JP-WP-a-1280x824.png)
 
-#### [Zum Wegweiser](https://dev.tech4germany.org/bmjv-justizportal/wegweiser)
+### [Zum Wegweiser](https://dev.tech4germany.org/bmjv-justizportal/wegweiser)
 
 
 ## Wegweiser: Mögliche Ansprüche in meinem Fall
@@ -78,7 +76,7 @@ Der Wegweiser hilft Bürger:innen, für verschiedene Bereiche Ihres Alltags Rech
 Basierend auf den eigenen Antworten fasst der Wegweiser die möglichen rechtlichen Ansprüche zusammen. Über diese können sich die Bürger:innen dann in Ruhe informieren.
 ![alt](4_Screen-Shot-2021-11-04-at-22.34.29-1280x824.png)
 
-#### [Zur Anspruchsübersicht](https://dev.tech4germany.org/bmjv-justizportal/moegliche-ansprueche?id=ceybyumxibs0)
+### [Zur Anspruchsübersicht](https://dev.tech4germany.org/bmjv-justizportal/moegliche-ansprueche?id=ceybyumxibs0)
 
 
 ## Wegweiser: Nächste Schritte
@@ -86,7 +84,7 @@ Basierend auf den eigenen Antworten fasst der Wegweiser die möglichen rechtlich
 Zuletzt empfiehlt der Wegweiser mögliche Schritte, um die eigenen Ansprüche auch durchzusetzen: Zunächst für eine direkte Einigung mit der Gegenseite, beispielsweise durch eine [Vorlage für ein Schreiben an die Vermieter:in](https://dev.tech4germany.org/bmjv-justizportal/formular?mangelanzeige). So können die meisten Probleme einvernehmlich gelöst werden.
 ![alt](5_Screen-Shot-2021-11-04-at-22.54.41-1280x824.png)
 
-#### [Zu den Handlungsoptionen](https://dev.tech4germany.org/bmjv-justizportal/naechste-schritte?id=ceybyumxibs0)
+### [Zu den Handlungsoptionen](https://dev.tech4germany.org/bmjv-justizportal/naechste-schritte?id=ceybyumxibs0)
 
 
 ## Klage am Amtsgericht einreichen
@@ -94,7 +92,7 @@ Zuletzt empfiehlt der Wegweiser mögliche Schritte, um die eigenen Ansprüche au
 Wenn keine einvernehmliche Lösung gefunden werden kann, unterstützt das Justizportal auch bei der Einreichung einer Klage. Dabei wird zunächst der Ablauf des Prozesses und die zu erwartenden Kosten transparent erklärt. Im Anschluss können die Bürger:innen über ein Webformular ihren Sachverhalt strukturiert eingeben. Daraus wird dann automatisch eine vollständige Klageschrift erstellt.
 ![alt](6_Screen-Shots-JP-WP-k-1280x824.png)
 
-#### [Zur Klageerstellung](https://dev.tech4germany.org/bmjv-justizportal/klage-einreichen?id=ceybyumxibs0)
+### [Zur Klageerstellung](https://dev.tech4germany.org/bmjv-justizportal/klage-einreichen?id=ceybyumxibs0)
 
 
 ## Beratungsangebote und Finanzierungshilfen
@@ -102,7 +100,7 @@ Wenn keine einvernehmliche Lösung gefunden werden kann, unterstützt das Justiz
 Über den gesamten Wegweiser hinweg werden Bürger:innen auch immer wieder über Anlaufstellen für eine Rechtsberatung informiert, wie beispielsweise Anwält:innen oder Mietervereine. Dabei wird zudem auf Finanzierungshilfen wie den Beratungshilfeschein oder die Prozesskostenhilfe aufmerksam gemacht. So können auch strukturell benachteiligte Gruppen eine Rechtsberatung erhalten und Ihre Rechte durchsetzen.
 ![alt](7_Screen-Shot-2021-11-04-at-22.48.50-1280x824.png)
 
-#### [Zur Beratungsübersicht](https://dev.tech4germany.org/bmjv-justizportal/beratungsangebote)
+### [Zur Beratungsübersicht](https://dev.tech4germany.org/bmjv-justizportal/beratungsangebote)
 
 
 # Der nächste Schritt: Einbindung von Beklagten & Richter:innen
@@ -152,7 +150,7 @@ Um anforderungsorientiert und kosteneffizient zu arbeiten, sollte das Justizport
 Vorgehen und wichtigste Erkenntnisse des Projektteams
 
 
-#### [Download](f1_Fallstudie-Digitale-Klagewege-Tech4Germany-2021.pdf) 
+### [Download](f1_Fallstudie-Digitale-Klagewege-Tech4Germany-2021.pdf) 
 
 
 ## Prototyp
@@ -160,7 +158,7 @@ Vorgehen und wichtigste Erkenntnisse des Projektteams
 Die Justizportal Vision selbst erleben
 
 
-#### [Link](https://dev.tech4germany.org/bmjv-justizportal) 
+### [Link](https://dev.tech4germany.org/bmjv-justizportal) 
 
 
 ## Code
@@ -168,7 +166,7 @@ Die Justizportal Vision selbst erleben
 GitHub Repository der WebApp
 
 
-#### [Link](https://github.com/tech4germany/bmjv-justizportal) 
+### [Link](https://github.com/tech4germany/bmjv-justizportal) 
 
 
 # das Team

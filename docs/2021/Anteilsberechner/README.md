@@ -1,12 +1,10 @@
-# Projekt Anteilsberechner Deutscher Bundestag 2021
+# **Anteilsberechner Deutscher Bundestag 2021**
 
-
-# Verhältnisberechner
 
 Wie werden im Bundestag die Ausschussvorsitze, Redeminuten, oder Sitzplätze verteilt? Wir haben das Programm, das diese Ressourcen verteilt, von Grund auf neu entwickelt und dabei viel Potenzial für mehr Transparenz im Bundestag entdeckt.
 
 
-#### [Der Neue Rechner](https://dev.tech4germany.org/AZUR-Frontend/)
+### [Der Neue Rechner](https://dev.tech4germany.org/AZUR-Frontend/)
 
 
 # Hintergrund & Herausforderung
@@ -23,22 +21,22 @@ AZUR stellt sicher, dass Ressourcen im Bundestag proportional zwischen den Frakt
 # links
 
 
-#### [Der Neue Rechner](https://dev.tech4germany.org/AZUR-Frontend/) 
+### [Der Neue Rechner](https://dev.tech4germany.org/AZUR-Frontend/) 
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie_Bundestag.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie_Bundestag.pdf)
 
 
-#### [Dokumentation (PDF)](f2_Projektdokumentation.pdf)
+### [Dokumentation (PDF)](f2_Projektdokumentation.pdf)
 
 
-#### [Infoseite (Prototyp)](https://sites.google.com/view/t4gazur/home)
+### [Infoseite (Prototyp)](https://sites.google.com/view/t4gazur/home)
 
 
-#### [GitHub (Frontend)](https://github.com/tech4germany/AZUR-Frontend)
+### [GitHub (Frontend)](https://github.com/tech4germany/AZUR-Frontend)
 
 
-#### [GitHub (API)](https://github.com/tech4germany/AZUR-API)
+### [GitHub (API)](https://github.com/tech4germany/AZUR-API)
 
 
 # Zielsetzung & Vorgehen
@@ -78,7 +76,7 @@ Mit einer deutlich vereinfachten Oberfläche ist der Rechner jetzt auch für Fac
 
 ![alt](3_Bildschirmfoto-2021-11-03-um-17.09.08-1280x736.png)
 
-#### [Zum Rechner](https://dev.tech4germany.org/AZUR-Frontend/) 
+### [Zum Rechner](https://dev.tech4germany.org/AZUR-Frontend/) 
 
 
 ## Das Informationsportal
@@ -87,7 +85,7 @@ Eine Informationswebsite hilft neuen Nutzer:innen die Rolle und Funktion des Rec
 
 ![alt](4_Bildschirmfoto-2021-11-03-um-17.10.15-1280x736.png)
 
-#### [Zur Website](https://sites.google.com/view/t4gazur/home) 
+### [Zur Website](https://sites.google.com/view/t4gazur/home) 
 
 
 ## Die Digitale Kuppel
@@ -98,7 +96,7 @@ In unserer Projektdokumentation stellen wir dafür unser Konzept für eine “Di
 
 ![alt](5_kuppo_aber_wir_haben_die_rechte_dran.jpg)
 
-#### [Zur Doku (PDF)](f2_Projektdokumentation.pdf) 
+### [Zur Doku (PDF)](f2_Projektdokumentation.pdf) 
 
 
 # Unsere Ergebnisse sind frei verfügbar
@@ -119,13 +117,13 @@ Unser detailliertes Vorgehen, unsere Ergebnisse und unser Vorschlag für die Dig
 Der gesamte Code des Rechners zur freien Wieder- und Weiterverwendung auf GitHub.
 
 
-#### [Zum Rechner](https://dev.tech4germany.org/AZUR-Frontend/) 
+### [Zum Rechner](https://dev.tech4germany.org/AZUR-Frontend/) 
 
 
-#### [Zur Doku (PDF)](f2_Projektdokumentation.pdf) 
+### [Zur Doku (PDF)](f2_Projektdokumentation.pdf) 
 
 
-#### [Frontend](https://github.com/tech4germany/azur-frontend) \
+### [Frontend](https://github.com/tech4germany/azur-frontend) \
 [API](https://github.com/tech4germany/azur-API) 
 
 

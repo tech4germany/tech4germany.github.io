@@ -1,14 +1,12 @@
-# Projekt Chatbot BMI, ITZ Bund BMFSFJ 2020
+# **Chatbot BMI, ITZ Bund BMFSFJ 2020**
 
-
-# Projekt Chatbot
 
 Wir haben den personalisierten und proaktiven Familienlotsen Sonne als Prototypen sowie eine Checkliste als Entscheidungshilfe konzipiert, mit deren Hilfe die Eignung des Einsatzes eines Chatbots für einen konkreten Anwendungsfall geprüft werden kann.
 
 Beide Ergebnisse wurden für die IT-Maßnahme “Chatbots für die Bundesverwaltung” der Dienstekonsolidierung erarbeitet.
 
 
-#### [Fallstudie (PDF)](f1_20200930_Fallstudie_V2.pdf)
+### [Fallstudie (PDF)](f1_20200930_Fallstudie_V2.pdf)
 
 
 # Hintergrund & Herausforderung
@@ -21,37 +19,37 @@ Die Bundesverwaltung möchte stetig die Kommunikation mit Bürger:innen verbesse
 # Ressourcen
 
 
-#### [Doku BMFSFJ (PDF)](f2_BMFSFJ_Dokumentation_V1.pdf)
+### [Doku BMFSFJ (PDF)](f2_BMFSFJ_Dokumentation_V1.pdf)
 
 
-#### [GitHub (Code)](https://github.com/tech4germany/rasa_familienlotse) 
+### [GitHub (Code)](https://github.com/tech4germany/rasa_familienlotse) 
 
 
-#### [Doku BfJ (PDF)](f3_BfJ_Doku_final.pdf)
+### [Doku BfJ (PDF)](f3_BfJ_Doku_final.pdf)
 
 
 # Chatbot Checkliste
 
 
-#### [Checkliste Web](f4_Checkliste.pdf)
+### [Checkliste Web](f4_Checkliste.pdf)
 
 
-#### [Checkliste Poster](2_ChatbotCheckliste_Poster.png)
+### [Checkliste Poster](2_ChatbotCheckliste_Poster.png)
 
 
 # Links
 
 
-#### [Pressemitteilung 1](https://www.itzbund.de/SharedDocs/Pressemitteilungen/DE/20200731_T4G_Fellowship_2020.html)
+### [Pressemitteilung 1](https://www.itzbund.de/SharedDocs/Pressemitteilungen/DE/20200731_T4G_Fellowship_2020.html)
 
 
-#### [Pressemitteilung 2](https://www.itzbund.de/SharedDocs/Pressemitteilungen/DE/20200904_T4G_Zwischenpraesentation.html)
+### [Pressemitteilung 2](https://www.itzbund.de/SharedDocs/Pressemitteilungen/DE/20200904_T4G_Zwischenpraesentation.html)
 
 
-#### [Pressemitteilung 3](https://www.itzbund.de/SharedDocs/Pressemitteilungen/DE/20201020_T4G_Fellowship_Abschluss.html)
+### [Pressemitteilung 3](https://www.itzbund.de/SharedDocs/Pressemitteilungen/DE/20201020_T4G_Fellowship_Abschluss.html)
 
 
-#### [Twitter Video](https://twitter.com/Tech4Germany/status/1311247978875715589?s=20)
+### [Twitter Video](https://twitter.com/Tech4Germany/status/1311247978875715589?s=20)
 
 ![alt](1_sonne_screens.png)
 
@@ -131,7 +129,7 @@ Einen Chatbot aufzusetzen hat Ähnlichkeiten mit dem Aufbau eines Call-Centers: 
 Detailliertes Vorgehen und Ergebnisse des Projektteams (BMFSFJ)
 
 
-#### [Doku BMFSFJ](f2_BMFSFJ_Dokumentation_V1.pdf) 
+### [Doku BMFSFJ](f2_BMFSFJ_Dokumentation_V1.pdf) 
 
 
 ## Code
@@ -139,7 +137,7 @@ Detailliertes Vorgehen und Ergebnisse des Projektteams (BMFSFJ)
 Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 
-#### [Link](https://github.com/tech4germany/rasa_familienlotse) 
+### [Link](https://github.com/tech4germany/rasa_familienlotse) 
 
 
 ## Dokumentation
@@ -147,7 +145,7 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 Detailliertes Vorgehen und Ergebnisse des Projektteams (BfJ)
 
 
-#### [Doku BfJ](f3_BfJ_Doku_final.pdf) 
+### [Doku BfJ](f3_BfJ_Doku_final.pdf) 
 
 
 # das Team

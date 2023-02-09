@@ -1,4 +1,4 @@
-# Projekt Diversitätssensible Sprache Bundesanstalt für Materialforschung und -Prüfung 2021
+# **Projekt Diversitätssensible Sprache Bundesanstalt für Materialforschung und -Prüfung 2021**
 
 
 # INCLUSIFY
@@ -6,7 +6,7 @@
 Zusammen mit der Bundesanstalt für Materialforschung und -prüfung (BAM) haben wir eine prototypische Lösung für die Verwendung diversitätssensibler Sprache entwickelt. Mit INCLUSIFY wollen wir für Diversität sensibilisieren und die Anwendung sensibler Sprache unterstützen. Mit einer Webpage und einem Word-Addin ist der Prototyp in der BAM bereits im Einsatz.  
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie_BAM.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie_BAM.pdf)
 
 
 # +++ Als Diversifix live +++
@@ -14,7 +14,7 @@ Zusammen mit der Bundesanstalt für Materialforschung und -prüfung (BAM) haben 
 Fellows und Digitallots:innen haben einen Verein gegründet, um Diversifix allen zur Verfügung zu stellen. 
 
 
-#### [Jetzt Diversifix ausprobieren](https://diversifix.org/) 
+### [Jetzt Diversifix ausprobieren](https://diversifix.org/) 
 
 
 # Hintergrund & Herausforderung
@@ -25,19 +25,19 @@ In einer diversen Gesellschaft wird jede Person wertgeschätzt und gleich behand
 # Ressourcen
 
 
-#### [GitHub (Code) ](https://github.com/tech4germany/bam-inclusify)
+### [GitHub (Code) ](https://github.com/tech4germany/bam-inclusify)
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie_BAM.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie_BAM.pdf)
 
 
-#### [Dokumentation (PDF)](f2_Externe_Projektdokumentation_BAM.pdf)
+### [Dokumentation (PDF)](f2_Externe_Projektdokumentation_BAM.pdf)
 
 
-#### [Personas (PDF)](f3_Personas_Final.pdf)
+### [Personas (PDF)](f3_Personas_Final.pdf)
 
 
-#### [Prototyp](https://diversifix.org/)
+### [Prototyp](https://diversifix.org/)
 
 
 # Zielsetzung & Vorgehen
@@ -47,7 +47,7 @@ Mit Beginn des Projekts haben wir uns das Ziel gesetzt, zu verstehen, welche Rol
 
 # Erkenntnisse & Lösung
 
-#### Gallery ![1](1_IMG_0524-1280x960.jpg) ![2](2_IMG_0561-1280x960.jpg) ![3](3_20211007-werkstattbesuch-helge-braun-lowres-46-1-1280x968.jpg)
+### Gallery ![1](1_IMG_0524-1280x960.jpg) ![2](2_IMG_0561-1280x960.jpg) ![3](3_20211007-werkstattbesuch-helge-braun-lowres-46-1-1280x968.jpg)
 
 
 
@@ -106,7 +106,7 @@ Wenn du alle Vorschläge durchgegangen bist und deine Formulierungen angepasst h
 Detailliertes Vorgehen und Ergebnisse des Projektteams
 
 
-#### [Download](f2_Externe_Projektdokumentation_BAM.pdf) 
+### [Download](f2_Externe_Projektdokumentation_BAM.pdf) 
 
 
 ## Prototyp
@@ -115,7 +115,7 @@ Funktionierender  \
 INCLUSIFY Prototyp
 
 
-#### [Link](https://diversifix.org/) 
+### [Link](https://diversifix.org/) 
 
 
 ## Code
@@ -123,7 +123,7 @@ INCLUSIFY Prototyp
 Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 
-#### [Link](https://github.com/tech4germany/bam-inclusify) 
+### [Link](https://github.com/tech4germany/bam-inclusify) 
 
 
 # das Team
@@ -153,7 +153,7 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 [LinkedIn](https://www.linkedin.com/in/davidpomerenke/)
 
 
-#### Projektpartnerinnen
+### Projektpartnerinnen
 
 Bundesanstalt für Materialforschung und -prüfung 
 

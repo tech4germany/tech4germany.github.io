@@ -1,12 +1,10 @@
-# Projekt Forschungsdaten BMG 2020
+# **Forschungsdaten BMG 2020**
 
-
-# Forschungsdatenzentrum
 
 Im Forschungsdatenzentrum werden in einem geschützten Rahmen die Gesundheitsdaten von Krankenkassen für Forschungszwecke verfügbar gemacht. Tech4Germany hatte das Ziel, die Gesundheitsdaten besser zugänglich für Forscher:innen zu machen. Dafür wurde ein Prototyp für das neue Portal im Forschungsdatenzentrum unter Einbindung der Forscher:innen entwickelt. Somit wurde die Prozessführung für Forscher:innen wesentlich verbessert und so der Forschungsprozess transparent gemacht. 
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie_FDZ.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie_FDZ.pdf)
 
 
 # Hintergrund & Herausforderung
@@ -19,22 +17,22 @@ Das BMG hat mit dem BfArM Tech4Germany in das FDZ geholt, um die Nutzungsfreundl
 # Ressourcen
 
 
-#### [Benchmarking (PDF)](f2_Benchmarking-Forschungsdatenzentrum.pdf)
+### [Benchmarking (PDF)](f2_Benchmarking-Forschungsdatenzentrum.pdf)
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie_FDZ.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie_FDZ.pdf)
 
 
-#### [GitHub (Code)](https://github.com/tech4germany/fdz-portal) 
+### [GitHub (Code)](https://github.com/tech4germany/fdz-portal) 
 
 
 # LINKS
 
 
-#### [Antragsportal Prototyp](https://fdz.tech4germany.org/)
+### [Antragsportal Prototyp](https://fdz.tech4germany.org/)
 
 
-#### [Landingpage Prototyp](https://www.figma.com/proto/FCtbGdUX5YFNlNisle6qhZ/%F0%9F%A4%96-FDZ-Landing-Page?node-id=129%3A1&scaling=min-zoom)
+### [Landingpage Prototyp](https://www.figma.com/proto/FCtbGdUX5YFNlNisle6qhZ/%F0%9F%A4%96-FDZ-Landing-Page?node-id=129%3A1&scaling=min-zoom)
 
 ![alt](1_fdz-team-2-1280x960.jpeg)
 
@@ -83,7 +81,7 @@ Es gibt jetzt klare Informationen über die verschiedenen Wege, um an Daten für
 Ein Vergleich mit anderen Forschungsdatenzentren in der EU
 
 
-#### [Lesen](f2_Benchmarking-Forschungsdatenzentrum.pdf) 
+### [Lesen](f2_Benchmarking-Forschungsdatenzentrum.pdf) 
 
 
 ## Prototyp
@@ -91,7 +89,7 @@ Ein Vergleich mit anderen Forschungsdatenzentren in der EU
 Der von unserem Team entwickelte Prototyp für das Antragsportal
 
 
-#### [Besuchen](https://fdz.tech4germany.org/) 
+### [Besuchen](https://fdz.tech4germany.org/) 
 
 
 ## Code
@@ -99,7 +97,7 @@ Der von unserem Team entwickelte Prototyp für das Antragsportal
 Der Open Source Code unseres Prototypens
 
 
-#### [Github](https://github.com/tech4germany/fdz-portal) 
+### [Github](https://github.com/tech4germany/fdz-portal) 
 
 
 # das Team
@@ -121,7 +119,7 @@ Engineering Fellow
 Design Fellow
 
 
-#### Projektpartner
+### Projektpartner
 
 **Bundesministerium für Gesundheit**
 

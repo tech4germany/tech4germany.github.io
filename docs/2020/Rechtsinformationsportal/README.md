@@ -1,7 +1,5 @@
-# Projekt Rechtsinformationsportal BMJV 2020
+# **Rechtsinformationsportal BMJV 2020**
 
-
-# Rechtsinformationsportal
 
 Darf der Zugang zu Rechtsinformationen im Jahr 2020 auf dem Stand der frühen 90er bleiben? Ein klares Urteil: Nein! Die bestehenden Portale des Bundes bieten interessierten Bürgerinnen und Bürgern keinen zeitgemäßen Zugang zu Rechtsinformationen.
 
@@ -11,7 +9,7 @@ Darf der Zugang zu Rechtsinformationen im Jahr 2020 auf dem Stand der frühen 90
 Die bestehenden Portale des Bundes
 
 
-#### [ Gesetze-im-Internet.de](https://www.gesetze-im-internet.de/),[ Rechtsprechung-im-Internet.de](https://www.rechtsprechung-im-internet.de/) und[ Verwaltungsvorschriften-im-Internet.de](https://www.verwaltungsvorschriften-im-internet.de/)
+### [ Gesetze-im-Internet.de](https://www.gesetze-im-internet.de/),[ Rechtsprechung-im-Internet.de](https://www.rechtsprechung-im-internet.de/) und[ Verwaltungsvorschriften-im-Internet.de](https://www.verwaltungsvorschriften-im-internet.de/)
 
  sind nicht gut lesbar. Die Portale sind nicht mobil optimiert, der Text ist klein, die Suche ist versteckt, die Filtermöglichkeiten sind sperrig und die Suchergebnisse sind wenig aussagekräftig. Auch die Kriterien von Open Data werden nicht erfüllt. Um die Rechtsinformationen weiterzuverwenden, müssen die Daten erst umständlich heruntergeladen, formatiert, und bereinigt werden. 
 
@@ -21,22 +19,22 @@ Die mehr als 4 Mio. monatlichen Besuche der Seiten zeigen die Notwendigkeit für
 # LINKS
 
 
-#### [Clickdummy](http://clickdummy.rechtsinformationsportal.de)
+### [Clickdummy](http://clickdummy.rechtsinformationsportal.de)
 
 
-#### [Alpha Version](https://alpha.rechtsinformationsportal.de/)
+### [Alpha Version](https://alpha.rechtsinformationsportal.de/)
 
 
-#### [API ](https://api.rechtsinformationsportal.de/)
+### [API ](https://api.rechtsinformationsportal.de/)
 
 
-#### [Github (Alpha) ](https://github.com/tech4germany/rechtsinfo-fe)
+### [Github (Alpha) ](https://github.com/tech4germany/rechtsinfo-fe)
 
 
-#### [Github (API) ](https://github.com/tech4germany/rechtsinfo_api)
+### [Github (API) ](https://github.com/tech4germany/rechtsinfo_api)
 
 
-#### [Fallstudie als PDF](f1_Tech4Germany_Fallstudie_Rechtsinformationsportal.pdf)
+### [Fallstudie als PDF](f1_Tech4Germany_Fallstudie_Rechtsinformationsportal.pdf)
 
 ![alt](1_Tech4Germany_Rechtsinformationsportal_GesetzeImInternet-1.png)
 
@@ -103,21 +101,21 @@ Der Clickdummy zeigt anhand eines konkreten Beispiels die potentiellen Funktione
 # Unsere Ergebnisse sind frei verfügbar
 
 
-#### [Alpha-Version](https://alpha.rechtsinformationsportal.de/) 
+### [Alpha-Version](https://alpha.rechtsinformationsportal.de/) 
 
 Die erste Version für Gesetze mit basalen Funktionalitäten ist live.
 
 
-#### [Clickdummy](http://clickdummy.rechtsinformationsportal.de) 
+### [Clickdummy](http://clickdummy.rechtsinformationsportal.de) 
 
 Die Vision des vollumfänglichen Rechtsinformationsportal ist klickbar.
 
 
-#### [Datenschnittstelle](https://api.rechtsinformationsportal.de/) 
+### [Datenschnittstelle](https://api.rechtsinformationsportal.de/) 
 
 Die Schnittstelle ermöglicht Dritten Zugriff auf die Daten von Gesetze-im-Internet.de.
 
-#### [Code](https://github.com/tech4germany) 
+### [Code](https://github.com/tech4germany) 
 
 Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub.
 

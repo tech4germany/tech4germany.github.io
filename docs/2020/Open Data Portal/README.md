@@ -1,7 +1,5 @@
-# Projekt Open Data Portal AA Govdata 2020
+# **Open Data Portal AA Govdata 2020**
 
-
-# Open Data Portal
 
 Die Verfügbarkeit von Daten ist Teil einer modernen Infrastruktur.  Wie kann die Plattform GovData für Datenanwender:innen und/oder Datenbereitsteller:innen nutzerfreundlicher gemacht werden?
 
@@ -11,25 +9,25 @@ Die Verfügbarkeit von Daten ist Teil einer modernen Infrastruktur.  Wie kann di
 Das Prinzip der offenen Daten – “Open Data” – bekommt weltweit eine immer größere Bedeutung. Die Verfügbarkeit von Daten wird zunehmend zu einem wichtigen Wirtschaftsfaktor und die Daten zu einem Teil einer modernen Infrastruktur. Damit die von Bund-, Länder- und Kommunalverwaltungen bereitgestellten Open Data einfach auffindbar sind, wurde das bundesweite Metadatenportal GovData geschaffen. Trotz des Anspruchs der Bundesregierung ein Vorreiter im Bereich Open Data zu sein, landete Deutschland im EU Open Data Maturity Report 2019 lediglich auf Platz 12 unter den 28 EU Staaten. Sowohl die Nutzerfreundlichkeit der Plattform, als auch der Prozess der Datenbereitstellung für Ministeriumsmitarbeiter:innen bieten dabei Potenzial zur Verbesserung. Vor diesem Hintergrund war die Fragestellung für das T4G-Fellowship – wie kann die Plattform GovData für Datenanwender:innen und / oder Datenbereitsteller:innen nutzerfreundlicher gemacht werden?
 
 
-#### [Video](v1_GuidoErklaervideo_OpenDataPortal.mp4)
+### [Video](v1_GuidoErklaervideo_OpenDataPortal.mp4)
 
 
 # Ressourcen
 
 
-#### [Fallstudie (PDF)](f1_Fallstudie_OpenDataPortal.pdf)
+### [Fallstudie (PDF)](f1_Fallstudie_OpenDataPortal.pdf)
 
 
-#### [GitHub (Code)](https://github.com/tech4germany/open-data-process-guide)
+### [GitHub (Code)](https://github.com/tech4germany/open-data-process-guide)
 
 
-#### [Dokumentation (PDF)](f2_Projektdokumentation_OpenDataPortal.pdf)
+### [Dokumentation (PDF)](f2_Projektdokumentation_OpenDataPortal.pdf)
 
 
-#### [Umsetzungsplan (PDF)](f3_Umsetzungsplan_OpenDataPortal.pdf)
+### [Umsetzungsplan (PDF)](f3_Umsetzungsplan_OpenDataPortal.pdf)
 
 
-#### [Abschlusspitch (Video)](https://youtu.be/UzrPXo_7ht0)
+### [Abschlusspitch (Video)](https://youtu.be/UzrPXo_7ht0)
 
 
 # Zielsetzung & Vorgehen
@@ -61,7 +59,7 @@ GUIDO hilft Ministeriums-Mitarbeitenden Schritt für Schritt durch den Bereitste
 Detailliertes Vorgehen und Ergebnisse des Projektteams
 
 
-#### [Download](f2_Projektdokumentation_OpenDataPortal.pdf) 
+### [Download](f2_Projektdokumentation_OpenDataPortal.pdf) 
 
 
 ## Code
@@ -69,7 +67,7 @@ Detailliertes Vorgehen und Ergebnisse des Projektteams
 Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 
-#### [GitHub (Code)](https://github.com/tech4germany/open-data-process-guide) 
+### [GitHub (Code)](https://github.com/tech4germany/open-data-process-guide) 
 
 
 # das Team

@@ -1,4 +1,4 @@
-# Projekt Fördermittelvergabe BMVDI 2021
+# **Projekt Fördermittelvergabe BMVDI 2021**
 
 
 # FörderAssist
@@ -6,7 +6,7 @@
 FörderAssist **begleitet Antragstellende** durch den Prozess der Fördermittelbeantragung. Insbesondere für unerfahrene Antragstellende ist der Prozess jedoch oft herausfordernd. Der Ansatz von FörderAssist kombiniert **Prozessbegleitung mit Wissensvermittlung**, um Antragstellenden bei Einreichungen zu unterstützen – und durch formal korrekte Anträge auch **Bearbeitenden Arbeit zu ersparen**.
 
 
-#### [Fallstudie (PDF)](f1_CaseStudy_T4G_2021_BMVI_Foerdermittelvergabe.pdf)
+### [Fallstudie (PDF)](f1_CaseStudy_T4G_2021_BMVI_Foerdermittelvergabe.pdf)
 
 
 # Hintergrund & Herausforderung
@@ -18,22 +18,22 @@ Die Vergabe von Fördermitteln ist eines der **wichtigsten Instrumente der öffe
 # Ressourcen
 
 
-#### [Fallstudie (PDF)](f1_CaseStudy_T4G_2021_BMVI_Foerdermittelvergabe.pdf)
+### [Fallstudie (PDF)](f1_CaseStudy_T4G_2021_BMVI_Foerdermittelvergabe.pdf)
 
 
-#### [Dokumentation (PDF)](f2_Projektdoku_T4G_2021_BMVI.pdf)
+### [Dokumentation (PDF)](f2_Projektdoku_T4G_2021_BMVI.pdf)
 
 
-#### [GitHub (Code) Frontend](https://github.com/Paul-Geppert/t4g_proposal_submission_tool)
+### [GitHub (Code) Frontend](https://github.com/Paul-Geppert/t4g_proposal_submission_tool)
 
 
-#### [GitHub (Code) Backend](https://github.com/Paul-Geppert/t4g_proposal_backend)
+### [GitHub (Code) Backend](https://github.com/Paul-Geppert/t4g_proposal_backend)
 
 
 # LINKS
 
 
-#### [Präsentation (YouTube)](https://www.youtube.com/watch?v=JzYIt1j5bwI)
+### [Präsentation (YouTube)](https://www.youtube.com/watch?v=JzYIt1j5bwI)
 
 ![alt](2_ManyScreens_slim-980x112.png)
 
@@ -136,7 +136,7 @@ Antragstellende finden oft nur mit Aufwand das passende Förderprogramm, denn In
 Detailliertes Vorgehen und Ergebnisse des Projektteams
 
 
-#### [Download](f2_Projektdoku_T4G_2021_BMVI.pdf) 
+### [Download](f2_Projektdoku_T4G_2021_BMVI.pdf) 
 
 
 ## Präsentation
@@ -144,7 +144,7 @@ Detailliertes Vorgehen und Ergebnisse des Projektteams
 Vorstellung des Projekts und Prototypen
 
 
-#### [Aufzeichnung](https://www.youtube.com/watch?v=JzYIt1j5bwI) 
+### [Aufzeichnung](https://www.youtube.com/watch?v=JzYIt1j5bwI) 
 
 
 ## Code
@@ -152,7 +152,7 @@ Vorstellung des Projekts und Prototypen
 Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 
-#### [GitHub](https://github.com/Paul-Geppert/t4g_proposal_submission_tool) 
+### [GitHub](https://github.com/Paul-Geppert/t4g_proposal_submission_tool) 
 
 
 # das Team

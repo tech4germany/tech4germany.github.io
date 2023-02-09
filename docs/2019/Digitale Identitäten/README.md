@@ -1,7 +1,5 @@
-# Projekt Digitale Identitäten ITZ Bund 2019
+# **Digitale Identitäten ITZ Bund 2019**
 
-
-# Digitale Identitäten
 
 In diesem Projekt haben wir uns damit beschäftigt, wie Bürger:innen sich online ausweisen können, um Dienstleistungen des Staates digital beziehen zu können.
 

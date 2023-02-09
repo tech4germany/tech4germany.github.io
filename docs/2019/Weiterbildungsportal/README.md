@@ -1,12 +1,10 @@
-# Projekt Weiterbildungsportal BMAS 2019
+# **Projekt Weiterbildungsportal BMAS 2019**
 
-
-# Projekt Weiter Lernen
 
 In diesem Projekt haben wir uns im Sinne der nationalen Weiterbildungsstrategie mit der Herausforderung beschäftigt, wie Menschen in Deutschland die für sie richtige Weiterbildung finden können. Entstanden ist eine zentrale Plattform, die die wichtigsten User Needs abdeckt.
 
 
-#### [Case Study](https://medium.com/tech4germany/fallstudie-weiterbildung-einstiegsplattform-f%C3%BCr-weiterbildung-b7455b47161b)
+### [Case Study](https://medium.com/tech4germany/fallstudie-weiterbildung-einstiegsplattform-f%C3%BCr-weiterbildung-b7455b47161b)
 
 
 # Herausforderung
@@ -26,7 +24,7 @@ Finden der richtigen Weiterbildung durch erhöhte Informationstransparenz
 
 Finanzieren der Weiterbildung dank des integrierten Förder-Rechners
 
-#### Galerie
+### Galerie
 
 ![Bild 1](02_BMAS-1-1280x735.png)
 ![Bild 2](02_1_Group.png)
@@ -42,7 +40,7 @@ Finanzieren der Weiterbildung dank des integrierten Förder-Rechners
 Gesamtkonzept einer Einstiegsplattform für Weiterbildungsangebote.
 
 
-#### [Download](f1_BMAS_Weiterbildung-Projektdokumentation_T4GWebseite.pdf)
+### [Download](f1_BMAS_Weiterbildung-Projektdokumentation_T4GWebseite.pdf)
 
 
 ## Technischer Prototyp
@@ -50,7 +48,7 @@ Gesamtkonzept einer Einstiegsplattform für Weiterbildungsangebote.
 Prototyp eines Orientierungstools, das spielerisch Berufsfelder und passende Weiterbildungsangebote aufzeigt.
 
 
-#### [Link](http://t4g-2019-bmas.s3-website.us-east-2.amazonaws.com/) 
+### [Link](http://t4g-2019-bmas.s3-website.us-east-2.amazonaws.com/) 
 
 
 ## Source-Code
@@ -58,7 +56,7 @@ Prototyp eines Orientierungstools, das spielerisch Berufsfelder und passende Wei
 Übergabe des Source-Codes für das Machine-Learning gestützte Orientierungstool für Weiterbildungsangebote
 
 
-#### [Link](https://github.com/tech4germany/Tech4Germany-Weiterbildung)
+### [Link](https://github.com/tech4germany/Tech4Germany-Weiterbildung)
 
 
 # Projektteam
@@ -84,7 +82,7 @@ Prototyp eines Orientierungstools, das spielerisch Berufsfelder und passende Wei
 **Engineering Fellow
 
 
-#### Projektpartner
+### Projektpartner
 
 BMAS
 

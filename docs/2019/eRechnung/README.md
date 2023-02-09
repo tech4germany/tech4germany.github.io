@@ -1,12 +1,10 @@
 # **eRechnung ITZ Bund 2019**
 
 
-
-
 In diesem Projekt haben wir uns aus Nutzer-Sicht mit der Zentralen Rechnungs-Eingangsplattform (ZRE), über welche eRechnungen an öffentliche Auftraggeber versendet werden, beschäftigt und dieses signifikant verbessert.
 
 
-#### [Case Study](https://medium.com/tech4germany/fallstudie-erechnung-redesign-des-erechnungs-portals-des-bundes-67dd3e089b67) 
+### [Case Study](https://medium.com/tech4germany/fallstudie-erechnung-redesign-des-erechnungs-portals-des-bundes-67dd3e089b67) 
 
 
 # +++ e-Rechnung seit November 2020 live +++
@@ -16,7 +14,7 @@ Nach der Prototypisierung durch Tech4Germany wurde die e-Rechnung im November 20
 geschaltet.
 
 
-#### [Jetzt e-Rechnung ansehen](https://www.e-rechnung-bund.de/)
+### [Jetzt e-Rechnung ansehen](https://www.e-rechnung-bund.de/)
 
 
 # HERAUSFORDERUNG
@@ -122,7 +120,7 @@ Zusätzlich wird auf die Vorteile der eRechnung verwiesen und konkreten ToDos an
 Ein umfangreiches Dokument, welches das Projekt und die Vorgehensweise ausführlich beschreibt.
 
 
-#### [Download](Projektdokumentation)
+### [Download](Projektdokumentation)
 
 
 # PROJEKTTEAM

@@ -17,4 +17,7 @@ markdown_extensions:
 copyright: Copyright &copy; 2016 - 2023 Digitalservice Bund GmbH
 extra:
   generator: false
+  social:
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/
 

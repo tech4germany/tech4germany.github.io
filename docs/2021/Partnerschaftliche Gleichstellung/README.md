@@ -29,7 +29,7 @@ Das Angebot soll **_informierte und reflektierte Entscheidungen_** über die Rol
 ### [Prozesspapier](f2_BMFSFJ-2021-Prozesspapier-Partnerschaftliche-Gleichstellung.pdf)
 
 
-### [Handlungsempfehlungen](f3_BMFSFJ-2021-Öff.-Handlungsempfehlungen-Partnerschaftliche-Gleichstellung.pdf)
+### [Handlungsempfehlungen](f3_BMFSFJ-2021-Oeff.-Handlungsempfehlungen-Partnerschaftliche-Gleichstellung.pdf)
 
 
 ### [OnePager StartApp Familie](f4_OnePager_BMFSFJ_final.pdf)
@@ -78,7 +78,7 @@ und einfach hilft, alle Aufgaben im Blick zu behalten.
 
 Das Besondere ist: Die StartApp Familie ist dank der **_Sharing-Funktion_** auch für **_Paare_** nutzbar. Hiermit trägt sie zur gemeinsamen Planung bei, schafft einen gleichen, einfachen Zugang zum Wissen und befördert eine **_klischeefreie Aufgabenteilung zwischen den Partner:innen._** 
 
-![alt](19_T4G-Slides-Abschlusspräsentation-2021.jpg)
+![alt](19_T4G-Slides-Abschlusspaesentation-2021.jpg)
 ![alt](20_start.png)
 
 ## Personalisierte vorausgefüllte To-Do-Liste
@@ -136,7 +136,7 @@ Detalliertes Vorgehen und Ergebnisse des Projektteams
 Empfehlungen an das BMFSFJ zur agilen Weiterführung des Projekts
 
 
-### [Download](f3_BMFSFJ-2021-Öff.-Handlungsempfehlungen-Partnerschaftliche-Gleichstellung.pdf) 
+### [Download](f3_BMFSFJ-2021-Oeff.-Handlungsempfehlungen-Partnerschaftliche-Gleichstellung.pdf) 
 
 
 ## Prototyp (Demo)
@@ -172,7 +172,7 @@ Sophia Grote \
 Design Fellow \
 [LinkedIn](https://www.linkedin.com/in/sophia-grote-83b811170/)
 
-![alt](24_Malte-Laukötter-scaled.jpg)
+![alt](24_Malte-Laukoetter-scaled.jpg)
 Malte Laukötter \
 Engineering Fellow \
 [LinkedIn](https://www.linkedin.com/in/malte-lauk%C3%B6tter/)

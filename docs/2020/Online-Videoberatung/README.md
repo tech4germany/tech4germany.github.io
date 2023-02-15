@@ -47,7 +47,6 @@ In unseren Interviews und Tests fanden wir heraus, dass Kund:innen hier besonder
 ## Globales Widget für Beratung & Kontakt
 
 Das bereits bestehende Widget für Kontakt kann auch um die Videoberatung erweitert werden. So gibt es einen globalen, konsistenten Einstiegspunkt in die Services.
-![alt](1_Sina Beckstein.jpg)
 
 ![alt](5_26-1280x720.png)
 

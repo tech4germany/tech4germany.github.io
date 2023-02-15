@@ -184,7 +184,7 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 **Bundesministerium für Verkehr und digitale Infrastruktur**
 
-![alt](19_BMVI_Alexander-Dürnagel-800x1056-1.png)
+![alt](19_BMVI_Alexander-Duernagel-800x1056-1.png)
 **Alexander Dürnagel \
 **Referatsleiter \
 [E-Mail](mailto:alexander.duernagel@bmvi.bund.de)
@@ -194,7 +194,7 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 **Sachbearbeiterin \
 [E-Mail](mailto:nadine.huke@bmvi.bund.de)
 
-![alt](21_BMVI-Raphael-Schönball-800x1056-1.png)
+![alt](21_BMVI-Raphael-Schoenball-800x1056-1.png)
 **Raphael Schönball \
 **Werkstudent \
 [E-Mail](mailto:raphael.schoenball@bmvi.bund.de)

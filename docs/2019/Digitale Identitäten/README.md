@@ -52,7 +52,7 @@ Organisation eines strategischen Roundtables zu Digitalen Identitäten (s. Case 
 Übersicht der größten existierenden digitalen Identitäten.
 
 
-#### [Download](f2_Marktübersicht_Digitale_Identitäten.xlsx)
+#### [Download](f2_Marktuebersicht_Digitale_Identitaeten.xlsx)
 
 
 ## Glossar Digitale Identitäten

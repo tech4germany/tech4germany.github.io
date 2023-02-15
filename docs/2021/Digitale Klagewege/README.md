@@ -1,3 +1,8 @@
+---
+hide:
+- toc
+---
+
 # **Digitale Klagewege BMJV 2021**
 
 
@@ -175,7 +180,7 @@ GitHub Repository der WebApp
 **Marcus Novotny** \
 Product Fellow
 
-![alt](11_Eileen-Einwächter-800x1056-1.png)
+![alt](11_Eileen-Einwaechter-800x1056-1.png)
 **Eileen Einwächter** \
 Design Fellow
 
@@ -207,7 +212,8 @@ Referatsleiter
 Digitallotsin, \
 Richterin
 
-![alt](17_BMJV-Martin-Säcker.png)
+![alt](17_BMJV-Martin-Saecker.png)
 **Martin Säcker** \
 Digitallotse, \
 Richter
+

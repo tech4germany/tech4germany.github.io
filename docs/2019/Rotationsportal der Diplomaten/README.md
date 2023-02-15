@@ -67,7 +67,7 @@ Grobe Auflistung des Arbeitsprozesses und Zwischen-ergebnisse im Rahmen von Tech
 Strategiekonzept, Potentiale und Risikobewertung zur Weiterarbeit im Auswärtigen Amt.
 
 
-### [Download](f2_Umsetzungsplan_Veröffentlichung-auf-Projektseite.pdf) 
+### [Download](f2_Umsetzungsplan_Veroeffentlichung-auf-Projektseite.pdf) 
 
 
 ## Rotationsplaner

@@ -106,9 +106,9 @@ Eine semantische Suche hilft den Nutzern bei häufigen Fragen schnell zur richti
 
 # Informationskampagne 
 
-Für einen schnellen Überblick werden kurz und knapp die wichtigsten Informationen im Bezug auf die eRechnung aufgeführt.
+Für einen schnellen Überblick werden kurz und knapp die wichtigsten Informationen in Bezug auf die eRechnung aufgeführt.
 
-Zusätzlich wird auf die Vorteile der eRechnung verwiesen und konkreten ToDos angezeigt.
+Zusätzlich wird auf die Vorteile der eRechnung verwiesen und konkreten To-Dos angezeigt.
 ![alt](012_e-7-1024x679.png)
 
 
@@ -123,7 +123,7 @@ Ein umfangreiches Dokument, welches das Projekt und die Vorgehensweise ausführl
 ### [Download](Projektdokumentation)
 
 
-# PROJEKTTEAM
+# Projektteam
 
 Durch Tech4Germany konnten wir einen tiefen Einblick in die Prozesse und die Arbeitsweise der öffentlichen Verwaltung gewinnen.
 
@@ -134,7 +134,7 @@ Dabei haben wir festgestellt, dass bei der Digitalisierung der Behörden und der
 v. L. n. R. Sebastian Erhardt (Engineering Fellow), Katrin Schauer (Design Fellow), Melanie Adelt (Product Fellow), Michael Pernpeintner (Engineering Fellow)
 
 
-# PROJEKTPARTNER
+# Projektpartner:innen
 
 ![alt](013_Arndt_Fabrice.png)
 

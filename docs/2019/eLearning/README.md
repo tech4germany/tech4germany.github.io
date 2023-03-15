@@ -1,4 +1,4 @@
-# **e-Learning ITZ Bund 2019**
+# **E-Learning ITZ Bund 2019**
 
 
 Die IT-Konsolidierung des Bundes bringt einen enormen Schulungsaufwand mit sich. Um allen Mitarbeiter:innen der Verwaltung einen reibungslosen Umstieg zu gewähren sollte E-Learning als wertvolle Chance genutzt werden.
@@ -34,7 +34,7 @@ Die Startseite soll Nutzer:innen in ihrer Lernerfahrung bestärken. Begonnene Ku
 
 # Kurse
 
-Die Kursseiten bieten die Möglichkeit Anhänge & Vorlagen direkt runterzuladen und inhaltliche Fragen zu stellen.
+Die Kursseiten bieten die Möglichkeit, Anhänge & Vorlagen direkt runterzuladen und inhaltliche Fragen zu stellen.
 
 ![alt](03_1.png)
 
@@ -57,7 +57,7 @@ Executive Summary der Dokumentation der E-Learning Plattform für die E-Akte.
 
 ## Case Study
 
-Case Study zur Vorgehensweise im Projekt “E-Learning Plattform für die E-Akte”.
+Case Study zur Vorgehensweise im Projekt „E-Learning Plattform für die E-Akte”.
 
 
 ### [Link](https://medium.com/tech4germany/fallstudie-e-learning-e-learning-zur-e-akte-bund-dad91e49d1dc) 
@@ -71,7 +71,7 @@ How-To Guide zur Erstellung von Schulungsvideos in Behörden.
 ### [Download](f2_T4G_Schritt-für-Schritt-Anleitung_Video.pdf) 
 
 
-# ProjektTEAM
+# Projektteam
 
 ![alt](05_Chantal_Rexhausen.png)
 
@@ -94,7 +94,7 @@ How-To Guide zur Erstellung von Schulungsvideos in Behörden.
 **Engineering Fellow
 
 
-# Projektpartner
+# Projektpartner:innen
 
 **Andreas Bull \
 **Digitallotse

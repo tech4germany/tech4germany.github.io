@@ -20,7 +20,7 @@ Schnelle und einfache Authentifizierung für möglichst viele Bürger:innen erm�
 
 Usability und Sicherheit bei der Online-Authentifizierung für Verwaltungsleistungen vereinen
 
-Bestehende Infrastrukturen nutzen, um Nutzer-freundlichkeit der Online-Authentifizierung zu erhöhen
+Bestehende Infrastrukturen nutzen, um Nutzerfreundlichkeit der Online-Authentifizierung zu erhöhen
 
 
 # Prototyp

@@ -11,7 +11,7 @@ Die bestehenden Portale des Bundes
 
 ### [ Gesetze-im-Internet.de](https://www.gesetze-im-internet.de/),[ Rechtsprechung-im-Internet.de](https://www.rechtsprechung-im-internet.de/) und[ Verwaltungsvorschriften-im-Internet.de](https://www.verwaltungsvorschriften-im-internet.de/)
 
- sind nicht gut lesbar. Die Portale sind nicht mobil optimiert, der Text ist klein, die Suche ist versteckt, die Filtermöglichkeiten sind sperrig und die Suchergebnisse sind wenig aussagekräftig. Auch die Kriterien von Open Data werden nicht erfüllt. Um die Rechtsinformationen weiterzuverwenden, müssen die Daten erst umständlich heruntergeladen, formatiert, und bereinigt werden. 
+ sind nicht gut lesbar. Die Portale sind nicht mobil optimiert, die Schrift ist klein, die Suche ist versteckt, die Filtermöglichkeiten sind sperrig und die Suchergebnisse sind wenig aussagekräftig. Auch die Kriterien von Open Data werden nicht erfüllt. Um die Rechtsinformationen weiterzuverwenden, müssen die Daten erst umständlich heruntergeladen, formatiert, und bereinigt werden. 
 
 Die mehr als 4 Mio. monatlichen Besuche der Seiten zeigen die Notwendigkeit für ein neues Rechtsinformationsportal, mit dem der Umfang, die Qualität und die Recherchierbarkeit von Rechtsinformationen verbessert werden.
 
@@ -120,7 +120,7 @@ Die Schnittstelle ermöglicht Dritten Zugriff auf die Daten von Gesetze-im-Inter
 Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub.
 
 
-# das Team
+# Das Team
 
 ![alt](8_Conrad_Square.png) \
 **Conrad Schlenkhoff** \

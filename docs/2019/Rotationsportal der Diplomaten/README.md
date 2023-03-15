@@ -9,7 +9,7 @@ Jeden Sommer wechseln über 2.000 Mitarbeiter:innen des Auswärtigen Dienstes de
 
 # Ausgangslage
 
-Die Rotation bringt für die Beschäftigten des Auswärtigen Dienstes eine Fülle von Aufgaben und Herausforderungen mit sich. Nicht nur der Umzug als solcher, auch die Wohnungssuche, neue Schulunterbringung für die Kinder, die Berufstätigkeit der Partner_in, erforderliche Impfungen, etc. müssen organisiert werden. Trotz fachlicher und finanzieller Unterstützung des Auswärtigen Amtes, finden sie sich bei der Planung und Umsetzung einer Rotation jedes Mal aufs Neue in einem Spannungsfeld zwischen persönlichen Bedürfnissen und den komplexen, bürokratischen Vorgaben. Die Menge an Bürokratie und das unübersichtliche Informationsangebot im Planungsprozess bringen Ungewissheit, Überforderung, Stress; unter Umständen wird finanzielle Unterstützung mangels Kenntnis nicht in Anspruch genommen.
+Die Rotation bringt für die Beschäftigten des Auswärtigen Dienstes eine Fülle von Aufgaben und Herausforderungen mit sich. Nicht nur der Umzug als solcher, sondern auch die Wohnungssuche, neue Schulunterbringung für die Kinder, die Berufstätigkeit der Partner_in, erforderliche Impfungen, etc. müssen organisiert werden. Trotz fachlicher und finanzieller Unterstützung des Auswärtigen Amtes, finden sie sich bei der Planung und Umsetzung einer Rotation jedes Mal aufs Neue in einem Spannungsfeld zwischen persönlichen Bedürfnissen und den komplexen, bürokratischen Vorgaben. Die Menge an Bürokratie und das unübersichtliche Informationsangebot im Planungsprozess bringen Ungewissheit, Überforderung, Stress; unter Umständen wird finanzielle Unterstützung mangels Kenntnis nicht in Anspruch genommen.
 
 ![alt](01_Ausgangslage-980x654.png)
 
@@ -29,7 +29,7 @@ Die Mitarbeiter:innen der Fachreferate sind durch die hohen Nach- und Rückfrage
 
 ## 3 Das Auswärtige Amt
 
-Als Folge der Rotation und ihrer umfangreichen Vorbereitung ist über einen Zeitraum von mehreren Monaten die Arbeitseffizienz der Mitarbeiter:innen reduziert. Digitalisierung würde an der Stelle einen Effizienzgewinn bedeuten.
+Als Folge der Rotation und ihrer umfangreichen Vorbereitung ist über einen Zeitraum von mehreren Monaten die Arbeitseffizienz der Mitarbeiter:innen reduziert. Digitalisierung würde an dieser Stelle einen Effizienzgewinn bedeuten.
 
 
 # Zielsetzung
@@ -56,7 +56,7 @@ Bildet zum ersten Mal den Prozess der Rotation ganzheitlich und zentral ab und b
 
 ## Prozess
 
-Grobe Auflistung des Arbeitsprozesses und Zwischen-ergebnisse im Rahmen von Tech4Germany. 
+Grobe Auflistung des Arbeitsprozesses und Zwischenergebnisse im Rahmen von Tech4Germany. 
 
 
 ### [Download](f1_Prozesspapier.pdf) 

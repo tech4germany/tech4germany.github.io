@@ -1,7 +1,7 @@
 # **Online-Videoberatung DRV 2020**
 
 
-Zusammen mit der Deutschen Rentenversicherung haben wir am Thema Videoberatung gearbeitet. Bei ca. 80 Millionen Kund:innen gibt es eine Menge zu beachten.
+Gemeinsam mit der Deutschen Rentenversicherung haben wir am Thema Videoberatung gearbeitet. Bei ca. 80 Millionen Kund:innen gibt es eine Menge zu beachten.
 
 
 ### [Prototyp ausprobieren](https://www.figma.com/proto/RKOGPPatPQ1HGUdYwo3Ynw/T4G_Rentify?node-id=1133%3A696&viewport=1533%2C-185%2C0.05017091706395149&scaling=scale-down-width&hide-ui=1)
@@ -63,7 +63,7 @@ Um diese Fragen strukturiert zu beantworten erstellten wir eine Strategie, welch
 
 ## 1 Terminbuchung
 
-Wir verbessern u. a. die visuelle Hierarchie der Informationen um eine intuitive Navigation zu ermöglichen und sicherzustellen, dass die Kund:innen zur richtigen Zeit die richtigen Informationen erhalten. Zusätzlich soll das Konzept trägerübergreifend skaliert werden können, da Videoberatung aus Kund:innensicht ortsunabhängig ist. 
+Wir verbessern u.a. die visuelle Hierarchie der Informationen um eine intuitive Navigation zu ermöglichen und sicherzustellen, dass die Kund:innen zur richtigen Zeit die richtigen Informationen erhalten. Zusätzlich soll das Konzept trägerübergreifend skaliert werden können, da Videoberatung aus Kund:innensicht ortsunabhängig ist. 
 
 
 ## 2 Sofort Videoberatung

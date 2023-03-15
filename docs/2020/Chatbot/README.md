@@ -3,7 +3,7 @@
 
 Wir haben den personalisierten und proaktiven Familienlotsen Sonne als Prototypen sowie eine Checkliste als Entscheidungshilfe konzipiert, mit deren Hilfe die Eignung des Einsatzes eines Chatbots für einen konkreten Anwendungsfall geprüft werden kann.
 
-Beide Ergebnisse wurden für die IT-Maßnahme “Chatbots für die Bundesverwaltung” der Dienstekonsolidierung erarbeitet.
+Beide Ergebnisse wurden für die IT-Maßnahme „Chatbots für die Bundesverwaltung” der Dienstekonsolidierung erarbeitet.
 
 
 ### [Fallstudie (PDF)](f1_20200930_Fallstudie_V2.pdf)
@@ -68,7 +68,7 @@ Mit Personas können Erkenntnisse aus Nutzerinterviews abstrahiert werden
 Visualisierte Prozessabläufe helfen dabei, die Positionierung der Lösung besser zu evaluieren
 
 
-# Erkentnisse & Lösung
+# Erkenntnisse & Lösung
 
 Der Einsatz von Chatbots ist mit der Erfüllung vielfältiger Anforderungen verbunden. Zu Beginn ist eine detaillierte Analyse der Problemsituation sowie der Rahmenbedingungen erforderlich. In beiden Anwendungsfällen konnte herausgearbeitet werden, dass es wichtig ist, zuerst vorhandene Informationsquellen zu vereinfachen und zielgruppengerecht aufzubereiten. Sofern die Rahmenbedingungen stimmen, kann ein Chatbot als neuer Kommunikationskanal herangezogen werden. Der Chatbot als Lösungsmöglichkeit gilt es dann zu validieren.
 
@@ -88,7 +88,7 @@ Der Chatbot Sonne soll das Familienportal dort ergänzen, wo bisher spezifische,
 
 Dabei greift Sonne proaktiv Fragen auf und lotst, anhand des Kontexts, auch zu weiteren Themengebieten.
 
-Die Funktionalität wurde unter Zuhilfenahme der Open Source Software Rasa prototypisiert.
+Die Funktionalität wurde unter Zuhilfenahme der Open-Source-Software Rasa prototypisiert.
 
 Um vertiefte Erkenntnisse zum vom BMFSFJ langfristig geplanten Familienassistenten zu erarbeiten, wurden auch potenzielle Einbindungen von Messenger-Diensten und Funktionen der proaktiven Beratung prototypisch aufgezeigt.
 ![alt](3_sonne_screens.png)
@@ -148,7 +148,7 @@ Detailliertes Vorgehen und Ergebnisse des Projektteams (BfJ)
 ### [Doku BfJ](f3_BfJ_Doku_final.pdf) 
 
 
-# das Team
+# Das Team
 
 ![alt](8_Fellow-Benedikt-Liebig-Profilfoto_-1280x1599.jpg)
 **Benedikt Liebig \

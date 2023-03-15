@@ -59,7 +59,7 @@ Treffen mit Olaf Scholz \
 © Bundesministerium der Finanzen/Photothek
 
 
-# Erkentnisse & Lösung
+# Erkenntnisse & Lösung
 
 In den Interviews zeigte sich schnell, dass die Steuererklärung ein sehr emotionales Thema ist: Viele Rentner:innen haben große **Ängste und Unsicherheiten, **die schon vor dem eigentlichen Ausfüllen des Formulars auftreten. Zudem gibt es zahlreiche Personen, die zwar über das nötige Basiswissen zu Steuern und auch über grundlegende digitale Fähigkeiten verfügen, sich aber dennoch nicht zutrauen eine digitale Steuererklärung selbst zu machen.
 
@@ -108,7 +108,7 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 ### [Link](https://github.com/tech4germany/steuerlotse) 
 
 
-# das Team
+# Das Team
 
 ![alt](08_Anna_Meshcheryakova.png) \
 **Anna Meshcheryakova** \
@@ -127,7 +127,7 @@ Design Fellow
 Engineering Fellow
 
 
-# Projektpartner
+# Projektpartner:innen
 
 Bundesministerium der Finanzen
 

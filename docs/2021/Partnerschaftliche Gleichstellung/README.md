@@ -8,7 +8,7 @@ Die „StartApp Familie“ ist ein Beitrag zur **_partnerschaftlichen Gleichstel
 
 # +++ In Umsetzung +++
 
-Die Start App Familie befindet sich derzeit mit Unterstützung eines Work4Germany Fellows in der Umsetzung.
+Die StartApp Familie befindet sich derzeit mit Unterstützung eines Work4Germany Fellows in der Umsetzung.
 
 
 # Hintergrund & Herausforderung
@@ -38,7 +38,7 @@ Das Angebot soll **_informierte und reflektierte Entscheidungen_** über die Rol
 ### [GitHub (Code)](https://github.com/tech4germany/bmfsfj-partnerschaftliche-gleichstellung) 
 
 
-# LINKS
+# Links
 
 
 ### [Prototyp](https://dev.tech4germany.org/bmfsfj-partnerschaftliche-gleichstellung)
@@ -49,7 +49,7 @@ Das Angebot soll **_informierte und reflektierte Entscheidungen_** über die Rol
 
 ### [Tweet-Collection](https://twitter.com/Jonathan4GER/timelines/1455830377516441604)
 
-# Gallerie ![Team BMFSFJ](1_20211007-ws-wireframes-lowres-23-1-scaled.jpg) ![Symbolbild Partnerschaftlichkeit](2_20210916-ws-ideation-lowres-3-1-scaled.jpg) ![Expert:innen-Interviews](3_20210823-t4g-buero-bmfsfj-lowres-14-scaled.jpg) ![Spinnennetz als Methode für die Zielgruppenfindung](4_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-28-scaled.jpg) ![Workshop im Ministerium](5_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-32-scaled.jpg) ![Eisberg-Modelle für die Zielgruppen](6_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-48-scaled.jpg) ![Nutzer:innen-Interviews](7_20210907-t4g-bmfsfj-nutzer-lowres-10-scaled.jpg) ![Workshop Ideation](8_20210916-ws-ideation-lowres-47-1-scaled.jpg) ![Papier-Prototypen](9_bmfsfj-twitter-16zu9-12-scaled.jpg) ![Testing der Papier-Prototypen](10_20210930-prototyping-lowres-1-1-scaled.jpg) ![Werkstattbesuch von Prof. Dr. Helge Braun](11_20211007-werkstattbesuch-helge-braun-lowres-40-scaled.jpg) ![Werkstattbesuch Dr. Markus Richter, CIO des Bundes](12_20211014-werkstattbesuch-markus-richter-lowres-11-scaled.jpg) ![Feedback zu den Wireframes von unseren Digitallotsinnen](13_20211007-ws-wireframes-lowres-15-scaled.jpg) ![Iteration über die Wireframes](14_20211021-twitter-takeover-woche-lowres-4-scaled.jpg) ![Malte Laukötter erklärt den Code](15_20211021-twitter-takeover-woche-lowres-10-scaled.jpg) ![Fellows BMFSFJ](16_20210823-t4g-buero-bmfsfj-lowres-28-scaled.jpg) 
+# Galerie ![Team BMFSFJ](1_20211007-ws-wireframes-lowres-23-1-scaled.jpg) ![Symbolbild Partnerschaftlichkeit](2_20210916-ws-ideation-lowres-3-1-scaled.jpg) ![Expert:innen-Interviews](3_20210823-t4g-buero-bmfsfj-lowres-14-scaled.jpg) ![Spinnennetz als Methode für die Zielgruppenfindung](4_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-28-scaled.jpg) ![Workshop im Ministerium](5_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-32-scaled.jpg) ![Eisberg-Modelle für die Zielgruppen](6_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-48-scaled.jpg) ![Nutzer:innen-Interviews](7_20210907-t4g-bmfsfj-nutzer-lowres-10-scaled.jpg) ![Workshop Ideation](8_20210916-ws-ideation-lowres-47-1-scaled.jpg) ![Papier-Prototypen](9_bmfsfj-twitter-16zu9-12-scaled.jpg) ![Testing der Papier-Prototypen](10_20210930-prototyping-lowres-1-1-scaled.jpg) ![Werkstattbesuch von Prof. Dr. Helge Braun](11_20211007-werkstattbesuch-helge-braun-lowres-40-scaled.jpg) ![Werkstattbesuch Dr. Markus Richter, CIO des Bundes](12_20211014-werkstattbesuch-markus-richter-lowres-11-scaled.jpg) ![Feedback zu den Wireframes von unseren Digitallotsinnen](13_20211007-ws-wireframes-lowres-15-scaled.jpg) ![Iteration über die Wireframes](14_20211021-twitter-takeover-woche-lowres-4-scaled.jpg) ![Malte Laukötter erklärt den Code](15_20211021-twitter-takeover-woche-lowres-10-scaled.jpg) ![Fellows BMFSFJ](16_20210823-t4g-buero-bmfsfj-lowres-28-scaled.jpg) 
 
 
 # Vorgehen & Erkenntnisse 
@@ -64,15 +64,15 @@ So entstand das Ziel, vor allem**_ junge Erwachsene_** darin zu unterstützen, i
 
 ![alt](18_T4G-Slides-Abschlusspraesentation-2021.jpg)
 
-# LÖSUNG
+# Lösung
 
 Wir haben die **_„StartApp Familie“_** entwickelt, eine **_Web-App_**, die sich an alle richtet, denen eine **_Familiengründung_** oder -erweiterung bevorsteht. Sie bietet Orientierung, Informationen und praktische Unterstützung bei der Erledigung der anstehenden Aufgaben rund um Familie, Beruf, Geld und Bürokratie. Kernstück der Anwendung ist eine**_ personalisierte To-do-Liste_**, die…
 
-… individuell die auf die Lebenssituation zugeschnittene Aufgaben auﬀührt,
+… individuell die auf die Lebenssituation zugeschnittene Aufgaben aufführt,
 
 … bestehende Angebote der Ministerien integriert,
 
-… bei der Entscheidungsﬁndung unterstützt
+… bei der Entscheidungsfindung unterstützt
 
 und einfach hilft, alle Aufgaben im Blick zu behalten.
 
@@ -89,7 +89,7 @@ Die Nutzer:innen bekommen nur die To-dos angezeigt, die für sie relevant sind. 
 
 ## Partnerschaftlichkeit im Mittelpunkt
 
-Die Praxistipps für mehr Partnerschaftlichkeit in jedem To-do und die Sharing-Funktion („Einladung teilen“) sind besonders wichtig für das Konzept der„StartApp Familie“. So wird in dem Tool mit Selbstverständlichkeiten gearbeitet („nudging“).
+Die Praxistipps für mehr Partnerschaftlichkeit in jedem To-do und die Sharing-Funktion („Einladung teilen“) sind besonders wichtig für das Konzept der „StartApp Familie“. So wird in dem Tool mit Selbstverständlichkeiten gearbeitet („nudging“).
 
 
 # Wir empfehlen dem BMFSFJ das Projekt AGIL weiterzuführen – aus folgenden Gründen:
@@ -125,7 +125,7 @@ Das BMFSFJ genießt ein großes Vertrauen der Bürger:innen.**_„StartApp Famil
 
 ## Prozesspapier
 
-Detalliertes Vorgehen und Ergebnisse des Projektteams
+Detailliertes Vorgehen und Ergebnisse des Projektteams
 
 
 ### [Download](f2_BMFSFJ-2021-Prozesspapier-Partnerschaftliche-Gleichstellung.pdf) 
@@ -155,7 +155,7 @@ Unsere Arbeitsergebnisse als Open Source auf GitHub
 ### [StartApp Familie auf GitHub](https://github.com/tech4germany/bmfsfj-partnerschaftliche-gleichstellung) 
 
 
-# das Team
+# Das Team
 
 ![alt](21_Katja-Anokhina-980x1294.jpg)
 Katja Anokhina \

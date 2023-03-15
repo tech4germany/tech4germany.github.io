@@ -60,7 +60,7 @@ Die mehr als 100 Features wurden von jedem Team-Mitglied nach Impact und Machbar
 
 ## 4 Conception, Prototyping
 
-In Abstimmung mit den Stakeholdern, wurde die Produktvision anhand eines visuellen Prototypen erarbeitet und kontinuierlich mit potenziellen Nutzern in einemiterativen Prozess getestet. Der erlangte Feedback und dieInsights wurden dann sofort wieder in den Prototypen eingearbeitet.
+In Abstimmung mit den Stakeholdern wurde die Produktvision anhand eines visuellen Prototypen erarbeitet und kontinuierlich mit potenziellen Nutzern in einemiterativen Prozess getestet. Das erlangte Feedback und die Insights wurden dann sofort wieder in den Prototypen eingearbeitet.
 ![alt](05_phase-4.png)
 
 ## 5 Umsetzung
@@ -70,7 +70,7 @@ Mit Hilfe des visuellen Prototypen wurde ein sog. High fidelity Prototyp entwick
 
 ## 6 Vision
 
-Die eRechnung wird von uns als Teil der Servicewelt Bund verstanden. Alle Bürgen können auf dieser einzigen Plattform auf alle, der mehr als 500 Services, zugreifen. Hierbei müssen sie sich nur ein einziges mal einloggen. Alle der verfügbaren Services werden im selben UI / UX dargestellt und sind auf allen Endgeräten bedienbar.
+Die eRechnung wird von uns als Teil der Servicewelt Bund verstanden. Alle Bürgen können auf dieser einzigen Plattform auf alle, der mehr als 500 Services, zugreifen. Hierbei müssen sie sich nur ein einziges Mal einloggen. Alle der verfügbaren Services werden im selben UI / UX dargestellt und sind auf allen Endgeräten bedienbar.
 ![alt](07_phase-6.png)
 
 # Eine Plattform
@@ -89,7 +89,7 @@ abgeholt. Hierbei werden alle Funktionen einfach erklärt. Dieser Rundgang kann 
 
 Die Eingabe der Rechnungsdaten orientiert sich an dem Mentale-Modell einer Papierrechnung, welches die Nutzer bereits kennen.
 
-Alle Interaktions-Flows folgen dem gleichen Prinzip, sodass Nutzer schnell mit der Plattform zurecht kommen.
+Alle Interaktions-Flows folgen dem gleichen Prinzip, sodass Nutzer schnell mit der Plattform zurechtkommen.
 
 Daten die der Nutzer einmal eingegeben hat können auf Wunsch gespeichert und bei erneuter Eingabe direkt eingefügt werden.
 
@@ -127,7 +127,7 @@ Ein umfangreiches Dokument, welches das Projekt und die Vorgehensweise ausführl
 
 Durch Tech4Germany konnten wir einen tiefen Einblick in die Prozesse und die Arbeitsweise der öffentlichen Verwaltung gewinnen.
 
-Dabei haben wir festgestellt, dass bei der Digitalisierung der Behörden und deren Dienstleistungen noch viel zu tun ist. Wir freuen uns einen kleinen Beitrag dazu geleistet zu haben.
+Dabei haben wir festgestellt, dass bei der Digitalisierung der Behörden und deren Dienstleistungen noch viel zu tun ist. Wir freuen uns, einen kleinen Beitrag dazu geleistet zu haben.
 
 ![alt](013_8cccaa7a-85ec-4499-9c6e-db5397339a39-980x736.png)
 

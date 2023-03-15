@@ -88,7 +88,7 @@ Das Thema Digitale Identitäten hat uns gezeigt, dass gute technische Lösungen 
 **Product Fellow
 
 
-#### Projektpartner
+#### Projektpartner:innen
 
 ITZ Bund
 

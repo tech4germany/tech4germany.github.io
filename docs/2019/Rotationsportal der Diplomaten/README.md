@@ -56,7 +56,7 @@ Bildet zum ersten Mal den Prozess der Rotation ganzheitlich und zentral ab und b
 
 ## Prozess
 
-Grobe Auflistung des Arbeitsprozesses und Zwischen-ergebnisse im Rahmen von Tech4Germany. 
+Grobe Auflistung des Arbeitsprozesses und Zwischenergebnisse im Rahmen von Tech4Germany. 
 
 
 ### [Download](f1_Prozesspapier.pdf) 

@@ -73,14 +73,14 @@ Um das zu erreichen, hat das Team eine Datenschnittstelle zum Abruf der aktuelle
 
 ## 3 Nicht die juristische Vorbildung, sondern das Sicherheitsbedürfnis ist ausschlaggebend für das Rechercheverhalten. Tiefe, Dauer, Intensität
 
-Interesse korreliert nicht zwingend mit Expertise. Auch Menschen mit nur wenig juristischem Vorwissen möchten sich umfassend und verlässlich informieren. Daher sollten alle Rechtsinformationen kostenlos und nutzer:innenfreundlich zugänglich gemacht werden, um allen eine tiefgehende Recherche zu ermöglichen.
+Interesse korreliert nicht zwingend mit Expertise. Auch Menschen mit nur wenig juristischem Vorwissen möchten sich umfassend und verlässlich informieren. Daher sollten alle Rechtsinformationen kostenlos und nutzerfreundlich zugänglich gemacht werden, um allen eine tiefgehende Recherche zu ermöglichen.
 
 Diese Vision hat das Team mit Hilfe eines Clickdummys für die Fortführung des Projektes klickbar und testbar gemacht.
 
 
 # Projektergebnisse: Alpha-Version, API, Clickdummy
 
-Die Ergebnisse zeigen die Vorteile dieser Vorgehensweise: Es konnte ein früher Mehrwert durch eine Alpha Version geschaffen werden, die für Gesetze bereits basale Nutzer:innenbedürfnisse wie z.B. eine bessere Lesbarkeit und Orientierung erfüllt. Die Datenschnittstelle bietet die Grundlage für Innovation, damit Dritte spezialisierte Angebote entwickeln können. Der Clickdummy ermöglicht es, die Annahmen und Funktionen weiter zu testen, und die Entwicklung eines vollumfänglichen Rechtsinformationsportal iterativ und nutzer:innenzentriert fortzuführen.
+Die Ergebnisse zeigen die Vorteile dieser Vorgehensweise: Es konnte ein früher Mehrwert durch eine Alpha Version geschaffen werden, die für Gesetze bereits basale Nutzer:innenbedürfnisse wie z.B. eine bessere Lesbarkeit und Orientierung erfüllt. Die Datenschnittstelle bietet die Grundlage für Innovation, damit Dritte spezialisierte Angebote entwickeln können. Der Clickdummy ermöglicht es, die Annahmen und Funktionen weiter zu testen, und die Entwicklung eines vollumfänglichen Rechtsinformationsportals iterativ und nutzerzentriert fortzuführen.
 ![alt](5_Tech4Germany_Rechtsinformationsportal_Alpha_Suche1.png)
 
 ## Alpha-Version — Erste Version ist nach 12 Wochen live
@@ -139,7 +139,7 @@ Engineering Fellow
 Engineering Fellow
 
 
-# Projektpartner
+# Projektpartner:innen
 
 ![alt](12_Beatrix_Square-1280x1280.jpg)
 **Dr. Beatrix Lindner** \

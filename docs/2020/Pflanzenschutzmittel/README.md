@@ -1,7 +1,7 @@
 # **Pflanzenschutzmittel BMEL 2020**
 
 
-Pflanzenschutzmittelzulassungsdaten werden bereits vom Bundesamt für Verbraucherschutz und Lebensmittelsicherheit zur Verfügung gestellt. Im Rahmen unseres Projektes haben wir den Prozess durch die Entwicklung einer API anwender:innenfreundlicher gestaltet.
+Pflanzenschutzmittelzulassungsdaten werden bereits vom Bundesamt für Verbraucherschutz und Lebensmittelsicherheit zur Verfügung gestellt. Im Rahmen unseres Projektes haben wir den Prozess durch die Entwicklung einer API anwenderfreundlicher gestaltet.
 
 
 ### [Fallstudie (PDF)](f1_PSM_Fallstudie.pdf)
@@ -39,7 +39,7 @@ Das Thema Datenbereitstellung durch die öffentliche Verwaltung ist innerhalb de
 
 Die Vision des übergeordneten Bundesministeriums für Ernährung und Landwirtschaft (BMEL) für diese Datenbank ist eine API in einem offenen Standardformat, welche die Daten maschinenlesbar und durchsuchbar zur Verfügung stellt. Motivation des BMEL ist es, im Rahmen des Fellowships Erfahrungen zu sammeln, wie ein Weg dorthin aussehen kann. 
 
-Wir führten Expert:inneninterviews, um den Weg zur Umsetzung dieser Vision zu ergründen.  Die an uns herangetragenen Probleme und Lösungsansätze konsolidierten wir in einem agilen, nutzer:innenzentrierten Vorgehen. Wir entschlossen uns dabei, den Datenbereitstellungsprozess zu fokussieren. Durch den Fokus auf eine Prozessverbesserung der Bereitstellung erwarten wir allen Anwender:innern gleichermaßen zu helfen. Wir gestalteten den Prozess sowohl innerhalb, als auch außerhalb der Behörde nutzer:innenfreundlicher. In folgenden Projekten können die Daten selbst, in ihrer Struktur und Maschinenlesbarkeit, verbessert werden.
+Wir führten Expert:inneninterviews, um den Weg zur Umsetzung dieser Vision zu ergründen.  Die an uns herangetragenen Probleme und Lösungsansätze konsolidierten wir in einem agilen, nutzerzentrierten Vorgehen. Wir entschlossen uns dabei, den Datenbereitstellungsprozess zu fokussieren. Durch den Fokus auf eine Prozessverbesserung der Bereitstellung erwarten wir allen Anwender:innern gleichermaßen zu helfen. Wir gestalteten den Prozess sowohl innerhalb als auch außerhalb der Behörde nutzerfreundlicher. In folgenden Projekten können die Daten selbst, in ihrer Struktur und Maschinenlesbarkeit, verbessert werden.
 
 
 Interviews, Synthese, Ideen, Prototyp, Testen & Iterieren
@@ -81,7 +81,7 @@ Die finale Version umfasst einen dokumentierten Endpunkt pro Tabelle der Pflanze
 **Engineering Fellow
 
 
-# Projektpartner
+# Projektpartner:innen
 
 **Armin Weiser \
 **Projektleiter

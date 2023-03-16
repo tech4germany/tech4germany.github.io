@@ -9,7 +9,8 @@ Im Forschungsdatenzentrum werden in einem geschützten Rahmen die Gesundheitsdat
 
 # Hintergrund & Herausforderung
 
-Die Vernetzung und Auswertung von Gesundheitsdaten hat insbesondere in der COVID Krise an Priorität gewonnen. Um die Forschung mit Gesundheitsdaten zum Wohle der Gesellschaft zu beschleunigen, werden im Forschungsdatenzentrum (FDZ) Gesundheitsdaten der gesetzlichen Krankenkassen gesammelt. Nutzungsberechtigte, u.a. Forscher:innen und Forschungseinrichtungen, können für definierte Auswertungszwecke Daten anfragen. Bedingt durch ein sehr kleines Team und eine hohe Anzahl an Forschungsanfragen hat die Bearbeitung der Anfragen sich über große Zeiträume erstreckt. Von einer Antragsstellung bis zum Erhalt der relevanten Forschungsdaten vergingen bisher oft viele Monate bis über ein Jahr. 
+Die Vernetzung und Auswertung von Gesundheitsdaten hat insbesondere in der COVID Krise an Priorität gewonnen. Um die Forschung mit Gesundheitsdaten zum Wohle der Gesellschaft schneller voranzubringen, werden im Forschungsdatenzentrum (FDZ) Gesundheitsdaten der gesetzlichen Krankenkassen gesammelt. Nutzungsberechtigte, u.a. Forscher:innen und Forschungseinrichtungen, können für definierte Auswertungszwecke Daten anfragen. Bedingt durch ein sehr kleines Team und eine hohe Anzahl an Forschungsanfragen, hat die Bearbeitung der Anfragen sich über große Zeiträume erstreckt. Von einer Antragsstellung bis zum Erhalt der relevanten Forschungsdaten vergingen bisher oft viele Monate bis über ein Jahr. 
+
 
 Das BMG hat mit dem BfArM Tech4Germany in das FDZ geholt, um die Nutzungsfreundlichkeit für die Forscher:innen zu verbessern.
 
@@ -47,10 +48,9 @@ Mit einem verbesserten Verständnis von Problemen der Forscher:innen konnten Ide
 
 # Erkenntnisse & Lösung
 
-Zu den Bedürfnissen der Forscher:innen gehört ein hohes Maß an Planbarkeit ihrer Forschungsprojekte. Sie wollen Transparenz über den Prozess im FDZ sowie viele Informationen, um vorab schnellstmöglichst zu entscheiden ob die FDZ-Daten für ihre Forschung geeignet sind. Dafür haben wir einen dreiteiligen Prototypen entwickelt, um eine digitale Führung der Forscher:innen durch den Antragsprozess zu ermöglichen.
+Zu den Bedürfnissen der Forscher:innen gehört ein hohes Maß an Planbarkeit ihrer Forschungsprojekte. Sie wollen Transparenz über den Prozess im FDZ sowie viele Informationen, um vorab schnellstmöglich zu entscheiden, ob die FDZ-Daten für ihre Forschung geeignet sind. Dafür haben wir einen dreiteiligen Prototypen entwickelt, um eine digitale Führung der Forscher:innen durch den Antragsprozess zu ermöglichen.
 
-Erstens wurde die öffentliche Landing Page mit Hilfe zahlreicher Nutzer:innentests restrukturiert, um relevante Informationen gezielt für die verschiedene Forscher:innen bereitzustellen. Während einige durchaus viel Erfahrung mit der Forschung mit Gesundheitsdaten von Krankenkassen haben, hat die Mehrheit der Forscher:innen bisher mit weit weniger komplexen Daten gearbeitet. Um die dafür notwendige Expertise zu vermitteln, haben wir zweitens Ansätze für eine Forschungscommunity vertestet. Dort können sich Forscher:innen untereinander vernetzen und unterstützen, so dass gleichzeitig Kapazitäten im FDZ geschont werden. Drittens haben wir eine Status Page für das neue Portal entworfen, in dem der Bearbeitungsstatus der Anträge einzusehen ist. 
-
+Erstens wurde die öffentliche Landingpage mit Hilfe zahlreicher Nutzer:innentests restrukturiert, um relevante Informationen gezielt für die verschiedene Forscher:innen bereitzustellen. Während einige durchaus viel Erfahrung mit der Forschung mit Gesundheitsdaten von Krankenkassen haben, hat die Mehrheit der Forscher:innen bisher mit weit weniger komplexen Daten gearbeitet. Um die dafür notwendige Expertise zu vermitteln, haben wir zweitens Ansätze für eine Forschungscommunity vertestet. Dort können sich Forscher:innen untereinander vernetzen und unterstützen, sodass gleichzeitig Kapazitäten im FDZ geschont werden. Drittens haben wir eine Status Page für das neue Portal entworfen, in dem der Bearbeitungsstatus einzusehen ist. 
 
 # Antragsportal
 
@@ -61,14 +61,16 @@ Der gesamte Forschungsprozess mit dem FDZ wird so transparenter. Zudem können F
 
 # Community
 
-Um die Transparenz für Forscher zu erhöhen, haben wir erforscht wie man eine Community für Forscher gestalten müsste.
 
-Ziel hierbei war es herauszufinden wie Forscher sich vernetzen und unterstützen können als auch die Arbeitsbelastung für das Forschungsdatenzentrum zu senken.
+Um die Transparenz für Forscher zu erhöhen haben wir erforscht, wie man eine Community für Forscher gestalten müsste.
+
+
+Ziel hierbei war es herauszufinden, wie Forscher sich vernetzen und unterstützen können, als auch die Arbeitsbelastung für das Forschungsdatenzentrum zu senken.
 ![alt](4_community-1280x824.png)
 
 # Landingpage
 
-Die öffentliche Landing Page wurde restrukturiert, um relevante Informationen gezielt für die Forscher:innen mit unterschiedlichem Vorwissen bereit zu stellen.
+Die öffentliche Landingpage wurde restrukturiert, um relevante Informationen gezielt für die Forscher:innen mit unterschiedlichem Vorwissen bereitzustellen.
 
 Es gibt jetzt klare Informationen über die verschiedenen Wege, um an Daten für Forschungszwecke zu gelangen.
 ![alt](5_landing-1280x824.png)
@@ -100,7 +102,7 @@ Der Open Source Code unseres Prototypens
 ### [Github](https://github.com/tech4germany/fdz-portal) 
 
 
-# das Team
+# Das Team
 
 ![alt](6_Fellow-Carolin-Bednarz-Profilfoto_.jpg) \
 **Carolin Bednarz** \
@@ -119,7 +121,7 @@ Engineering Fellow
 Design Fellow
 
 
-### Projektpartner
+### Projektpartner:innen
 
 **Bundesministerium für Gesundheit**
 

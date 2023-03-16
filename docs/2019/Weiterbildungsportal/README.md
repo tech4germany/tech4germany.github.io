@@ -82,7 +82,7 @@ Prototyp eines Orientierungstools, das spielerisch Berufsfelder und passende Wei
 **Engineering Fellow
 
 
-### Projektpartner
+### Projektpartner:innen
 
 BMAS
 

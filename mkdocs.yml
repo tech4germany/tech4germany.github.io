@@ -2,6 +2,7 @@ site_name: Tech4Germany Archiv
 extra_css: [css/extra.css]
 repo_url: https://github.com/tech4germany/tech4germany.github.io
 plugins:
+  - glightbox
 
 theme:
   name: material
@@ -12,12 +13,12 @@ theme:
     - navigation.tabs
     - navigation.indexes 
 markdown_extensions:
+  - attr_list
   - md_in_html
 
-copyright: Copyright &copy; 2016 - 2023 Digitalservice Bund GmbH
+copyright: Copyright &copy; 2016 - 2023 DigitalService Bund GmbH <a href="https://digitalservice.bund.de/impressum">Impressum</a> 
 extra:
-  generator: false
   social:
     - icon: fontawesome/brands/linkedin 
-      link: https://www.linkedin.com/
+      link: https://www.linkedin.com/company/tech4germany
 

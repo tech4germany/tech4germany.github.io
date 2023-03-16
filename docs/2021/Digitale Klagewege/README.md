@@ -62,10 +62,9 @@ Im Rahmen unserer Nutzendenrecherche haben wir festgestellt, dass die Probleme b
 
 ![alt](2_Simplified-User-Journey-1-1280x577.png)
 
-# Der Justizportal Prototyp:  \
-unser Angebot an Bürger:innen
+# Der Justizportal Prototyp: unser Angebot an Bürger:innen
 
-Hier führen wir Sie beispielhaft durch das Angebot des Justizportals. Für den Fall [Mietmängel](https://dev.tech4germany.org/bmjv-justizportal/wegweiser?id=ceppdowbfco0)und [Ausgleichszahlungen aus der EU-Fluggastrechteverordnung ](https://dev.tech4germany.org/bmjv-justizportal/wegweiser?id=cf008ca222o0#s)können Sie den Prototypen dabei selbst ausprobieren.
+Hier führen wir Sie beispielhaft durch das Angebot des Justizportals. Für den Fall [Mietmängel](https://dev.tech4germany.org/bmjv-justizportal/wegweiser?id=ceppdowbfco0) und [Ausgleichszahlungen aus der EU-Fluggastrechteverordnung ](https://dev.tech4germany.org/bmjv-justizportal/wegweiser?id=cf008ca222o0#s)können Sie den Prototypen dabei selbst ausprobieren.
 
 
 ## Wegweiser: Einordnung meines Rechtsproblems

@@ -51,7 +51,7 @@ Das BZSt entwickelt das BOP in einer Kooperation mit dem ITZBund jetzt **komplet
 
 Ziel ist es, Nutzer:innen den Umgang mit dem BOP zu vereinfachen. Diese sollen, ohne die überlastete Hotline anzurufen, Anträge und Meldungen **einreichen und einsehen sowie Einspruch erheben** können.
 
-Um die Probleme der aktuellen Nutzer:innen des BOPs zu verstehen, haben wir Nutzer:innen aus dem In- und Ausland mit und ohne steuerliche Fachkenntnisse interviewt. Die Ergebnisse haben wir in **vier Personas** zusammengefasst. Außerdem haben wir die Interviews mit Gesprächen aus den Fachbereichen des BZSt sowie BOP-Tests mit anderen Tech4Germany-Fellows ergänzt.
+Um die Probleme der aktuellen Nutzer:innen des BOPs zu verstehen, haben wir Nutzer:innen aus dem In- und Ausland mit und ohne steuerliche Fachkenntnisse interviewt. Die Ergebnisse haben wir in **vier Personas** zusammengefasst. Außerdem haben wir die Interviews mit Gesprächen aus den Fachbereichen des BZSt sowie BOP-Tests mit anderen Tech4Germany Fellows ergänzt.
 
 Aufbauend auf dieser Nutzer:innenforschung haben wir Lösungsansätze **konzipiert, prototypisch umgesetzt, getestet** und weiter auf die Bedürfnisse zugeschnitten.
 
@@ -138,7 +138,7 @@ BOP Redesign für den Registrierungsprozess
 ### [Ausprobieren](https://xd.adobe.com/view/b80bc39a-14fe-42fc-9ec7-2bf7d82967d2-ed58/) 
 
 
-# das Team
+# Das Team
 
 ![alt](6_team_bild_birte-1280x1689.png)
 **Birte Dreier \
@@ -161,7 +161,7 @@ BOP Redesign für den Registrierungsprozess
 [LinkedIn](https://www.linkedin.com/in/vlada-pugavko-275ab2192/)
 
 
-# Projektpartner:INNEN
+# Projektpartner:innen
 
 Bundeszentralamt für Steuern 
 

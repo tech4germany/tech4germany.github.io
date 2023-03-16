@@ -18,7 +18,7 @@ Hierfür beschäftigen wir uns prototypisch mit dem Rechner AZUR:
 AZUR stellt sicher, dass Ressourcen im Bundestag proportional zwischen den Fraktionen verteilt werden. Fraktionen, die viele Sitze erhalten haben, dürfen deswegen zum Beispiel länger im Plenum sprechen. AZUR funktioniert zwar, ist aber 20 Jahre alt, mit aussterbenden Technologien gebaut, aktuell nicht für die Öffentlichkeit zugänglich, und intern nur für Expert:innen nachvollziehbar.
 
 
-# links
+# Links
 
 
 ### [Der Neue Rechner](https://dev.tech4germany.org/AZUR-Frontend/) 
@@ -43,7 +43,7 @@ AZUR stellt sicher, dass Ressourcen im Bundestag proportional zwischen den Frakt
 
 Das Ziel des Projektes war es, AZUR von Grund auf neu zu gestalten und für die Zivilgesellschaft zugänglich zu machen. Das Programm sollte durch eine Überarbeitung der Benutzungsoberfläche und der technischen Architektur sowohl für Verwaltungsmitarbeiter:innen als auch für externe Anwender:innen intuitiv nutzbar gemacht werden.
 
-Alles Weitere wurde direkt von den Bedürfnissen der Nutzenden abgeleitet. Um diese zu erschließen, haben wir über 30 Interviews geführt – innerhalb und außerhalb des Bundestages, mit Verwaltungsmitarbeiter:innen, Datenjournalist:innen, oder Lokalpolitiker:innen. 
+Alles Weitere wurde direkt aus den Bedürfnissen der Nutzenden abgeleitet. Um diese zu erschließen, haben wir über 30 Interviews geführt – innerhalb und außerhalb des Bundestages, mit Verwaltungsmitarbeiter:innen, Datenjournalist:innen, oder Lokalpolitiker:innen. 
 
 ![alt](2_20211007-werkstattbesuch-helge-braun-lowres-23-1280x854.jpg)
 
@@ -123,11 +123,11 @@ Der gesamte Code des Rechners zur freien Wieder- und Weiterverwendung auf GitHub
 ### [Zur Doku (PDF)](f2_Projektdokumentation.pdf) 
 
 
-### [Frontend](https://github.com/tech4germany/azur-frontend) \
-[API](https://github.com/tech4germany/azur-API) 
+### [Frontend](https://github.com/tech4germany/azur-frontend) 
+###[API](https://github.com/tech4germany/azur-API) 
 
 
-# das Team
+# Das Team
 
 ![alt](6_Simone_Kilian.jpg) \
 **Simone Kilian \

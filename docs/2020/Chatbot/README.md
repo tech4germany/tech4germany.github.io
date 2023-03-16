@@ -1,7 +1,7 @@
 # **Chatbot BMI, ITZ Bund BMFSFJ 2020**
 
 
-Wir haben den personalisierten und proaktiven Familienlotsen Sonne als Prototypen sowie eine Checkliste als Entscheidungshilfe konzipiert, mit deren Hilfe die Eignung des Einsatzes eines Chatbots für einen konkreten Anwendungsfall geprüft werden kann.
+Wir haben den personalisierten und proaktiven Familienlotsen Sonne als Prototyp sowie eine Checkliste als Entscheidungshilfe konzipiert, mit deren Hilfe die Eignung des Einsatzes eines Chatbots für einen konkreten Anwendungsfall geprüft werden kann.
 
 Beide Ergebnisse wurden für die IT-Maßnahme „Chatbots für die Bundesverwaltung” der Dienstekonsolidierung erarbeitet.
 
@@ -153,17 +153,14 @@ Detailliertes Vorgehen und Ergebnisse des Projektteams (BfJ)
 ![alt](8_Fellow-Benedikt-Liebig-Profilfoto_-1280x1599.jpg)
 **Benedikt Liebig \
 **Product Fellow
-[ \](https://www.linkedin.com/in/beliebig/)
 
 ![alt](9_Fellow-Miriam-Metz-Profilfoto_-1280x1600.jpg)
 **Miriam Metz \
 **Design Fellow
-[ \](https://www.linkedin.com/in/miriammetz/)
 
 ![alt](10_Fellow-Anna-Bettina-Profilfoto-1-1280x1600.jpg)
 **Anna Steinberg \
 **Engineering Fellow
-[ \](https://www.linkedin.com/in/anna-steinberg-855329172/)
 
 ![alt](11_Fellow-Johannes-Heck-Profilfoto.jpg)
 **Johannes Heck \

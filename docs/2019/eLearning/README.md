@@ -1,7 +1,7 @@
 # **E-Learning ITZ Bund 2019**
 
 
-Die IT-Konsolidierung des Bundes bringt einen enormen Schulungsaufwand mit sich. Um allen Mitarbeiter:innen der Verwaltung einen reibungslosen Umstieg zu gewähren sollte E-Learning als wertvolle Chance genutzt werden.
+Die IT-Konsolidierung des Bundes bringt einen enormen Schulungsaufwand mit sich. Um allen Mitarbeiter:innen der Verwaltung einen reibungslosen Umstieg zu gewähren, sollte E-Learning als wertvolle Chance genutzt werden.
 
 
 ### [Case Study](https://medium.com/tech4germany/fallstudie-e-learning-e-learning-zur-e-akte-bund-dad91e49d1dc)
@@ -34,13 +34,15 @@ Die Startseite soll Nutzer:innen in ihrer Lernerfahrung bestärken. Begonnene Ku
 
 # Kurse
 
-Die Kursseiten bieten die Möglichkeit, Anhänge & Vorlagen direkt runterzuladen und inhaltliche Fragen zu stellen.
+
+Die Kursseiten bieten die Möglichkeit Anhänge & Vorlagen direkt herunterzuladen und inhaltliche Fragen zu stellen.
+
 
 ![alt](03_1.png)
 
 # Direkte Suche
 
-Auch punktuelle Lerner kommen mit einer erweiterten Suche auf ihre Kosten und können Wissen erfahren ohne ganze Kurse oder Lektionen zu schauen.
+Auch punktuell Lernende kommen mit der erweiterten Suche auf ihre Kosten und können sich Wissen aneignen, ohne ganze Kurse oder Lektionen aufrufen zu müssen.
 
 ![alt](04_2.png)
 

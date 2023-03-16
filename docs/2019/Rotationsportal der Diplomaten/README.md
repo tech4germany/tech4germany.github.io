@@ -103,7 +103,7 @@ Technologie allein ist nicht die Lösung. Wir übergeben eine nutzerzentrierte W
 **Service Designer
 
 
-# Projektpartner
+# Projektpartner:innen
 
 ![alt](06_Stephanie_Weidner.png)
 

@@ -173,7 +173,7 @@ GitHub Repository der WebApp
 ### [Link](https://github.com/tech4germany/bmjv-justizportal) 
 
 
-# das Team
+# Das Team
 
 ![alt](10_Marcus-Novotny-800x1056-1.png)
 **Marcus Novotny** \
@@ -192,7 +192,7 @@ Engineering Fellow
 Engineering Fellow
 
 
-# Projektpartner:Innen
+# Projektpartner:innen
 
 Bundesministerium der Justiz und für Verbraucherschutz
 

@@ -30,7 +30,7 @@ Die Vergabe von Fördermitteln ist eines der **wichtigsten Instrumente der öffe
 ### [GitHub (Code) Backend](https://github.com/Paul-Geppert/t4g_proposal_backend)
 
 
-# LINKS
+# Links
 
 
 ### [Präsentation (YouTube)](https://www.youtube.com/watch?v=JzYIt1j5bwI)
@@ -65,7 +65,7 @@ FörderAssist **begleitet Antragsteller:innen schrittweise** durch den Prozess d
 
 Ein programmierter Prototyp demonstriert die **simple Anbindung** an etablierte Systeme wie easy-Online/Profi und lässt sich daher direkt **in bestehende Abläufe integrieren**.
 
-# Gallerie ![alt](4_20210826_144637-scaled.jpg) ![alt](5_20211007-werkstattbesuch-helge-braun-lowres-61-scaled.jpg) ![alt](6_20211029_160459-scaled.jpg) ![alt](7_20211014-werkstattbesuch-markus-richter-lowres-2-scaled.jpg) ![alt](8_20211019_125803-scaled.jpg) ![alt](9_DSC1422-1-scaled.jpeg) ![alt](10_DSC09311-scaled.jpg) ![alt](11_DSC09322-scaled.jpg)
+# Galerie ![alt](4_20210826_144637-scaled.jpg) ![alt](5_20211007-werkstattbesuch-helge-braun-lowres-61-scaled.jpg) ![alt](6_20211029_160459-scaled.jpg) ![alt](7_20211014-werkstattbesuch-markus-richter-lowres-2-scaled.jpg) ![alt](8_20211019_125803-scaled.jpg) ![alt](9_DSC1422-1-scaled.jpeg) ![alt](10_DSC09311-scaled.jpg) ![alt](11_DSC09322-scaled.jpg)
 
 # Fördermittelbeantragung mit FörderAssist
 
@@ -88,7 +88,7 @@ Ministerien erstellen für jeden Förderaufruf ein Template, das von den Bewerbe
 
 Um unnötige Kommunikation zu vermeiden, können Ministerien und Projektträger Informationen und Hilfestellungen hinterlegen, die von den Bewerber:innen genutzt werden kann. Diese können dynamisch angepasst werden, etwa um häufig auftretende Fragen zu ergänzen.
 
-Bewerber:innen können die Kollaborationsfunktion des Schreibtisches nutzen, um sich mit Projektpartnern auszutauschen oder Feedback einzuholen.
+Bewerber:innen können die Kollaborationsfunktionen des Schreibtisches nutzen, um sich mit Projektpartnern auszutauschen oder Feedback einzuholen.
 
 
 ## Durch das Förderprofil den Überblick behalten und individuelle Empfehlungen erhalten
@@ -99,7 +99,7 @@ Durch Angabe von Interessenfeldern, bzw. Förderbereiche, können Bewerber:innen
 
 ![alt](13_Web-1920-–-25.png)
 
-# “Hack the FörderSystem”
+# „Hack the FörderSystem“
 
 ![alt](14_hack_easy-Online-e1636063748127-980x551.png)
 
@@ -155,7 +155,7 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 ### [GitHub](https://github.com/Paul-Geppert/t4g_proposal_submission_tool) 
 
 
-# das Team
+# Das Team
 
 ![alt](15_benedikt_kau_800_1056_px.jpeg)
 **Benedikt Kau \

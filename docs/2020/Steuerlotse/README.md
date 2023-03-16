@@ -127,7 +127,7 @@ Design Fellow
 Engineering Fellow
 
 
-# Projektpartner
+# Projektpartner:innen
 
 Bundesministerium der Finanzen
 

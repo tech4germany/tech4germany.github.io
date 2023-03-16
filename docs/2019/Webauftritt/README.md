@@ -1,6 +1,7 @@
 # **Webauftritt BMBF 2019**
 
 
+
 Wie können Haupt- und Fachseiten von Ministerien nutzerzentriert gestaltet werden? Wir zeigen am Beispiel des Bundesministeriums für Bildung & Forschung wie Webauftritte aussehen, die sich an den Bedürfnissen der Nutzer:innen und Bürger:innen orientieren, anstatt an internen Strukturen.
 
 
@@ -23,7 +24,7 @@ Wie können Ministerien Bürger:innen und Nutzer:innen in den Fokus Ihres Web-An
 
 Dazu zeichnen wir die Vision der **Ministeriumswebseite der Zukunft**, auf der Bürger:innen genau die Informationen und Services finden, die sie suchen.
 
-Am Beispiel des **Bundesberichts Forschung und Innovation** zeigen wir, wie selbst ein 400-Seiten langer Bericht durch ein ein attraktives Online-Angebot ergänzt werden kann, das Nutzer:innen einen echten Mehrwert bietet und alle Berichtsdaten offen und zur Weiterverarbeitung zugänglich macht.
+Am Beispiel des **Bundesberichts Forschung und Innovation** zeigen wir, wie selbst ein 400-Seiten langer Bericht durch ein attraktives Online-Angebot ergänzt werden kann, das Nutzer:innen einen echten Mehrwert bietet und alle Berichtsdaten offen und zur Weiterverarbeitung zugänglich macht.
 
 
 # Vorgehen
@@ -55,7 +56,8 @@ Für viele Bürger:innen ist die gefühlte Distanz zu “denen in Berlin” meis
 
 ## 2 Serviceorientierung
 
-Bürger:innen sind aus privatem und beruflichem Umfeld einfache und nutzerfreundliche Online-Services gewohnt. Dadurch steigt auch die Erwartungshaltung gegenüber staatlichen Akteuren. Digitale Services müssen dabei von Grund auf nutzerzentriert entwickelt werden. Ein analoges Formular, das nicht den Nutzer in den Vordergrund stellt, wird durch die Überführung in ein digitales Format allein nicht nutzerfreundlicher.
+Bürger:innen sind aus privatem und beruflichem Umfeld einfache und nutzerfreundliche Online-Services gewohnt. Dadurch steigt auch die Erwartungshaltung gegenüber staatlichen Akteuren. Digitale Services müssen dabei von Grund auf nutzerzentriert entwickelt werden. Ein analoges Formular, das nicht den Nutzer in den Vordergrund stellt, wird durch die Überführung in ein digitales Format allein noch nicht nutzerfreundlicher.
+
 
 
 ## 3 Agile Arbeitsweisen
@@ -70,7 +72,7 @@ Bei der Erstellung von Anwendungen sollte der Code von Beginn an mit der Öffent
 
 ## 5 Einheitliche Standards
 
-Wir empfehlen die Etablierung einer zentralen Einheit auf Bundesebene, die Standards für Online-Auftritte und Leistungen definiert und Know-How an die verschiedenen Behörden vermittelt. So kann gewährleistet werden, dass der digitale Auftritt der Bundesbehörden gegenüber Bürger:innen von hoher Qualität und Konsistenz geprägt ist.
+Wir empfehlen die Etablierung einer zentralen Einheit auf Bundesebene, die Standards für Online-Auftritte und Leistungen definiert und Know-how an die verschiedenen Behörden vermittelt. So kann gewährleistet werden, dass der digitale Auftritt der Bundesbehörden gegenüber Bürger:innen von hoher Qualität und Konsistenz geprägt ist.
 
 
 # Unsere Ergebnisse sind frei verfügbar
@@ -94,7 +96,7 @@ Vorgehen & Ergebnisse zum Projekt Bundesbericht Forschung und Innovation
 
 ## Design Prototyp
 
-Webauftritt des Bundesbericht Forschung und Innovation
+Webauftritt des Bundesberichts Forschung und Innovation
 
 
 #### [Link](https://www.figma.com/proto/1hBlUSAEgupcsIZVdlZKf1/BuFI-Showcase?node-id=875%3A14933&scaling=min-zoom) 
@@ -116,7 +118,7 @@ Pressemitteilung 13.05.2020, BMBF
 ### [Pressemitteilung BMBF](https://www.bmbf.de/de/karliczek-forschung-und-innovation-sind-unsere-staerke-11580.html) 
 
 
-# TEAM
+# Projektteam
 
 ![alt](03_Antonia_Borkenhagen.png)
 
@@ -137,9 +139,6 @@ Pressemitteilung 13.05.2020, BMBF
 
 **Carolin Ullrich \
 **Product Fellow
-
-
-# Projektpartner
 
 ![alt](07_Katharina_Erbe.png)
 

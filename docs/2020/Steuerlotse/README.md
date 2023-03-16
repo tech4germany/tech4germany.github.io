@@ -9,7 +9,7 @@ Gemeinsam mit dem BMF und MdFE entwickelter Prototyp für eine einfache, zukunft
 
 # +++ Steuerlotse seit 31. Mai 2021 live +++
 
-Nach der Prototypisierung durch Tech4Germany wurde der [DigitalService](https://digitalservice.bund.de) mit der Umsetzung und Weiterentwicklung des Steuerlotsen beauftragt. Rentner:innen können ihre Steuererklärung jetzt mit dem Steuerlotsen einfach und unkompliziert abgeben. 
+Nach dem Prototyping durch Tech4Germany wurde der [DigitalService](https://digitalservice.bund.de) mit der Umsetzung und Weiterentwicklung des Steuerlotsen beauftragt. Rentner:innen können ihre Steuererklärung jetzt mit dem Steuerlotsen einfach und unkompliziert abgeben. 
 
 
 ### [Jetzt Steuererklärung machen](http://www.steuerlotse-rente.de) 
@@ -59,7 +59,7 @@ Treffen mit Olaf Scholz \
 © Bundesministerium der Finanzen/Photothek
 
 
-# Erkentnisse & Lösung
+# Erkenntnisse & Lösung
 
 In den Interviews zeigte sich schnell, dass die Steuererklärung ein sehr emotionales Thema ist: Viele Rentner:innen haben große **Ängste und Unsicherheiten, **die schon vor dem eigentlichen Ausfüllen des Formulars auftreten. Zudem gibt es zahlreiche Personen, die zwar über das nötige Basiswissen zu Steuern und auch über grundlegende digitale Fähigkeiten verfügen, sich aber dennoch nicht zutrauen eine digitale Steuererklärung selbst zu machen.
 
@@ -68,7 +68,7 @@ Deshalb haben wir uns entschieden, nicht nur ein nutzerfreundliches Formular zu 
 
 ## Schritt-für-Schritt
 
-Das Formular selbst leitet Nutzer **Schritt-für-Schritt **durch den Prozess und beinhaltet nur die Angaben, die für die Zielgruppe relevant sind. 
+Das Formular führt den Nutzer **Schritt-für-Schritt **durch den Prozess und enthält nur die für die Zielgruppe relevanten Informationen. 
 ![alt](05_meine-Steuernummer-1280x800.png)
 
 ## Klare Struktur
@@ -108,7 +108,7 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 ### [Link](https://github.com/tech4germany/steuerlotse) 
 
 
-# das Team
+# Das Team
 
 ![alt](08_Anna_Meshcheryakova.png) \
 **Anna Meshcheryakova** \

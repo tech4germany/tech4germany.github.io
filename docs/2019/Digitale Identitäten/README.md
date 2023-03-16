@@ -87,7 +87,7 @@ Das Thema Digitale Identitäten hat uns gezeigt, dass gute technische Lösungen 
 **Dominik Wörner \
 **Product Fellow
 
-#### Projektpartner
+# Projektpartner:innen
 
 ITZ Bund
 

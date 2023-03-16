@@ -63,10 +63,9 @@ Der Siteseeker ist ein Tool, das alle relevanten Daten zur Suche, Bewertung und 
 ![alt](Mika_Straka_ tech4germany.jpg)
 **Mika Straka** Product Fellow
 
-![alt]()
 **Sophie Perret** Product Fellow
 
-![alt]()
+
 **Sina Busch** Design Fellow	
 
 ![alt](Valentin_Hartig_ tech4germany.png)

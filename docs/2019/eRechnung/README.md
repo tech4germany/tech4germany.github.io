@@ -27,14 +27,11 @@ Wie können wir die Benutzerführung für die Rechnungssteller mühelos und mit 
 
 Das Ziel dieses Projektes war nicht nur das gesamte Bedienerlebnis der zentralen Rechnungseingangsplattform des Bundes neu zu gestalten, sondern auch ein Konzept für eine umfassende Serviceplattform zu erarbeitet und in einem High-End funktionalen Prototypen zu implementieren. In dieser Architektur stellt die eRechnung ein Servicemodul dar.
 
+Verbesserung der User Experience durch intuitiven Formularaufbau und Nutzerführung
 
-## Verbesserung der User Experience durch intuitiven Formularaufbau und Nutzerführung
+Reduzierung der Eingabezeit mit Hilfe von Templates sowie Import / Export-Funktionalität 
 
-
-## Reduzierung der Eingabezeit mit Hilfe von Templates sowie Import / Export-Funktionalität 
-
-
-## Experimentelle Evaluierung von Informationsextraktion mit Hilfe von KI / regelbasierten Systemen
+Experimentelle Evaluierung von Informationsextraktion mit Hilfe von KI / regelbasierten Systemen
 
 
 # VORGEHENSWEISE
@@ -42,13 +39,13 @@ Das Ziel dieses Projektes war nicht nur das gesamte Bedienerlebnis der zentralen
 
 ## 1 Research
 
-Die mit den Projektpartnern gemeinsam aufgestellte Hypothesen wurden durch zahlreiche Interviews und Nutzertests verifiziert bzw. falsifiziert. Zudem wurden aus diesen Gesprächen und Tests zusätzliche Insights gewonnen. Diese wurden zusammen mit den sog. Pains und Gains gesammelt, aggregiert und in sog. Personas überführt, welche repräsentativ für die einzelnen Nutzergruppen standen.
+Die mit den Projektpartnern gemeinsam aufgestellte Hypothesen wurden durch zahlreiche Interviews und Nutzertests verifiziert bzw. falsifiziert. Zudem wurden aus diesen Gesprächen und Tests zusätzliche Insights gewonnen. Diese wurden zusammen mit den sogenannte Pains und Gains gesammelt, aggregiert und in sogenannte Personas überführt, welche repräsentativ für die einzelnen Nutzergruppen standen.
 ![alt](02_phase-1-1.png)
 
 
 ## 2 Ideation
 
-Jene Personas bildeten die Grundlage für die sog. WKW-Fragen (Wie könnten wir ...), aus denen in der sog. Ideation-Phase neue Ideen kreiert wurden. Diese wurden dann gesammelt, aggregiert und in potenzielle Features umformuliert.
+Diese Personas bildeten die Grundlage für die sog. WKW-Fragen (Wie könnten wir ...), aus denen in der sogenannten Ideation-Phase neue Ideen kreiert wurden. Diese wurden dann gesammelt, aggregiert und in potenzielle Features umformuliert.
 ![alt](03_phase-2.png)
 
 
@@ -60,34 +57,32 @@ Die mehr als 100 Features wurden von jedem Team-Mitglied nach Impact und Machbar
 
 ## 4 Conception, Prototyping
 
-In Abstimmung mit den Stakeholdern, wurde die Produktvision anhand eines visuellen Prototypen erarbeitet und kontinuierlich mit potenziellen Nutzern in einemiterativen Prozess getestet. Der erlangte Feedback und dieInsights wurden dann sofort wieder in den Prototypen eingearbeitet.
+In Abstimmung mit den Stakeholdern, wurde die Produktvision anhand eines visuellen Prototypen erarbeitet und kontinuierlich mit potenziellen Nutzern in einem iterativen Prozess getestet. Der erlangte Feedback und dieInsights wurden dann sofort wieder in den Prototypen eingearbeitet.
 ![alt](05_phase-4.png)
 
 ## 5 Umsetzung
 
-Mit Hilfe des visuellen Prototypen wurde ein sog. High fidelity Prototyp entwickelt. Diese Web-Applikation wurde kontinuierlich mit Nutzern getestet und die letzten Änderungen vorgenommen. Aus der Realisierung der Features ergeben sich messbare, signifikante Verbesserungen, wodurch sich die Eingabezeit für eine Rechnung stark dezimiert.
+Mit Hilfe des visuellen Prototypen wurde ein sog. High fidelity Prototyp entwickelt. Diese Web-Applikation wurde kontinuierlich mit Nutzern getestet und die letzten Änderungen vorgenommen. Aus der Realisierung der Features ergeben sich messbare, signifikante Verbesserungen, wodurch sich die Eingabezeit für eine Rechnung deutlich reduziert.
 ![alt](06_phase-5-1.png)
 
 ## 6 Vision
 
-Die eRechnung wird von uns als Teil der Servicewelt Bund verstanden. Alle Bürgen können auf dieser einzigen Plattform auf alle, der mehr als 500 Services, zugreifen. Hierbei müssen sie sich nur ein einziges mal einloggen. Alle der verfügbaren Services werden im selben UI / UX dargestellt und sind auf allen Endgeräten bedienbar.
+Die eRechnung wird von uns als Teil der Servicewelt Bund verstanden. Alle BürgerInnen können von dieser einen Plattform aus auf alle über 500 Services zugreifen. Hierbei müssen sie sich nur ein einziges mal einloggen. Alle der verfügbaren Services werden im selben UI / UX dargestellt und sind auf allen Endgeräten nutzbar.
 ![alt](07_phase-6.png)
 
 # Eine Plattform
 
-Alle Services des Bundes werden auf einer Plattform gebündelt und – für alle Endgeräte optimiert – dem Bürger, Unternehmen und Organisationen zur Verfügung gestellt.
+Alle Services des Bundes werden auf einer Plattform gebündelt und – für alle Endgeräte optimiert – den BürgerInnen, Unternehmen und Organisationen zur Verfügung gestellt.
 ![alt](08_e-1-980x738.png)
 
 # Onboarding Tour (Rundgang)
 
-Neue Nutzer werden mit Hilfe eines Rundgangs durch die Applikation
-
-abgeholt. Hierbei werden alle Funktionen einfach erklärt. Dieser Rundgang kann jederzeit auf jeder Seite neu gestartet werden.
+Neue NutzerInnen werden mit Hilfe eines Rundgangs durch die Applikation abgeholt. Dabei werden alle Funktionen einfach erklärt. Dieser Rundgang kann jederzeit auf jeder Seite neu gestartet werden.
 ![alt](09_e-2-980x738.png)
 
 # Mentales Modell / Interaktionen
 
-Die Eingabe der Rechnungsdaten orientiert sich an dem Mentale-Modell einer Papierrechnung, welches die Nutzer bereits kennen.
+Die Eingabe der Rechnungsdaten orientiert sich am Mental-Modell einer Papierrechnung, welches die Nutzer bereits kennen.
 
 Alle Interaktions-Flows folgen dem gleichen Prinzip, sodass Nutzer schnell mit der Plattform zurecht kommen.
 
@@ -115,7 +110,7 @@ Zusätzlich wird auf die Vorteile der eRechnung verwiesen und konkreten ToDos an
 # UNSERE ERGEBNISSE SIND FREI VERFÜGBAR
 
 
-## P r o j e k t d o k u m e n t a t i o n
+## Projektdokumentation
 
 Ein umfangreiches Dokument, welches das Projekt und die Vorgehensweise ausführlich beschreibt.
 

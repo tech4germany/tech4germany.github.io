@@ -71,24 +71,23 @@ Das Thema Digitale Identitäten hat uns gezeigt, dass gute technische Lösungen 
 
 **Sina Beckstein \
 **Product Fellow
-
+-
 ![alt](02_Isabelle_Miller.png)
 
 **Isabelle Miller \
 **Engineering Fellow
-
+-
 ![alt](03_Julian_Rösner.png)
 
 **Julian Rösner \
 **Engineering Fellow
-
+-
 ![alt](04_Dominik_Wörner.png)
 
 **Dominik Wörner \
 **Product Fellow
 
-
-#### Projektpartner:innen
+# Projektpartner:innen
 
 ITZ Bund
 

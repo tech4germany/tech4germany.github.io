@@ -7,7 +7,7 @@
 
 ![alt](1_problem-grafik-1280x488.jpg)
 
-# Ressourcen** **
+# Ressourcen
 
 
 ### [Fallstudie (PDF)](f1_Fallstudie_Barrierefreie-Buergerkommunikation_barrierefrei.pdf)

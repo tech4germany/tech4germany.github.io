@@ -53,7 +53,7 @@ Mit Beginn des Projekts haben wir uns das Ziel gesetzt, zu verstehen, welche Rol
 
 ## Erkenntnisse aus den Interviews
 
-![1. Die Arbeitsumgebungen und -abläufe der Mitarbeitenden unterscheiden sich. 2. Das Verständnis diversitätssensibler Sprache variiert bei den Mitarbeitenden. 3. Systemische & individuelle Hürden erschwerden die Nutzung sensibler Sprache. 4. Sprachwandel ist ein gesellschaftlicher, moralischer Aushandlungsprozess. 5. Sprache ist eine von vielen relevanten Komponenten für die Diversitätsförderung. 6. Diversität hat viele, gleichwertige Dimensionen](4_Screenshot-2021-11-04-at-14.30.10-1280x706.png)
+![1. Die Arbeitsumgebungen und -abläufe der Mitarbeitenden unterscheiden sich. 2. Das Verständnis diversitätssensibler Sprache variiert bei den Mitarbeitenden. 3. Systemische & individuelle Hürden erschweren die Nutzung sensibler Sprache. 4. Sprachwandel ist ein gesellschaftlicher, moralischer Aushandlungsprozess. 5. Sprache ist eine von vielen relevanten Komponenten für die Diversitätsförderung. 6. Diversität hat viele, gleichwertige Dimensionen](4_Screenshot-2021-11-04-at-14.30.10-1280x706.png)
 
 Aus den Interview-Erkenntnissen haben wir in Workshops zwei Probleme identifiziert:
 
@@ -126,7 +126,7 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 ### [Link](https://github.com/tech4germany/bam-inclusify) 
 
 
-# das Team
+# Das Team
 
 ![alt](10_Sonja_Möbius.jpg) \
 **Sonja Möbius \
@@ -153,7 +153,7 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 [LinkedIn](https://www.linkedin.com/in/davidpomerenke/)
 
 
-### Projektpartnerinnen
+### Projektpartner:innen
 
 Bundesanstalt für Materialforschung und -prüfung 
 

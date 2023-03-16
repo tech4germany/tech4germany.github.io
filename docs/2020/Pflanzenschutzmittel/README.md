@@ -9,7 +9,7 @@ Pflanzenschutzmittelzulassungsdaten werden bereits vom Bundesamt für Verbrauche
 
 # +++ Schnittstelle seit August 2021 live +++
 
-Nach der Prototypisierung durch Tech4Germany ist die Schnittstelle seit August 2021 live. 
+Nach dem Prototyping durch Tech4Germany ist die Schnittstelle seit August 2021 live. 
 
 
 ### [Zur Schnittstelle](https://psm-api.bvl.bund.de/)
@@ -42,22 +42,10 @@ Die Vision des übergeordneten Bundesministeriums für Ernährung und Landwirtsc
 Wir führten Expert:inneninterviews, um den Weg zur Umsetzung dieser Vision zu ergründen.  Die an uns herangetragenen Probleme und Lösungsansätze konsolidierten wir in einem agilen, nutzer:innenzentrierten Vorgehen. Wir entschlossen uns dabei, den Datenbereitstellungsprozess zu fokussieren. Durch den Fokus auf eine Prozessverbesserung der Bereitstellung erwarten wir allen Anwender:innern gleichermaßen zu helfen. Wir gestalteten den Prozess sowohl innerhalb, als auch außerhalb der Behörde nutzer:innenfreundlicher. In folgenden Projekten können die Daten selbst, in ihrer Struktur und Maschinenlesbarkeit, verbessert werden.
 
 
-## Interviews
+Interviews, Synthese, Ideen, Prototyp, Testen & Iterieren
 
 
-## Synthese
-
-
-## Ideen
-
-
-## Prototyp
-
-
-## Testen & Iterieren
-
-
-# Erkentnisse & Lösung
+# Erkenntnisse & Lösung
 
 Im Rahmen der Expert:inneninterviews mit Anwender:innen der Daten innerhalb und außerhalb des BVL, zeigte sich, dass der Bereitstellungsprozess für beide Seiten aufwändig ist. Aktuell werden die Daten monatlich manuell in einem proprietären Dateiformat verschickt.
 
@@ -74,7 +62,7 @@ Das technische Ergebnis unseres Projekts ist eine API nach OpenAPI-Standard, wel
 Die finale Version umfasst einen dokumentierten Endpunkt pro Tabelle der Pflanzenschutzmitteldatenbank. Die von uns entwickelte API wurde auf einem Testsystem des BVL installiert und soll in einem öffentlichen Testbetrieb zur Verfügung gestellt werden.
 ![alt](2_frame_generic_light-2-1280x861.png)
 
-# das Team
+# Das Team
 
 ![alt](3_Fellow-Lara-Albrecht-Profilfoto-1-1280x1601.jpg) \
 **Lara Albrecht \

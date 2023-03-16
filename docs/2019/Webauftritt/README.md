@@ -1,7 +1,8 @@
 # **Webauftritt BMBF 2019**
 
 
-Wie können Hauptseiten und Fachseiten von Ministerien nutzerzentriert gestaltet sein? Wir zeigen am Beispiel des Bundesministeriums für Bildung & Forschung, wie Webauftritte aussehen, die sich an den Bedürfnissen der Nutzer:innen und Bürger:innen orientieren, anstatt an internen Strukturen.
+
+Wie können Haupt- und Fachseiten von Ministerien nutzerzentriert gestaltet werden? Wir zeigen am Beispiel des Bundesministeriums für Bildung & Forschung wie Webauftritte aussehen, die sich an den Bedürfnissen der Nutzer:innen und Bürger:innen orientieren, anstatt an internen Strukturen.
 
 
 ### [Case Study Ministeriumswebseite](https://medium.com/tech4germany/fallstudie-ministeriumswebseite-der-zukunft-5579641ab865)
@@ -19,7 +20,7 @@ Nach der Prototypisierung durch Tech4Germany wurde der Bundesbericht Forschung u
 
 # Eine Herausforderung, zwei Projekte
 
-Wie können Ministerien Bürger:innen und Nutzer:innen in den Fokus Ihres Web-Angebots stellen? Wir zeigen, wie ein nutzerzentriertes und service-orientiertes Angebot gestaltet sein sollte.
+Wie können Ministerien Bürger:innen und Nutzer:innen in den Fokus Ihres Web-Angebots stellen? Wir zeigen, wie ein nutzerzentriertes und serviceorientiertes Angebot gestaltet sein sollte.
 
 Dazu zeichnen wir die Vision der **Ministeriumswebseite der Zukunft**, auf der Bürger:innen genau die Informationen und Services finden, die sie suchen.
 
@@ -30,15 +31,7 @@ Am Beispiel des **Bundesberichts Forschung und Innovation** zeigen wir, wie selb
 
 Um ein nutzerzentriertes Online-Angebot zu erstellen, haben wir Interviews und Nutzertests durchgeführt und Webseitenstatistiken ausgewertet. Mithilfe von Kreativmethoden haben wir verschiedene Ideen entwickelt, die die Probleme der Nutzer:innen lösen könnten und die Besten iterativ weiterentwickelt. Durch den stetigen Einbezug von Nutzerfeedback entstand innerhalb von zehn Wochen ein finales Design.
 
- \
-User Research
-
- \
-Prototyping & Testing
-
- \
-Finales Design
-
+User Research, Prototyping & Testing, Finales Design
 
 ![alt](01_Screenshot-980x621.png)
 
@@ -48,7 +41,7 @@ Direkte Ansprache der Nutzer:innen
 
 Nutzerzentrierte Struktur, die verschiedene Nutzergruppen anspricht und sich nicht an internen Strukturen orientiert
 
-Service-orientierte Inhalte, die echte Probleme der Bürger:innen lösen
+Serviceorientierte Inhalte, die echte Probleme der Bürger:innen lösen
 
 
 ![alt](02_bufi-bg.png)
@@ -61,9 +54,10 @@ Service-orientierte Inhalte, die echte Probleme der Bürger:innen lösen
 Für viele Bürger:innen ist die gefühlte Distanz zu “denen in Berlin” meist hoch. Umso größer ist das Potenzial nutzerzentrierter digitaler Berührungspunkte zwischen Bundesbehörden und der Gesellschaft. Online-Angebote sollten daher immer den/die Nutzer*in in den Fokus stellen.
 
 
-## 2 Service-Orientierung
+## 2 Serviceorientierung
 
 Bürger:innen sind aus privatem und beruflichem Umfeld einfache und nutzerfreundliche Online-Services gewohnt. Dadurch steigt auch die Erwartungshaltung gegenüber staatlichen Akteuren. Digitale Services müssen dabei von Grund auf nutzerzentriert entwickelt werden. Ein analoges Formular, das nicht den Nutzer in den Vordergrund stellt, wird durch die Überführung in ein digitales Format allein noch nicht nutzerfreundlicher.
+
 
 
 ## 3 Agile Arbeitsweisen
@@ -113,7 +107,8 @@ Webauftritt des Bundesberichts Forschung und Innovation
 
 #### [Video](v1_BuFI-Promo-Clip-BMBF.mov)
 
-_“Der Bericht wird online völlig neu präsentiert: aufgeräumt und übersichtlich, vor allem aber interaktiv. In Zusammenarbeit mit Tech4Germany, der Digitalisierungsinitiative unter der Schirmherrschaft des Bundeskanzleramts, wurde die Website des Bundesberichts nutzerzentriert weiterentwickelt und ist im neuen Look ab jetzt online verfügbar.” _ \
+“Der Bericht wird online völlig neu präsentiert: aufgeräumt und übersichtlich, vor allem aber interaktiv. In Zusammenarbeit mit Tech4Germany, der Digitalisierungsinitiative unter der Schirmherrschaft des Bundeskanzleramts, wurde die Website des Bundesberichts nutzerzentriert weiterentwickelt und ist im neuen Look ab jetzt online verfügbar.”
+
 Pressemitteilung 13.05.2020, BMBF
 
 

@@ -16,7 +16,7 @@ Die nationale Weiterbildungsstrategie legt eine Plattform zum Thema Weiterbildun
 
 # Zielsetzung
 
-Wir helfen Menschen durch das Labyrinth der Weiterbildungssuche, indem wir alle Informationen zu Weiterbildung auf einer Plattform zusammenbringen und eine spielerische Möglichkeit zur Orientierung anbieten. Mit unserer Plattform ermöglichen wir ein „Lebenslanges Lernen“.
+Wir helfen Menschen durch das Labyrinth der Weiterbildungssuche, indem wir alle Informationen zur Weiterbildung auf einer Plattform bündeln und eine spielerische Möglichkeit zur Orientierung bieten. Mit unserer Plattform ermöglichen wir ein „Lebenslanges Lernen“.
 
 Spielerische Orientierung im Weiterbildungs-Labyrinth durch Machine Learning.
 

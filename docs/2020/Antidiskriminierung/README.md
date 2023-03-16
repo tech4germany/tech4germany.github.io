@@ -1,7 +1,7 @@
 # **Antidiskriminierung Antidiskriminierungsstelle 2020**
 
 
-Die Antidiskriminierungsstelle des Bundes berät Ratsuchende, die einen Diskriminierungs-fall erlebt haben und spielt eine zentrale Rolle in der Arbeit gegen Diskriminierung. Seit Jahren steigen die Fallzahlen an. Für das kleine Team der Berater:innen, die über hohe juristische Fachkompetenzen verfügen, bedeutet das eine hohe Arbeitslast. Auf der Seite der Ratsuchenden herrscht gleichzeitig Verwirrung und Frustration. Sie sehen sich mit langen Wartezeiten konfrontiert, können Informationen schwer auffinden und oft ist ihnen nicht klar, was sie erwarten können. Das Ziel des Projektes ist es, einen Zugang zu schaffen, der die momentane Situation auf beiden Seiten verbessert.
+Die Antidiskriminierungsstelle des Bundes berät Ratsuchende, die einen Diskriminierungsfall erlebt haben und spielt eine zentrale Rolle in der Arbeit gegen Diskriminierung. Seit Jahren steigen die Fallzahlen an. Für das kleine Team der Berater:innen, die über hohe juristische Fachkompetenzen verfügen, bedeutet das eine hohe Arbeitslast. Auf der Seite der Ratsuchenden herrscht gleichzeitig Verwirrung und Frustration. Sie sehen sich mit langen Wartezeiten konfrontiert, finden Informationen nur schwer und wissen oft nicht, was sie erwarten können. Das Ziel des Projektes ist es, einen Zugang zu schaffen, der die momentane Situation auf beiden Seiten verbessert.
 
 
 ### [Fallstudie (PDF)](f1_Fallstudie_Antidiskriminierung_final-1.pdf)
@@ -61,7 +61,7 @@ Die Antidiskriminierungsstelle des Bundes, kurz ADS, unterstützt und berät Rat
 
 Unsere Herausforderung war: Wie können wir den Zugang so gewährleisten, dass die Hilfesuchenden möglichst schnell passende Hilfestellungen für ihr Anliegen bekommen und die Berater:innen ihr Know-How an den richtigen Stellen einsetzen können? 
 
-In 12 Projektwochen wurde unter Verwendung agiler Arbeitsmethoden, ergebnisoffen an dem Thema gearbeitet. Der Prozess wurde stets durch Nutzerbedürfnisse geleitet. Nach der Analysephase wurden die Problemfelder konsolidiert und anschließend wurde die Lösung iterativ entwickelt. Ziel war es, den betroffenen Bürger:innen möglichst viel Hilfe anzubieten. Daher erarbeitete das Team mit ihnen gemeinsam im user-zentrierten Designprozess ihre Bedürfnisse heraus.
+In 12 Projektwochen wurde unter Verwendung agiler Arbeitsmethoden, ergebnisoffen an dem Thema gearbeitet. Der Prozess wurde stets durch Nutzerbedürfnisse geleitet. Nach der Analysephase wurden die Problemfelder konsolidiert und anschließend wurde die Lösung iterativ entwickelt. Ziel war es, den betroffenen Bürger:innen möglichst viel Hilfe anzubieten. Daher erarbeitete das Team mit ihnen gemeinsam im nutzerzentrierten Designprozess ihre Bedürfnisse heraus.
 
 
 # Erkentnisse & Lösung
@@ -89,7 +89,7 @@ Nach fünf Klicks erhalten Ratsuchende passende Informationen zu Ihrem Diskrimin
 
 ## 1 Schatzkarte
 
-Die Verwaltung hat eigentlich einen wahren Schatz an Wissen und Informationen aber die Wege dahin sind zu kompliziert. Der Zugang ist erschwert, weshalb die Bürger:innen nicht die notwendigen Informationen finden können.
+Die Verwaltung verfügt über einen wahren Schatz an Wissen und Informationen, aber die Wege dorthin sind zu kompliziert. Der Zugang ist erschwert, weshalb die Bürger:innen die notwendigen Informationen nicht finden können.
 
 Daher brauchen wir einfach funktionierende Wegweiser – sozusagen als Schatzkarte – um Hilfesuchende Bürger:innen digital an die Hand zu nehmen und zum Ziel zu führen!
 
@@ -111,7 +111,7 @@ Viele Menschen machen Diskriminierungs-erfahrung und Diskriminierungen kommen ö
 
 ## 5 Vision
 
-Unsere Lösung ermöglicht es den Ratsuchenden über einen automatisierten Einstieg schnell an wichtige Informationen und Handlungs-empfehlungen zu kommen. Zu der Vision gehört es ebenfalls, dass die Berater:innen der ADS damit entlastet werden und somit ihre Kern-kompetenzen punktueller und effizienter einsetzen können. 
+Unsere Lösung ermöglicht es den Ratsuchenden, über einen automatisierten Einstieg schnell an wichtige Informationen und Handlungs-empfehlungen zu kommen. Zu der Vision gehört es ebenfalls, dass die Berater:innen der ADS damit entlastet werden und somit ihre Kern-kompetenzen punktueller und effizienter einsetzen können. 
 
 
 # Unsere Ergebnisse sind frei verfügbar

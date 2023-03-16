@@ -47,7 +47,7 @@ Alles Weitere wurde direkt aus den Bedürfnissen der Nutzenden abgeleitet. Um di
 
 ![alt](2_20211007-werkstattbesuch-helge-braun-lowres-23-1280x854.jpg)
 
-# Erkenntnisse und lösungen
+# Erkenntnisse und Lösungen
 
 Unsere Recherche hat drei Erkenntnisse hervorgebracht, die jeweils eine Lösung generierten.
 
@@ -64,7 +64,7 @@ Viele potenzielle Nutzer:innen schaffen es gar nicht zu dem Rechner: entweder si
 
 ## 3 Bürger:innen finden oftmals keinen Zugang zu bestehenden Informationsangeboten des Bundestages.
 
-Interessierte Bürger:innen sind auf Mediator:innen wie Datenexpert:innen oder Journalist:innen angewiesen, um zielgerichtet Informationen über den Bundestag zu erhalten. Diese schätzen das jetzige Informationsangebot, betonen aber auch das Potenzial von seinem Ausbau und seiner Vereinheitlichung. Wir liefern ein Konzept für ein einheitlicheres Datenangebot, die “Digitale Kuppel”, und zeigen, dass der Rechner der erste Schritt zu seiner Realisierung sein kann.
+Interessierte Bürger:innen sind auf Mediator:innen wie Datenexpert:innen oder Journalist:innen angewiesen, um zielgerichtet Informationen über den Bundestag zu erhalten. Diese schätzen das jetzige Informationsangebot, betonen aber auch das Potenzial von seinem Ausbau und seiner Vereinheitlichung. Wir liefern ein Konzept für ein einheitlicheres Datenangebot, die „Digitale Kuppel“, und zeigen, dass der Rechner der erste Schritt zu seiner Realisierung sein kann.
 
 
 # Projektergebnisse
@@ -92,7 +92,7 @@ Eine Informationswebsite hilft neuen Nutzer:innen die Rolle und Funktion des Rec
 
 In einer Vereinheitlichung und einem Ausbau des Datenangebotes des Bundestages liegt großes Potenzial.
 
-In unserer Projektdokumentation stellen wir dafür unser Konzept für eine “Digitale Kuppel” vor.
+In unserer Projektdokumentation stellen wir dafür unser Konzept für eine „Digitale Kuppel“ vor.
 
 ![alt](5_kuppo_aber_wir_haben_die_rechte_dran.jpg)
 
@@ -109,7 +109,7 @@ Der neue Verhältnisberechner, vorläufig noch von Tech4Germany gehostet.
 
 ## Dokumentation
 
-Unser detailliertes Vorgehen, unsere Ergebnisse und unser Vorschlag für die Digitale Kuppel.
+Unser detailliertes Vorgehen, unsere Ergebnisse und unser Vorschlag für die „Digitale Kuppel“.
 
 
 ## Code
@@ -145,7 +145,7 @@ Der gesamte Code des Rechners zur freien Wieder- und Weiterverwendung auf GitHub
 [LinkedIn](https://www.linkedin.com/in/clschmitz/)
 
 
-# Projektpartner
+# Projektpartner:innen
 
 Deutscher Bundestag
 

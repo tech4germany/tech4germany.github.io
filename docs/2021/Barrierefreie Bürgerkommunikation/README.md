@@ -25,7 +25,7 @@
 ### [GitHub (Code)](https://github.com/tech4germany/Zoll-Assistent)
 
 
-# LINKS
+# Links
 
 
 ### [Prototyp](https://www.figma.com/proto/FSohhu1p2cjVo5oPKmbeSF/Digitaler_Assistent_v01?page-id=1%3A2&node-id=562%3A10777&viewport=287%2C48%2C0.18&scaling=min-zoom&starting-point-node-id=562%3A10777)
@@ -129,7 +129,7 @@ Unsere Leitlinien für das Arbeiten als moderne Verwaltung
 ### [Download](f3_design-prinzipien_team_gzd_itz-bund-1.pdf)
 
 
-# das Team
+# Das Team
 
 **Elena Rüdenauer \
 **Product Fellow \
@@ -148,7 +148,7 @@ Unsere Leitlinien für das Arbeiten als moderne Verwaltung
 [LinkedIn](https://www.linkedin.com/in/sarah-heimburger-7b68371b2/)
 
 
-# Projektpartner
+# Projektpartner:innen
 
 **Zoll **
 

@@ -36,7 +36,7 @@ Die JobFix-App soll Personalabteilungen dabei unterstützen, auf die Bedürfniss
 Jobfix ist ein webbasiertes Tool für die Personalgewinnung. Ziel ist eine Stellenanzeige, die genau auf potenziellen Kandidat:innen zugeschnitten ist.
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](jobfix.png)
 
 
 
@@ -65,5 +65,5 @@ Ekaterina Ellenbeck
 ![alt_text](rene_guerth.jpg)
 René Guerth
 
-![alt_text](Johanna_Koetter__tech4germany_Final.jpg)
+
 Michelle Groschupp

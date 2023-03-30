@@ -1,7 +1,6 @@
 # Jahrgang 2022
 
-//Gruppenfoto
+![alt](tech4germany-2022_gruppe.jpg)
 
-//Um zu den einzelnen Projektseiten zu gelangen, benutzen Sie bitte die Navigation auf der linken Seite.
 
 

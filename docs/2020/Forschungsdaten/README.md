@@ -1,5 +1,5 @@
 # **Forschungsdaten BMG 2020**
-
+# **Forschungsdaten BMG 2020**
 
 Im Forschungsdatenzentrum werden in einem geschützten Rahmen die Gesundheitsdaten von Krankenkassen für Forschungszwecke verfügbar gemacht. Tech4Germany hatte das Ziel, die Gesundheitsdaten besser zugänglich für Forscher:innen zu machen. Dafür wurde ein Prototyp für das neue Portal im Forschungsdatenzentrum unter Einbindung der Forscher:innen entwickelt. Somit wurde die Prozessführung für Forscher:innen wesentlich verbessert und so der Forschungsprozess transparent gemacht. 
 

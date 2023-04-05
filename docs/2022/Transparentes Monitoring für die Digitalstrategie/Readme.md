@@ -27,12 +27,12 @@ Um diesen Herausforderungen zu begegnen, war das Ziel des Projekts die Entwicklu
 
 ## Ergebnisse des Prototyps:
 
-Der Prototyp erhielt positives Feedback von den Nutzern, die folgende Vorteile feststellten:
+Der Prototyp erhielt positives Feedback von den Nutzenden, die folgende Vorteile feststellten:
 
 
 
 * Transparente und strukturierte Übersicht über Maßnahmen und Projekte
-* Zentraler Zugang für alle Mitarbeiter
+* Zentraler Zugang für alle Mitarbeitenden
 * Anlegen, Bearbeiten und Koordinieren an einem Ort möglich
 * Projektspezifische Meilensteine und Indikatoren für die abteilungsübergreifende Zusammenarbeit
 * Notwendigkeit von gemeinsam abgestimmten Meilensteinen und Indikatoren zur Sicherung der Datenqualität

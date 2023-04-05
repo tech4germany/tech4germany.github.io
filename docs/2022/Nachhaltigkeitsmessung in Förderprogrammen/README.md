@@ -6,7 +6,7 @@
 ### [Der Prototyp](https://sdg4aal.eu/landingpage)
 ### [GitHub Repository](https://github.com/tech4germany/sdg4aal)
 
-# Einleitung:Nachhaltigkeit in der Politik verankern
+# Einleitung: Nachhaltigkeit in der Politik verankern
 
 Die Bundesregierung hat es sich zur Aufgabe gemacht, die 17 Sustainable Development Goals (SDGs) der Vereinten Nationen in ihrer Politik zu operationalisieren. Unsere Lösung, der SDG-Checker, soll dazu einen Beitrag leisten, indem er die Komplexität der SDGs für die Projektgestaltung zugänglicher macht.
 
@@ -24,7 +24,7 @@ Wir haben einen Design-Prototyp und ein technisches Minimal Viable Product (MVP)
 
 # Die langfristige Vision: Ein vollständig digitaler und nutzerzentrierter Prozess
 
-Der SDG-Checker ist ein "Conversation-Starter" auf dem Weg zu einer größeren Vision, der konsequenten Verankerung der SDGs im Förderprozess. Um dies zu erreichen, ist es entscheidend, den Antragsprozess zu digitalisieren, zu straffen und nutzerzentriert zu gestalten. Dies führt dann zu mehr Transparenz und schafft allen Beteiligten Zeit und mentale Kapazität für die Auseinandersetzung mit den SDGs. Die gesetzliche Verankerung von Nachhaltigkeit als Förderkriterium würde zu einer verpflichtenden Auseinandersetzung mit dem Thema führen, so dass Nachhaltigkeit nicht mehr nur ein freiwilliges "on-top"-Thema ist.
+Der SDG-Checker ist ein „Conversation-Starter" auf dem Weg zu einer größeren Vision, der konsequenten Verankerung der SDGs im Förderprozess. Um dies zu erreichen, ist es entscheidend, den Antragsprozess zu digitalisieren, zu straffen und nutzerzentriert zu gestalten. Dies führt dann zu mehr Transparenz und schafft allen Beteiligten Zeit und mentale Kapazität für die Auseinandersetzung mit den SDGs. Die gesetzliche Verankerung von Nachhaltigkeit als Förderkriterium würde zu einer verpflichtenden Auseinandersetzung mit dem Thema führen, so dass Nachhaltigkeit nicht mehr nur ein freiwilliges „on-top"-Thema ist.
 
 
 # Fazit:

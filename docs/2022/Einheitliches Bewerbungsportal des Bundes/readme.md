@@ -3,9 +3,9 @@
 
 ## Hintergrund und Herausforderungen
 
-Bis 2030 verlassen aus demographischen Gründen ein Drittel der Beschäftigten den öffentlichen Dienst. Allein auf Bundesebene sind damit über 100.000 Stellen neu zu besetzen. 
+Bis 2030 verlassen aus demografischen Gründen ein Drittel der Beschäftigten den öffentlichen Dienst. Allein auf Bundesebene sind damit über 100.000 Stellen neu zu besetzen. 
 
-Gleichzeitig weitet sich der Fachkräftemangel von einigen spezialisierten Berufen auf so gut wie alle Branchen aus. Der Arbeitsmarkt ist mittlerweile so angespannt, dass offen von einem “war for talents” (Krieg um Talente) gesprochen wird. Speziell IT- und Digitalisierungstalente sind stark umworben. 
+Gleichzeitig weitet sich der Fachkräftemangel von einigen spezialisierten Berufen auf so gut wie alle Branchen aus. Der Arbeitsmarkt ist mittlerweile so angespannt, dass offen von einem „war for talents” (Krieg um Talente) gesprochen wird. Speziell IT- und Digitalisierungstalente sind stark umworben. 
 
 Diese Talente sind an moderne und flexible Arbeitsumgebungen gewöhnt und haben einen starken Wunsch nach einer sinnstiftenden Tätigkeit mit gesellschaftlichem Mehrwert. Der öffentliche Sektor bietet hierbei eigentlich ideale Voraussetzungen, schafft es aber oft nicht, diese Vorteile entsprechend zu kommunizieren.
 
@@ -15,7 +15,7 @@ Diese Talente sind an moderne und flexible Arbeitsumgebungen gewöhnt und haben 
 
 ### Unsere Leitfrage 
 
-“Wie können wir eine Schnittstelle gestalten, die einen intuitiven und attraktiven Bewerbungsprozess einleitet, und Bewerber:innen hilft passende Stellen zu finden, sodass es zu vielen erfolgversprechenden Bewerbungen in der Bundesverwaltung führt?”
+„Wie können wir eine Schnittstelle gestalten, die einen intuitiven und attraktiven Bewerbungsprozess einleitet, und Bewerber:innen hilft passende Stellen zu finden, sodass es zu vielen erfolgversprechenden Bewerbungen in der Bundesverwaltung führt?”
 
 Aus dem zur Beantwortung vorgenommenen User-Research Prozess mit ergänzenden Gesprächen mit Expert:innen und Studien haben sich folgende drei Themenfelder ergeben:
 

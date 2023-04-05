@@ -8,7 +8,7 @@ Mit dem IT-Sicherheitsgesetz 2.0 wurde dem Bundesamt für Sicherheit in der Info
 
 ## Umsetzung: IT-Sicherheitsatlas und Browsererweiterung
 
-Zur Lösung wurden zwei Lösungsansätze entwickelt. Die erste ist der IT-Sicherheitsatlas, der eine Liste seriöser Akteure enthält, an die sich Verbraucher:innen wenden können, falls der Hersteller auf einen IT-Sicherheitsvorfall nicht reagiert. Das BSI kann Betroffene auch an andere geeignete Akteure weiterleiten. Die zweite Lösung ist eine Browser-Erweiterung, die automatisch vor Gefahren im Internet warnt und Verbraucher:innen auf den IT-Sicherheitsatlas auf der BSI-Webseite verweist. Die Browsererweiterung reduziert die Komplexität des Themas und funktioniert automatisch.
+Zur Lösung wurden zwei Lösungsansätze entwickelt. Zum einen der IT-Sicherheitsatlas, der eine Liste seriöser Akteure enthält, an die sich Verbraucher:innen wenden können, falls der Hersteller auf einen IT-Sicherheitsvorfall nicht reagiert. Das BSI kann Betroffene auch an andere geeignete Akteure weiterleiten. Die zweite Lösung ist eine Browser-Erweiterung, die automatisch vor Gefahren im Internet warnt und Verbraucher:innen auf den IT-Sicherheitsatlas auf der BSI-Webseite verweist. Die Browsererweiterung reduziert die Komplexität des Themas und funktioniert automatisch.
 
 ### [Unser Code](https://github.com/ben04/fakeshop-detector/)
 

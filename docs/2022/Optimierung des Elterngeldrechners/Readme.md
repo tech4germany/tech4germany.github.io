@@ -9,15 +9,17 @@
 
 ## Hintergrund & Herausforderung
 
-Der Elterngeldrechner ist die meistgenutzte digitale Anwendung des BMFSFJ. Er soll Eltern und werdenden Eltern nicht nur bei der Berechnung ihres Elterngeldes und bei der Planung der Elterngeldmonate und der Kombination von den Varianten Basiselterngeld, ElterngeldPlus und Partnerschaftsbonus, sondern auch bei ihrer partnerschaftlichen Aufteilung unterstützen. 
+Der Elterngeldrechner ist die meistgenutzte digitale Anwendung des BMFSFJ. Er soll (werdenden) Eltern bei der Berechnung ihres Elterngeldes, bei der partnerschaftlichen Aufteilung der Elterngeldmonate und der möglichen Kombination der Services Basiselterngeld, ElterngeldPlus und Partnerschaftsbonus unterstützen. 
 
 Unser Projekt zielt darauf ab, den Elterngeldrechner des BMFSFJ zu verbessern, um eine partnerschaftlichere und flexiblere Planung der Elterngeldmonate zu ermöglichen. Wir arbeiten eng mit Expert:innen und Eltern zusammen, um sicherzustellen, dass der neue Elterngeldrechner ihren Bedürfnissen entspricht. Unser Ziel ist es, die partnerschaftliche Elternschaft zu fördern und einen positiven Einfluss auf das Leben von Eltern und ihren Familien zu haben.
 
 
 ## Herangehensweise & Erkenntnisse
 
-Unsere Interviews mit Expert:innen, Stakeholdern und Nutzer:innen haben ergeben, dass viele werdende Eltern das Elterngeld in seiner Tiefe und Komplexität nicht verstehen und sich bei der Planung der bevorstehenden Elternzeit oft überfordert und verloren fühlen. Der bestehende Elterngeldrechner des BMFSFJ löst diese Komplexität für die Nutzer:innen nicht auf und wird oft als überwältigend empfunden. Viele Eltern greifen aus Resignation auf bekannte Aufteilungsmodelle zurück und verpassen so die Möglichkeiten der ihnen zustehenden Leistung.. Unsere Leitfrage lautete: Was wäre, wenn Eltern zu jedem Zeitpunkt ihrer Planung verschiedene Szenarien durchspielen könnten, um die für ihre Familie am besten informierte Entscheidung zu treffen?
+Unsere Leitfrage: Was wäre, wenn Eltern zu jedem Zeitpunkt ihrer Planung verschiedene Szenarien durchspielen könnten, um die für ihre Familie am besten informierte Entscheidung zu treffen?
 
+
+Unsere Interviews mit Expert:innen, Stakeholdern und Nutzer:innen haben ergeben, dass viele werdende Eltern das Elterngeld in seiner Tiefe und Komplexität nicht verstehen und sich bei der Planung der bevorstehenden Elternzeit oft überfordert und verloren fühlen. Der bestehende Elterngeldrechner löst diese Komplexität für die Nutzer:innen nicht auf und wird oft als überwältigend empfunden. Viele Eltern greifen aus Resignation auf bekannte Aufteilungsmodelle zurück und verpassen so die Möglichkeiten der ihnen zustehenden Leistung.
 
 ## Der Prototyp
 

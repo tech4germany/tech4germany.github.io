@@ -3,7 +3,7 @@
 
 ## Problemstellung: 
 
-Einfach mal mit Bürger:innen sprechen und herausfinden, was ihre Bedürfnisse sind und wie sie die Services der Deutschen Rentenversicherung (DRV) finden? Das ist leichter gesagt als getan - vor allem, wenn man wie die Mitarbeitenden der DRV Bund vor verschiedenen Hürden steht, Bürger:innen durch Nutzendenforschung in Projekte einzubinden. Die Schwierigkeiten lassen sich in drei Handlungsfelder zusammenfassen: Haltung, Zugang und Expertise. Das Verständnis für den Mehrwert von Nutzendenforschung ist gering, der direkte Zugang zu Bürger:innen aufgrund von Datenschutzbestimmungen und internen Abstimmungen schwierig und das Wissen, um Nutzendenforschung selbstständig umsetzen zu können, ist nur an wenigen Stellen im Haus vorhanden.
+Einfach mal mit Bürger:innen sprechen und herausfinden, was ihre Bedürfnisse sind und wie sie das Serviceangebot der Deutschen Rentenversicherung (DRV) finden? Das ist leichter gesagt als getan - vor allem, wenn man wie die Mitarbeitenden der deutschen Rentenversicherung vor der Hürde steht, Bürger:innen durch Nutzendenforschung partizipativ in Projekte einzubinden. Die Schwierigkeiten lassen sich in drei Handlungsfelder zusammenfassen: Haltung, Zugang und Expertise. Das Verständnis für den Mehrwert von Nutzendenforschung ist gering, der direkte Zugang zu Bürger:innen aufgrund von Datenschutzbestimmungen und internen Abstimmungen schwierig und das Wissen, um Nutzendenforschung selbstständig umsetzen zu können, ist nur an wenigen Stellen im Haus vorhanden.
 
 
 ## Lösungsansatz: Forschungsservice
@@ -18,8 +18,7 @@ Der Forschungsdienst geht die drei Handlungsfelder Haltung, Zugang und Expertise
 
 ## Langfristige Vision: Bürger:innen-Beteiligungsplattform
 
-Als langfristige Vision soll eine Bürger:innen-Beteiligungsplattform an den Research Service angedockt werden, um ein eigenes Netzwerk von Bürger:innen aufzubauen. Diese sollen aktiv in die Projekte der DRV Bund eingebunden werden, um die Verwaltung zu demokratisieren. Der partizipative Charakter steht hier klar im Vordergrund und zahlt damit auch politisch auf die Punkte Nutzer:innenzentrierung des OZG und "lebendige Demokratie" des Koalitionsvertrages ein. Der Research Service schafft somit eine pragmatische Lösung, die die Grundlage für die Nutzendenforschung legt und mit der Bürger:innen-Beteiligungsplattform eine langfristige Vision zur Demokratisierung der Verwaltung mit auf den Weg gibt.
-
+Als langfristige Vision soll eine Bürger:innen-Beteiligungsplattform an den Research Service angedockt werden, um ein eigenes Netzwerk für Bürger:innen aufzubauen. Diese sollen aktiv in die Projekte der deutschen Rentenversicherung  eingebunden werden, um die Verwaltung zu demokratisieren. Der partizipative Charakter steht hier klar im Vordergrund und zahlt damit auch politisch auf die Punkte Nutzer:innenzentrierung des Onlinezugangsgesetz (OZG) und "lebendige Demokratie" des Koalitionsvertrages ein. Der Research Service schafft somit eine pragmatische Lösung, die die Grundlage für die Nutzendenforschung legt und mit der Bürger:innen-Beteiligungsplattform eine langfristige Vision zur Demokratisierung der Verwaltung mit auf den Weg gibt.
 
 ## Team
 

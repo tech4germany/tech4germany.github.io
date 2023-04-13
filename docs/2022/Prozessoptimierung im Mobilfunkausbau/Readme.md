@@ -48,7 +48,7 @@ Die Siteseeker-Plattform liefert relevante Informationen über Gebiete bei der S
 
 
 
-* Förderung von Antennen-Sharing durch Integration der EMF-Karte (elektromagnetische Felder)
+* Förderung von Antennen-Sharing durch Integration der [EMF-Karte (elektromagnetische Felder)]https://www.deutschland-spricht-ueber-5g.de/informieren/mobilfunktechnik/emf-karte-wo-steht-der-naechste-funkmast/
 * Beschleunigter Ausbau von 5G mittels Anzeige von Stadtmobiliar-Informationen
 * Mögliche Marktöffnung und Förderung von kleinen und mittelständischen Unternehmen (KMU)
 

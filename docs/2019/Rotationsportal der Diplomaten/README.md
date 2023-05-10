@@ -82,35 +82,19 @@ GitHub Repository der Webapp, die im Sharepoint des Auswärtigen Amtes läuft.
 
 Technologie allein ist nicht die Lösung. Wir übergeben eine nutzerzentrierte Webapp an das Auswärtige Amt. Dort muss die Arbeit nun weitergehen. Es müssen Organisationsstrukturen und Arbeitsweisen geschaffen werden, die das Rotationsportal pflegen, anpassen und weiterentwickeln.
 
-![alt](02_Carl_Gödecken.png)
+|                         |                        |
+|:-------------------------:|:------------------------:|
+| ![alt](02_Carl_Gödecken.png){: class="profile-pic"} **Carl Gödecken**<br>Engineering Fellow | ![alt](03_Brando_Vasquez.png){: class="profile-pic"} **Brando Vasquez**<br>Design Fellow |
+| ![alt](04_Stephan_Detje.png){: class="profile-pic"} **Stephan Detje**<br>Engineering Fellow | ![alt](05_Joshua_Pacheco.png){: class="profile-pic"} **Joshua Pacheco**<br>Service Designer |
 
-**Carl Gödecken \
-**Engineering Fellow
 
-![alt](03_Brando_Vasquez.png)
-
-**Brando Vasquez \
-**Design Fellow
-
-![alt](04_Stephan_Detje.png)
-
-**Stephan Detje \
-**Engineering Fellow
-
-![alt](05_Joshua_Pacheco.png)
-
-**Joshua Pacheco \
-**Service Designer
 
 
 # Projektpartner:innen
 
-![alt](06_Stephanie_Weidner.png)
+|                         |                        |
+|:-------------------------:|:------------------------:|
+| ![alt](06_Stephanie_Weidner.png){: class="profile-pic"} **Stephanie Weidner**<br>Digitallotsin | ![alt](07_Daniela_Weber.png){: class="profile-pic"} **Daniela Weber**<br>Digitallots
 
-**Stephanie Weidner \
-**Digitallotsin
 
-![alt](07_Daniela_Weber.png)
 
-**Daniela Weber \
-**Digitallotsin

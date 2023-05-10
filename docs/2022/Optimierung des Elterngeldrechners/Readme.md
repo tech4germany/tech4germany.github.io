@@ -40,32 +40,16 @@ Wir haben einen selbsterklärenden und intuitiv bedienbaren Elterngeldplaner fü
 # Team
 
 
-![alt_text](Johanna_Koetter__tech4germany_Final.jpg)
-**Johanna Koetter** Product Fellow
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt_text](Johanna_Koetter__tech4germany_Final.jpg){: class="profile-pic"} **Johanna Koetter**<br>Product Fellow | ![alt_text](Albina_Kremer_tech4germany__Final.jpg){: class="profile-pic"} **Albina Kremer**<br>Design Fellow |
+| ![alt_text](Insa_Luegger__tech4germany_Final.jpg){: class="profile-pic"} **Insa Lügger**<br>Design Fellow | ![alt_text](Jenny_Huang__tech4germany_Final.jpg){: class="profile-pic"} **Jenny Huang**<br>Engineering Fellow |
 
-
-![alt_text](Albina_Kremer_tech4germany__Final.jpg)
-**Albina Kremer** Design Fellow	
-
-![alt_text](Insa_Luegger__tech4germany_Final.jpg)
-**Insa Lügger** Design Fellow	
-
-
-![alt_text](Jenny_Huang__tech4germany_Final.jpg)
-**Jenny Huang** Engineering Fellow
 
 
 # Projektpartner
 
-![alt_text](Melanie_-__BMFSFJ_Final.jpg)
-**Melanie Kalka**
-
-![alt_text](Katrin_-_BMFSFj_Final.jpg)
-**Katrin Weck**
-
-![alt_text](Julia.png)
-**Julia Nies**
-
-![alt_text](Erika_-_BMFSFJ_Final.jpg)
-**Erika Janzen**
-
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt_text](Melanie_-__BMFSFJ_Final.jpg){: class="profile-pic"} **Melanie Kalka** | ![alt_text](Katrin_-_BMFSFj_Final.jpg){: class="profile-pic"} **Katrin Weck** |
+| ![alt_text](Julia.png){: class="profile-pic"} **Julia Nies** | ![alt_text](Erika_-_BMFSFJ_Final.jpg){: class="profile-pic"} **Erika Janzen** |

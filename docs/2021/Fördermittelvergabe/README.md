@@ -65,7 +65,13 @@ FörderAssist **begleitet Antragsteller:innen schrittweise** durch den Prozess d
 
 Ein programmierter Prototyp demonstriert die **simple Anbindung** an etablierte Systeme wie easy-Online/Profi und lässt sich daher direkt **in bestehende Abläufe integrieren**.
 
-# Galerie ![alt](4_20210826_144637-scaled.jpg) ![alt](5_20211007-werkstattbesuch-helge-braun-lowres-61-scaled.jpg) ![alt](6_20211029_160459-scaled.jpg) ![alt](7_20211014-werkstattbesuch-markus-richter-lowres-2-scaled.jpg) ![alt](8_20211019_125803-scaled.jpg) ![alt](9_DSC1422-1-scaled.jpeg) ![alt](10_DSC09311-scaled.jpg) ![alt](11_DSC09322-scaled.jpg)
+# Galerie 
+|                          |                          |                          |
+|:------------------------:|:------------------------:|:------------------------:|
+| ![alt](4_20210826_144637-scaled.jpg){: height="40%" width="40%"} | ![alt](5_20211007-werkstattbesuch-helge-braun-lowres-61-scaled.jpg){: height="40%" width="40%"} | ![alt](6_20211029_160459-scaled.jpg){: height="40%" width="40%"} |
+| ![alt](7_20211014-werkstattbesuch-markus-richter-lowres-2-scaled.jpg){: height="40%" width="40%"} | ![alt](8_20211019_125803-scaled.jpg){: height="40%" width="40%"} | ![alt](9_DSC1422-1-scaled.jpeg){: height="40%" width="40%"} |
+| ![alt](10_DSC09311-scaled.jpg){: height="40%" width="40%"} | ![alt](11_DSC09322-scaled.jpg){: height="40%" width="40%"} |                          |
+
 
 # Fördermittelbeantragung mit FörderAssist
 
@@ -157,45 +163,19 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 # Das Team
 
-![alt](15_benedikt_kau_800_1056_px.jpeg)
-**Benedikt Kau \
-**Product Fellow \
-[LinkedIn](https://www.linkedin.com/in/benediktkau/) \
-[GitHub](https://github.com/benediktkau)
-
-![alt](16_Huyen-Trang-Nguyen-800x1056-1.png)
-**Huyen Trang Nguyen \
-**Design Fellow \
-[LinkedIn](https://www.linkedin.com/in/huyentrangux/)
-
-![alt](17_Paul-Geppert-800x1056-1.png)
-**Paul Geppert \
-**Engineering Fellow \
-[LinkedIn](https://www.linkedin.com/in/paul-geppert-a12675155/) \
-[GitHub](https://github.com/Paul-Geppert)
-
-![alt](18_Svenja-Nevermann-800x1056-1.png)
-**Svenja Nevermann \
-**Design Fellow \
-[LinkedIn](https://www.linkedin.com/in/svenja-nevermann-a9760212b/)
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](15_benedikt_kau_800_1056_px.jpeg){: height="40%" width="40%"} **Benedikt Kau**<br>Product Fellow<br>[LinkedIn](https://www.linkedin.com/in/benediktkau/)<br>[GitHub](https://github.com/benediktkau) | ![alt](16_Huyen-Trang-Nguyen-800x1056-1.png){: height="40%" width="40%"} **Huyen Trang Nguyen**<br>Design Fellow<br>[LinkedIn](https://www.linkedin.com/in/huyentrangux/) |
+| ![alt](17_Paul-Geppert-800x1056-1.png){: height="40%" width="40%"} **Paul Geppert**<br>Engineering Fellow<br>[LinkedIn](https://www.linkedin.com/in/paul-geppert-a12675155/)<br>[GitHub](https://github.com/Paul-Geppert) | ![alt](18_Svenja-Nevermann-800x1056-1.png){: height="40%" width="40%"} **Svenja Nevermann**<br>Design Fellow<br>[LinkedIn](https://www.linkedin.com/in/svenja-nevermann-a9760212b/) |
 
 
 # Projektpartner:innen
 
 **Bundesministerium für Verkehr und digitale Infrastruktur**
 
-![alt](19_BMVI_Alexander-Duernagel-800x1056-1.png)
-**Alexander Dürnagel \
-**Referatsleiter \
-[E-Mail](mailto:alexander.duernagel@bmvi.bund.de)
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](19_BMVI_Alexander-Duernagel-800x1056-1.png){: height="40%" width="40%"} **Alexander Dürnagel**<br>Referatsleiter<br>[E-Mail](mailto:alexander.duernagel@bmvi.bund.de) | ![alt](20_BMVI-Nadine-Huke-800x1056-1.png){: height="40%" width="40%"} **Nadine Huke**<br>Sachbearbeiterin<br>[E-Mail](mailto:nadine.huke@bmvi.bund.de) |
+| ![alt](21_BMVI-Raphael-Schoenball-800x1056-1.png){: height="40%" width="40%"} **Raphael Schönball**<br>Werkstudent<br>[E-Mail](mailto:raphael.schoenball@bmvi.bund.de) | |
 
-![alt](20_BMVI-Nadine-Huke-800x1056-1.png)
-**Nadine Huke \
-**Sachbearbeiterin \
-[E-Mail](mailto:nadine.huke@bmvi.bund.de)
-
-![alt](21_BMVI-Raphael-Schoenball-800x1056-1.png)
-**Raphael Schönball \
-**Werkstudent \
-[E-Mail](mailto:raphael.schoenball@bmvi.bund.de)
 

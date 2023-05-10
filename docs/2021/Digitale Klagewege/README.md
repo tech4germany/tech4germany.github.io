@@ -175,44 +175,19 @@ GitHub Repository der WebApp
 
 # Das Team
 
-![alt](10_Marcus-Novotny-800x1056-1.png)
-**Marcus Novotny** \
-Product Fellow
-
-![alt](11_Eileen-Einwaechter-800x1056-1.png)
-**Eileen Einwächter** \
-Design Fellow
-
-![alt](12_Michael-Lassmann-800x1056-1.png)
-**Michael Laßmann** \
-Engineering Fellow
-
-![alt](13_Nils-Thamm-800x1056-1.png)
-**Nils Thamm** \
-Engineering Fellow
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](10_Marcus-Novotny-800x1056-1.png){: height="40%" width="40%"} **Marcus Novotny**<br>Product Fellow | ![alt](11_Eileen-Einwaechter-800x1056-1.png){: height="40%" width="40%"} **Eileen Einwächter**<br>Design Fellow |
+| ![alt](12_Michael-Lassmann-800x1056-1.png){: height="40%" width="40%"} **Michael Laßmann**<br>Engineering Fellow | ![alt](13_Nils-Thamm-800x1056-1.png){: height="40%" width="40%"} **Nils Thamm**<br>Engineering Fellow |
 
 
 # Projektpartner:innen
 
 Bundesministerium der Justiz und für Verbraucherschutz
 
-![alt](14_Sina-4-2.jpg)
-**Sina Dörr** \
-Digitallotsin,  \
-Richterin & Referentin
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](14_Sina-4-2.jpg){: height="40%" width="40%"} **Sina Dörr**<br>Digitallotsin, Richterin & Referentin | ![alt](15_BMJV-Philip-Scholz-800x1056-1.png){: height="40%" width="40%"} **Philip Scholz**<br>Digitallotse, Referatsleiter |
+| ![alt](16_ragna3-1.png){: height="40%" width="40%"} **Ragna Kretschmer**<br>Digitallotsin, Richterin | ![alt](17_BMJV-Martin-Saecker.png){: height="40%" width="40%"} **Martin Säcker**<br>Digitallotse, Richter |
 
-![alt](15_BMJV-Philip-Scholz-800x1056-1.png)
-**Philip Scholz** \
-Digitallotse, \
-Referatsleiter
-
-![alt](16_ragna3-1.png)
-**Ragna Kretschmer** \
-Digitallotsin, \
-Richterin
-
-![alt](17_BMJV-Martin-Saecker.png)
-**Martin Säcker** \
-Digitallotse, \
-Richter
 

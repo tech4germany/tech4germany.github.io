@@ -56,27 +56,17 @@ Die technische Lösung soll durch eine transparente und strukturierte Übersicht
 
 ## Team
 
-![alt](Lena_Mohr__tech4germany_Final.jpg)
-**Lena Mohr** / Design Fellow
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](Lena_Mohr__tech4germany_Final.jpg){: class="profile-pic"} **Lena Mohr**<br>Design Fellow | ![alt](Mustafa_Özcan__tech4germany_Final.jpg){: class="profile-pic"} **Mustafa Özcan**<br>Product Fellow |
+| ![alt](Sakshi_Shukla__tech4germany_Final.jpg){: class="profile-pic"} **Sakshi Deo Shukla**<br>Engineering Fellow | ![alt](platzhalter.jpg){: class="profile-pic"} **Stephan Grötschel**<br>Engineering Fellow |
 
-![alt](Mustafa_Özcan__tech4germany_Final.jpg)
-**Mustafa Özcan **/ Product Fellow
-
-![alt](Sakshi_Shukla__tech4germany_Final.jpg)
-**Sakshi Deo Shukla** / Engineering Fellow
-
-![alt](BMDV_UReinfried_Final.jpg)
-**Stephan Grötschel **/ Engineering Fellow
 
 
 ## Projektpartner
 
-![alt](BMDV_CStadler_Final.jpg)
-**C. Stadler**
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](BMDV_CStadler_Final.jpg){: class="profile-pic"} **C. Stadler** | ![alt](BMDV_PDittrich_Final.jpg){: class="profile-pic"} **P. Dittrich** |
+| ![alt](BMDV_UReinfried_Final.jpg){: class="profile-pic"} **U. Reinfried** | |
 
-![alt](BMDV_PDittrich_Final.jpg)
-**P. Dittrich**
-
-
-![alt](BMDV_UReinfried_Final.jpg)
-**U. Reinfried**

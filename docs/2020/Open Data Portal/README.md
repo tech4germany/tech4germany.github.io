@@ -72,45 +72,18 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 # Das Team
 
-![alt](4_Fellow-Nele-Lüpkes-Profilfoto_-scaled.jpg) \
-**Nele Lüpkes** \
-Design Fellow \
-[LinkedIn](https://www.linkedin.com/in/nelel%C3%BCpkes/) 
+|                         |                        |
+|:-----------------------:|:----------------------:|
+| ![alt](4_Fellow-Nele-Lüpkes-Profilfoto_-scaled.jpg){:class="profile-pic"} **Nele Lüpkes**<br>Design Fellow<br>[LinkedIn](https://www.linkedin.com/in/nelel%C3%BCpkes/) | ![alt](5_TjorvenSW-1280x1600.jpg){:class="profile-pic"} **Tjorven Rohwer**<br>Product Fellow<br>[LinkedIn](https://www.linkedin.com/in/tjorvenrohwer/) |
+| ![alt](6_Fellow-BenjaminDegenhart_Profilfoto_-1280x1600.jpg){:class="profile-pic"} **Benjamin Degenhart**<br>Engineering Fellow<br>[LinkedIn](https://www.linkedin.com/in/bdegenhart/) | ![alt](7_Fellow-Daniela-Vogel-Profilfoto-_-1280x1600.jpg){:class="profile-pic"} **Daniela Vogel**<br>Design Fellow<br>[LinkedIn](https://www.linkedin.com/in/daniela-vogel-9831b7183/) |
 
-![alt](5_TjorvenSW-1280x1600.jpg) \
-**Tjorven Rohwer** \
-Product Fellow \
-[LinkedIn](https://www.linkedin.com/in/tjorvenrohwer/)
-
-![alt](6_Fellow-BenjaminDegenhart_Profilfoto_-1280x1600.jpg) \
-**Benjamin Degenhart** \
-Engineering Fellow \
-[LinkedIn](https://www.linkedin.com/in/bdegenhart/)
-
-![alt](7_Fellow-Daniela-Vogel-Profilfoto-_-1280x1600.jpg) \
-**Daniela Vogel** \
-Design Fellow \
-[LinkedIn](https://www.linkedin.com/in/daniela-vogel-9831b7183/)
 
 
 # Projektpartner:innen
 
-![alt](8_JemilaKehinde-DL-OpenDataPortal.jpg) \
-**Jemila Kehinde \
-**Digitallotsin
+|                                              |                            |
+|:--------------------------------------------:|:--------------------------:|
+| ![alt](8_JemilaKehinde-DL-OpenDataPortal.jpg){:class="profile-pic"} **Jemila Kehinde**<br>Digitallotsin | ![alt](9_JensSchuering-DL-OpenDataPortal.jpg){:class="profile-pic"} **Jens Schüring**<br>Digitallotse |
+| ![alt](10_ChristianHorn-DL-OpenDataPortal-1280x1600.jpg){:class="profile-pic"} **Christian Horn**<br>Digitallotse | ![alt](11_AntjeGoeldner-DL-OpenDataPortal.jpg){:class="profile-pic"} **Antje Göldner**<br>Digitallotsin |
+| ![alt](12_ChristianWittig-DL-OpenDataPortal.jpg){:class="profile-pic"} **Christian Wittig**<br>Digitallotse | 
 
-![alt](9_JensSchuering-DL-OpenDataPortal.jpg) \
-**Jens Schüring \
-**Digitallotse
-
-![alt](10_ChristianHorn-DL-OpenDataPortal-1280x1600.jpg) \
-**Christian Horn \
-**Digitallotse
-
-![alt](11_AntjeGoeldner-DL-OpenDataPortal.jpg) \
-**Antje Göldner \
-**Digitallotsin
-
-![alt](12_ChristianWittig-DL-OpenDataPortal.jpg) \
-**Christian Wittig \
-**Digitallotse

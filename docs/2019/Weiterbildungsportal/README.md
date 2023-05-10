@@ -61,37 +61,20 @@ Prototyp eines Orientierungstools, das spielerisch Berufsfelder und passende Wei
 
 # Projektteam
 
-![alt](03_Natalie_Bosch.png)
+|                         |                        |
+|:-----------------------:|:----------------------:|
+| ![alt](03_Natalie_Bosch.png) **Natalie Bosch**<br>Product Fellow | ![alt](04_Pablo_Abbis.png) **Pablo Abbis**<br>Product Fellow |
+| ![alt](05_Manuel_Lang.png) **Manuel Lang**<br>Engineering Fellow | ![alt](06_Florian_Zechmeister.png) **Florian Zechmeister**<br>Engineering Fellow | 
 
-**Natalie Bosch \
-**Product Fellow
-
-![alt](04_Pablo_Abbis.png)
-
-**Pablo Abbis \
-**Product Fellow
-
-![alt](05_Manuel_Lang.png)
-
-**Manuel Lang \
-**Engineering Fellow
-
-![alt](06_Florian_Zechmeister.png)
-
-**Florian Zechmeister \
-**Engineering Fellow
 
 
 ### Projektpartner:innen
 
 BMAS
 
-![alt](07_Michael-Schulze.png)
+|                         |                        |
+|:-----------------------:|:----------------------:|
+| ![alt](07_Michael-Schulze.png) **Michael Schulze**<br>Digitallotse | ![alt](08_borggraefe_online.png) **Julia Borggräfe**<br>Projektleiterin | 
 
-**Michael Schulze \
-**Digitallotse
 
-![alt](08_borggraefe_online.png)
 
-**Julia Borggräfe \
-**Projektleiterin

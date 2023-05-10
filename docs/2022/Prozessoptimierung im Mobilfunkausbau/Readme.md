@@ -60,22 +60,15 @@ Der Siteseeker ist ein Tool, das alle relevanten Daten zur Suche, Bewertung und 
 
 # Team
 
-![alt](Mika_Straka_ tech4germany.jpg)
-**Mika Straka** Product Fellow
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](Mika_Straka_ tech4germany.jpg){: class="profile-pic"} **Mika Straka**<br>Product Fellow | ![alt](platzhalter.jpg){: class="profile-pic"} **Sophie Perret**<br>Product Fellow |
+| ![alt](platzhalter.jpg){: class="profile-pic"} **Sina Busch**<br>Design Fellow | ![alt](Valentin_Hartig_ tech4germany.png){: class="profile-pic"} **Valentin Hartig**<br>Engineering Fellow |
 
-**Sophie Perret** Product Fellow
-
-
-**Sina Busch** Design Fellow	
-
-![alt](Valentin_Hartig_ tech4germany.png)
-**Valentin Hartig** Engineering Fellow
 
 
 # Projektpartner 
 
-![alt](Portrait Jochen Donauer_Tech4G-1.jpg)
-**Jochen Donauer**
-
-![alt](Portrait Christina Kaufmann_Tech4G-1.jpg)
-**Christina Kaufmann**
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](Portrait Jochen Donauer_Tech4G-1.jpg){: class="profile-pic"} **Jochen Donauer** | ![alt](Portrait Christina Kaufmann_Tech4G-1.jpg){: class="profile-pic"} **Christina Kaufmann** |

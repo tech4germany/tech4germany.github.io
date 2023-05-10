@@ -1,5 +1,4 @@
 # **Forschungsdaten BMG 2020**
-# **Forschungsdaten BMG 2020**
 
 Im Forschungsdatenzentrum werden in einem geschützten Rahmen die Gesundheitsdaten von Krankenkassen für Forschungszwecke verfügbar gemacht. Tech4Germany hatte das Ziel, die Gesundheitsdaten besser zugänglich für Forscher:innen zu machen. Dafür wurde ein Prototyp für das neue Portal im Forschungsdatenzentrum unter Einbindung der Forscher:innen entwickelt. Somit wurde die Prozessführung für Forscher:innen wesentlich verbessert und so der Forschungsprozess transparent gemacht. 
 
@@ -104,21 +103,10 @@ Der Open Source Code unseres Prototypens
 
 # Das Team
 
-![alt](6_Fellow-Carolin-Bednarz-Profilfoto_.jpg) \
-**Carolin Bednarz** \
-Product Fellow
-
-![alt](7_Fellow-Jonas-Pohlmann-Profilfoto_.jpg) \
-**Jonas Pohlmann** \
-Product Fellow
-
-![alt](8_Fellow-Michael-Rotarius-Profilfoto-_.jpg) \
-**Michael Rotarius** \
-Engineering Fellow
-
-![alt](9_Fellow-Vanessa-Robayo-Ladino-Profilfoto_.jpg) \
-**Vanessa Robayo Ladino** \
-Design Fellow
+|                         |                        |
+|:-----------------------:|:----------------------:|
+| ![alt](6_Fellow-Carolin-Bednarz-Profilfoto_.jpg){:class="profile-pic"} **Carolin Bednarz**<br>Product Fellow | ![alt](7_Fellow-Jonas-Pohlmann-Profilfoto_.jpg){:class="profile-pic"} **Jonas Pohlmann**<br>Product Fellow |
+| ![alt](8_Fellow-Michael-Rotarius-Profilfoto-_.jpg){:class="profile-pic"} **Michael Rotarius**<br>Engineering Fellow | ![alt](9_Fellow-Vanessa-Robayo-Ladino-Profilfoto_.jpg){:class="profile-pic"} **Vanessa Robayo Ladino**<br>Design Fellow |
 
 
 ### Projektpartner:innen

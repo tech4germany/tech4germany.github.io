@@ -75,26 +75,10 @@ How-To Guide zur Erstellung von Schulungsvideos in Behörden.
 
 # Projektteam
 
-![alt](05_Chantal_Rexhausen.png)
-
-**Chantal Rexhausen \
-**Product Fellow
-
-![alt](06_patrick_reuter.png)
-
-**Patrick Reuter \
-**Engineering Fellow
-
-![alt](07_lailoma_scharifi.png)
-
-**Lailoma Scharifi \
-**Design Fellow
-
-![alt](08_sebastian_serth.png)
-
-**Sebastian Serth \
-**Engineering Fellow
-
+|                         |                        |
+|-------------------------|------------------------|
+| ![alt](05_Chantal_Rexhausen.png) **Chantal Rexhausen**<br>Product Fellow | ![alt](06_patrick_reuter.png) **Patrick Reuter**<br>Engineering Fellow |
+| ![alt](07_lailoma_scharifi.png) **Lailoma Scharifi**<br>Design Fellow | ![alt](08_sebastian_serth.png) **Sebastian Serth**<br>Engineering Fellow |
 
 # Projektpartner:innen
 

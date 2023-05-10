@@ -140,25 +140,11 @@ BOP Redesign für den Registrierungsprozess
 
 # Das Team
 
-![alt](6_team_bild_birte-1280x1689.png)
-**Birte Dreier \
-**Product Fellow \
-[LinkedIn](https://www.linkedin.com/in/birtedreier/)
+|                         |                        |
+|:-----------------------:|:----------------------:|
+| ![alt](6_team_bild_birte-1280x1689.png){: height="40%" width="40%"} **Birte Dreier**<br>Product Fellow<br>[LinkedIn](https://www.linkedin.com/in/birtedreier/) | ![alt](7_team_bild_dirk-1280x1689.png){: height="40%" width="40%"} **Dirk Heider**<br>Design Fellow<br>[LinkedIn](https://www.linkedin.com/in/dirk-heider-925564156/) |
+| ![alt](8_team_bild_jayjay-1280x1688.png){: height="40%" width="40%"} **Jonathan Janetzki**<br>Engineering Fellow<br>[GitHub](https://github.com/janetzki) | ![alt](9_team_bild_vlada-1280x1688.png){: height="40%" width="40%"} **Vlada Pugavko**<br>Design Fellow<br>[LinkedIn](https://www.linkedin.com/in/vlada-pugavko-275ab2192/) |
 
-![alt](7_team_bild_dirk-1280x1689.png)
-**Dirk Heider \
-**Design Fellow \
-[LinkedIn](https://www.linkedin.com/in/dirk-heider-925564156/)
-
-![alt](8_team_bild_jayjay-1280x1688.png)
-**Jonathan Janetzki \
-**Engineering Fellow \
-[GitHub](https://github.com/janetzki)
-
-![alt](9_team_bild_vlada-1280x1688.png)
-**Vlada Pugavko \
-**Design Fellow \
-[LinkedIn](https://www.linkedin.com/in/vlada-pugavko-275ab2192/)
 
 
 # Projektpartner:innen

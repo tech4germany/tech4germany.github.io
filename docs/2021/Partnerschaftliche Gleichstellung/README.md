@@ -49,7 +49,14 @@ Das Angebot soll **_informierte und reflektierte Entscheidungen_** über die Rol
 
 ### [Tweet-Collection](https://twitter.com/Jonathan4GER/timelines/1455830377516441604)
 
-# Galerie ![Team BMFSFJ](1_20211007-ws-wireframes-lowres-23-1-scaled.jpg) ![Symbolbild Partnerschaftlichkeit](2_20210916-ws-ideation-lowres-3-1-scaled.jpg) ![Expert:innen-Interviews](3_20210823-t4g-buero-bmfsfj-lowres-14-scaled.jpg) ![Spinnennetz als Methode für die Zielgruppenfindung](4_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-28-scaled.jpg) ![Workshop im Ministerium](5_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-32-scaled.jpg) ![Eisberg-Modelle für die Zielgruppen](6_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-48-scaled.jpg) ![Nutzer:innen-Interviews](7_20210907-t4g-bmfsfj-nutzer-lowres-10-scaled.jpg) ![Workshop Ideation](8_20210916-ws-ideation-lowres-47-1-scaled.jpg) ![Papier-Prototypen](9_bmfsfj-twitter-16zu9-12-scaled.jpg) ![Testing der Papier-Prototypen](10_20210930-prototyping-lowres-1-1-scaled.jpg) ![Werkstattbesuch von Prof. Dr. Helge Braun](11_20211007-werkstattbesuch-helge-braun-lowres-40-scaled.jpg) ![Werkstattbesuch Dr. Markus Richter, CIO des Bundes](12_20211014-werkstattbesuch-markus-richter-lowres-11-scaled.jpg) ![Feedback zu den Wireframes von unseren Digitallotsinnen](13_20211007-ws-wireframes-lowres-15-scaled.jpg) ![Iteration über die Wireframes](14_20211021-twitter-takeover-woche-lowres-4-scaled.jpg) ![Malte Laukötter erklärt den Code](15_20211021-twitter-takeover-woche-lowres-10-scaled.jpg) ![Fellows BMFSFJ](16_20210823-t4g-buero-bmfsfj-lowres-28-scaled.jpg) 
+# Galerie 
+
+|   |   |   |
+|---|---|---|
+| ![Team BMFSFJ](1_20211007-ws-wireframes-lowres-23-1-scaled.jpg){:class="profile-pic"} | ![Symbolbild Partnerschaftlichkeit](2_20210916-ws-ideation-lowres-3-1-scaled.jpg){:class="profile-pic"} | ![Expert:innen-Interviews](3_20210823-t4g-buero-bmfsfj-lowres-14-scaled.jpg){:class="profile-pic"} |
+| ![Spinnennetz als Methode für die Zielgruppenfindung](4_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-28-scaled.jpg){:class="profile-pic"} | ![Workshop im Ministerium](5_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-32-scaled.jpg){:class="profile-pic"} | ![Eisberg-Modelle für die Zielgruppen](6_20210901-t4g-bmfsfj-workshop-zielgruppen-lowres-48-scaled.jpg){:class="profile-pic"} |
+| ![Nutzer:innen-Interviews](7_20210907-t4g-bmfsfj-nutzer-lowres-10-scaled.jpg){:class="profile-pic"} | ![Workshop Ideation](8_20210916-ws-ideation-lowres-47-1-scaled.jpg){:class="profile-pic"} | ![Papier-Prototypen](9_bmfsfj-twitter-16zu9-12-scaled.jpg){:class="profile-pic"} |
+
 
 
 # Vorgehen & Erkenntnisse 
@@ -157,43 +164,19 @@ Unsere Arbeitsergebnisse als Open Source auf GitHub
 
 # Das Team
 
-![alt](21_Katja-Anokhina-980x1294.jpg)
-Katja Anokhina \
-Product Fellow \
-[LinkedIn](https://www.linkedin.com/in/katja-anokhina)
-
-![alt](22_Jonathan-Schneider-980x1294.jpg)
-Jonathan Schneider \
-Engineering & Product Fellow \
-[LinkedIn](https://www.linkedin.com/in/jonathanschneiderde/)
-
-![alt](23_Sophia-Grote-980x1294.jpg)
-Sophia Grote \
-Design Fellow \
-[LinkedIn](https://www.linkedin.com/in/sophia-grote-83b811170/)
-
-![alt](24_Malte-Laukoetter-scaled.jpg)
-Malte Laukötter \
-Engineering Fellow \
-[LinkedIn](https://www.linkedin.com/in/malte-lauk%C3%B6tter/)
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](21_Katja-Anokhina-980x1294.jpg){: class="profile-pic"} **Katja Anokhina**<br>Product Fellow<br>[LinkedIn](https://www.linkedin.com/in/katja-anokhina) | ![alt](22_Jonathan-Schneider-980x1294.jpg){: class="profile-pic"} **Jonathan Schneider**<br>Engineering & Product Fellow<br>[LinkedIn](https://www.linkedin.com/in/jonathanschneiderde/) |
+| ![alt](23_Sophia-Grote-980x1294.jpg){: class="profile-pic"} **Sophia Grote**<br>Design Fellow<br>[LinkedIn](https://www.linkedin.com/in/sophia-grote-83b811170/) | ![alt](24_Malte-Laukoetter-scaled.jpg){: class="profile-pic"} **Malte Laukötter**<br>Engineering Fellow<br>[LinkedIn](https://www.linkedin.com/in/malte-lauk%C3%B6tter/) |
 
 
 # Projektpartner:innen
 
 Bundesministerium für Familie, Senioren, Frauen und Jugend
 
-![alt](25_Kirsten_Wendland.jpg) \
-**Dr. Kirsten Wendland \
-**Referat 411, Referatsleiterin
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](25_Kirsten_Wendland.jpg){: class="profile-pic"} **Dr. Kirsten Wendland**<br>Referat 411, Referatsleiterin | ![alt](26_BMFSFJ-Alexandra-Wend-1-800x1056-1.png){: class="profile-pic"} **Alexandra Wend**<br>Referat 411, Referentin |
+| ![alt](27_Dr.-Nikola-Benke-BMFSFJ-980x1294.jpg){: class="profile-pic"} **Dr. Nikola Benke**<br>Referat 411, Referentin | ![alt](28_Ricarda-Skirde-980x1296.jpg){: class="profile-pic"} **Ricarda Skirde**<br>Referat 411, Praktikantin |
 
-![alt](26_BMFSFJ-Alexandra-Wend-1-800x1056-1.png) \
-**Alexandra Wend \
-**Referat 411, Referentin
 
-![alt](27_Dr.-Nikola-Benke-BMFSFJ-980x1294.jpg) \
-**Dr. Nikola Benke \
-**Referat 411, Referentin
-
-![alt](28_Ricarda-Skirde-980x1296.jpg) \
-**Ricarda Skirde \
-**Referat 411, Praktikantin

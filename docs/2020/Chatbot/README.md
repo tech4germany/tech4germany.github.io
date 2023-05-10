@@ -150,21 +150,11 @@ Detailliertes Vorgehen und Ergebnisse des Projektteams (BfJ)
 
 # Das Team
 
-![alt](8_Fellow-Benedikt-Liebig-Profilfoto_-1280x1599.jpg)
-**Benedikt Liebig \
-**Product Fellow
+|                         |                        |
+|:-----------------------:|:----------------------:|
+| ![alt](8_Fellow-Benedikt-Liebig-Profilfoto_-1280x1599.jpg){:class="profile-pic"} **Benedikt Liebig**<br>Product Fellow | ![alt](9_Fellow-Miriam-Metz-Profilfoto_-1280x1600.jpg){:class="profile-pic"} **Miriam Metz**<br>Design Fellow |
+| ![alt](10_Fellow-Anna-Bettina-Profilfoto-1-1280x1600.jpg){:class="profile-pic"} **Anna Steinberg**<br>Engineering Fellow | ![alt](11_Fellow-Johannes-Heck-Profilfoto.jpg){:class="profile-pic"} **Johannes Heck**<br>Engineering Fellow |
 
-![alt](9_Fellow-Miriam-Metz-Profilfoto_-1280x1600.jpg)
-**Miriam Metz \
-**Design Fellow
-
-![alt](10_Fellow-Anna-Bettina-Profilfoto-1-1280x1600.jpg)
-**Anna Steinberg \
-**Engineering Fellow
-
-![alt](11_Fellow-Johannes-Heck-Profilfoto.jpg)
-**Johannes Heck \
-**Engineering Fellow
 
 
 # Projektpartner
@@ -191,5 +181,5 @@ Bundesamt für Justiz
 **Nicola Sommer** \
 Digitallotsin, BMFSFJ
 
-Daniela Pohl \
+**Daniela Pohl** \
 Digitallotsin, BMFSFJ

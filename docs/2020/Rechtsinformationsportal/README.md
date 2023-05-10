@@ -122,37 +122,17 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub.
 
 # Das Team
 
-![alt](8_Conrad_Square.png) \
-**Conrad Schlenkhoff** \
-Product Fellow
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](8_Conrad_Square.png){:class="profile-pic"} **Conrad Schlenkhoff**<br>Product Fellow | ![alt](9_Tito_Square-1280x1280.jpg){:class="profile-pic"} **José Ernesto Rodríguez**<br>Design Fellow |
+| ![alt](10_Greta_Square.png){:class="profile-pic"} **Greta Fest**<br>Engineering Fellow | ![alt](11_Niko-1280x1280.jpg){:class="profile-pic"} **Niko Felger**<br>Engineering Fellow |
 
-![alt](9_Tito_Square-1280x1280.jpg) \
-**José Ernesto Rodríguez** \
-Design Fellow
-
-![alt](10_Greta_Square.png) \
-**Greta Fest** \
-Engineering Fellow
-
-![alt](11_Niko-1280x1280.jpg) \
-**Niko Felger** \
-Engineering Fellow
 
 
 # Projektpartner:innen
 
-![alt](12_Beatrix_Square-1280x1280.jpg)
-**Dr. Beatrix Lindner** \
-Projektleiterin
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](12_Beatrix_Square-1280x1280.jpg){:class="profile-pic"} **Dr. Beatrix Lindner**<br>Projektleiterin | ![alt](13_Sabine_Square-1280x1280.jpg){:class="profile-pic"} **Sabine Schlüter**<br>Digitallotsin |
+| ![alt](14_Alex_Square-1280x1280.jpg){:class="profile-pic"} **Alexander Schiff**<br>Digitallotse | ![alt](15_Kai_Square-1280x1280.jpg){:class="profile-pic"} **Kai Rülke**<br>Digitallotse |
 
-![alt](13_Sabine_Square-1280x1280.jpg)
-**Sabine Schlüter** \
-Digitallotsin
-
-![alt](14_Alex_Square-1280x1280.jpg)
-**Alexander Schiff** \
-Digitallotse
-
-![alt](15_Kai_Square-1280x1280.jpg)
-**Kai Rülke** \
-Digitallotse

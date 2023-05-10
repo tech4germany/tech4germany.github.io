@@ -128,57 +128,22 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 # Das Team
 
-![alt](10_Sonja_Möbius.jpg) \
-**Sonja Möbius \
-**Product Fellow
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](10_Sonja_Möbius.jpg){: height="40%" width="40%"} **Sonja Möbius**<br>Product Fellow<br>[LinkedIn](https://www.linkedin.com/in/sonja-moebius/) | ![alt](11_Kerem_Demir.jpg){: height="40%" width="40%"} **Kerem Demir**<br>Design Fellow<br>[LinkedIn](https://www.linkedin.com/in/demirkerem/) |
+| ![alt](12_Patrick-Lehner-800x1056-1.png){: height="40%" width="40%"} **Patrick Lehner**<br>Engineering Fellow<br>[LinkedIn](https://www.linkedin.com/in/lehnerpat/) | ![alt](13_David-Pomerenke-800x1056-1.png){: height="40%" width="40%"} **David Pomerenke**<br>Engineering Fellow<br>[LinkedIn](https://www.linkedin.com/in/davidpomerenke/) |
 
-[LinkedIn](https://www.linkedin.com/in/sonja-moebius/)
-
-![alt](11_Kerem_Demir.jpg) \
-**Kerem Demir \
-**Design Fellow
-
-[LinkedIn](https://www.linkedin.com/in/demirkerem/)
-
-![alt](12_Patrick-Lehner-800x1056-1.png) \
-**Patrick Lehner \
-**Engineering Fellow
-
-[LinkedIn ](https://www.linkedin.com/in/lehnerpat/)
-
-![alt](13_David-Pomerenke-800x1056-1.png) \
-**David Pomerenke \
-**Engineering Fellow
-
-[LinkedIn](https://www.linkedin.com/in/davidpomerenke/)
 
 
 ### Projektpartner:innen
 
 Bundesanstalt für Materialforschung und -prüfung 
 
-![alt](14BAM-Godela-von-Drygalski-800x1056-1.png) \
-**Godela von Drygalski** \
-Digitallotsin
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](14BAM-Godela-von-Drygalski-800x1056-1.png){: height="40%" width="40%"} **Godela von Drygalski**<br>Digitallotsin | ![alt](15_BAM-Gabriela-Burkhardt-800x1056-1.png){: height="40%" width="40%"} **Gabriela Burkhardt**<br>Digitallotsin |
+| ![alt](16_BAM-Marina-Staudt-800x1056-1.png){: height="40%" width="40%"} **Marina Staudt**<br>Digitallotsin | ![alt](17_BAM-Julia-Sommer-800x1056-1.png){: height="40%" width="40%"} **Julia Sommer**<br>Digitallotsin |
+| ![alt](18_BAM-Oezlem-Oezcan-800x1056-1.png){: height="40%" width="40%"} **Dr. Özlem Özcan**<br>Digitallotsin | ![alt](19_BAM-Franziska-Emmerling-800x1056-1.png){: height="40%" width="40%"} **Dr. Franziska Emmerling**<br>Digitallotsin |
 
-![alt](15_BAM-Gabriela-Burkhardt-800x1056-1.png) \
-**Gabriela Burkhardt** \
-Digitallotsin
-
-![alt](16_BAM-Marina-Staudt-800x1056-1.png) \
-**Marina Staudt** \
-Digitallotsin
-
-![alt](17_BAM-Julia-Sommer-800x1056-1.png) \
-**Julia Sommer** \
-Digitallotsin
-
-![alt](18_BAM-Oezlem-Oezcan-800x1056-1.png) \
-**Dr. Özlem Özcan** \
-Digitallotsin
-
-![alt](19_BAM-Franziska-Emmerling-800x1056-1.png) \
-**Dr. Franziska Emmerling** \
-Digitallotsin
 
 ![alt](20_Bild-von-iOS-4-1280x675.jpg)

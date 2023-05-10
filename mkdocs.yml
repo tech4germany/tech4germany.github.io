@@ -11,10 +11,13 @@ theme:
   logo: Logo/T4G_Logo_RGB_inverted.svg
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.indexes 
+
 markdown_extensions:
   - attr_list
   - md_in_html
+  - tables
 
 copyright: Copyright &copy; 2016 - 2023 DigitalService GmbH des Bundes <a href="https://digitalservice.bund.de/impressum">Impressum</a> 
 extra:

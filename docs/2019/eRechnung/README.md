@@ -133,21 +133,13 @@ Dabei haben wir festgestellt, dass bei der Digitalisierung der Behörden und der
 v. L. n. R. Sebastian Erhardt (Engineering Fellow), Katrin Schauer (Design Fellow), Melanie Adelt (Product Fellow), Michael Pernpeintner (Engineering Fellow)
 
 
-# Projektpartner:innen
+## Projektpartner:innen
 
-![alt](013_Arndt_Fabrice.png)
+|                         |                        |
+|:-----------------------:|:----------------------:|
+| ![alt](013_Arndt_Fabrice.png){:class="profile-pic"} **Arndt Fabrice**<br>Digitallotse | ![alt](014_Claudia_Hübner.png){:class="profile-pic"} **Claudia Hübner**<br>Digitallotse |
+| ![alt](015_Nikolai_Jaklitsch.png){:class="profile-pic"} **Jan Kriener**<br>Digitallotsin | ![alt](016_Jan_Kriener.png){:class="profile-pic"} **Nikolai Jaklitsch**<br>Digitallotse |
 
-Arndt Fabrice, Digitallotse
 
-![alt](014_Claudia_Hübner.png)
 
-Jan Kriener, Digitallotse
-
-![alt](015_Nikolai_Jaklitsch.png)
-
-Claudia Hübner, Digitallotsin
-
-![alt](016_Jan_Kriener.png)
-
-Nikolai Jaklitsch, Digitallotse
 

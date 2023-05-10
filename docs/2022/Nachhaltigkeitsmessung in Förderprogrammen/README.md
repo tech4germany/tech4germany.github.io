@@ -33,30 +33,16 @@ Der SDG-Checker ist ein Schritt auf dem Weg, um die SDGs in der Projektgestaltun
 
 
 
-#### Team
+# Team
 
-![alt](Anna_Rojan__tech4germany_Final.jpg) 
-**Anna Rojan
-**/ Product Fellow
-
-![alt](Sundus_Sherif__tech4germany_Final.jpg) 
-**Sundus Sherif
-**/ Product Fellow
-
-![alt](Thomas_Miebach__tech4germany_Final.jpg) 
-**Thomas Miebach 
-**/ Design Fellow	
-
-![alt](Friedrich_Zahn__tech4germany_Final.jpg) 
-**Friedrich Zahn 
-**/ Engineering Fellow
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](Anna_Rojan__tech4germany_Final.jpg){: class="profile-pic"} **Anna Rojan**<br>Product Fellow | ![alt](Sundus_Sherif__tech4germany_Final.jpg){: class="profile-pic"} **Sundus Sherif**<br>Product Fellow |
+| ![alt](Thomas_Miebach__tech4germany_Final.jpg){: class="profile-pic"} **Thomas Miebach**<br>Design Fellow | ![alt](Friedrich_Zahn__tech4germany_Final.jpg){: class="profile-pic"} **Friedrich Zahn**<br>Engineering Fellow |
 
 
 # Projektpartner
 
-![alt](AA_Nele_Heinevetter_Final.jpg) 
-### **Nele Heinvetter**
-
-![alt](AA_Valerie_Scherf_Final.jpg) 
-### **Valerie Scherf**
-
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](AA_Nele_Heinevetter_Final.jpg){: class="profile-pic"} **Nele Heinevetter** | ![alt](AA_Valerie_Scherf_Final.jpg){: class="profile-pic"} **Valerie Scherf** |

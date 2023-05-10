@@ -19,3 +19,28 @@ img {
   width: 75%;
 
 }
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.profile-pic {
+   width: 50%;
+   height: auto;
+   display: block;
+   margin: auto;
+}
+
+md-typeset_table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+td {
+  text-align: center;
+  padding: 10px;
+  word-wrap: break-word;
+}

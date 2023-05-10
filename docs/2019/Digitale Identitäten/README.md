@@ -63,32 +63,17 @@ Organisation eines strategischen Roundtables zu Digitalen Identitäten (s. Case 
 #### [Download](f3_Glossar_angepasst.pdf)
 
 
-# Projektteam
+## Projektteam
 
 Das Thema Digitale Identitäten hat uns gezeigt, dass gute technische Lösungen nur der erste Schritt zu einem digitalen Staat sind: Mitarbeitende der Verwaltung müssen in den Transformationsprozess eingebunden werden. 
 
-![alt](01_Sina_Beckstein.png)
+|                         |                        |
+|:------------------------:|:----------------------:|
+| ![alt](01_Sina_Beckstein.png){:class="profile-pic"} **Sina Beckstein**<br>Product Fellow | ![alt](02_Isabelle_Miller.png){:class="profile-pic"} **Isabelle Miller**<br>Engineering Fellow |
+| ![alt](03_Julian_Rösner.png){:class="profile-pic"} **Julian Rösner**<br>Engineering Fellow | ![alt](04_Dominik_Wörner.png){:class="profile-pic"} **Dominik Wörner**<br>Product Fellow |
 
-**Sina Beckstein \
-**Product Fellow
--
-![alt](02_Isabelle_Miller.png)
-
-**Isabelle Miller \
-**Engineering Fellow
--
-![alt](03_Julian_Rösner.png)
-
-**Julian Rösner \
-**Engineering Fellow
--
-![alt](04_Dominik_Wörner.png)
-
-**Dominik Wörner \
-**Product Fellow
 
 # Projektpartner:innen
-
 ITZ Bund
 
 **Johannes Käfer \

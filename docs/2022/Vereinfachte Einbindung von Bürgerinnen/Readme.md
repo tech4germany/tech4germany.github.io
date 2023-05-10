@@ -22,40 +22,17 @@ Als langfristige Vision soll eine Bürger:innen-Beteiligungsplattform an den Res
 
 ## Team
 
-![alt](Paula_Fischer__tech4germany.jpg) 
-**Paula Fischer**
-
-Product/Design  Fellow
-
-![alt](Ann_Rheinheimer__tech4germany.jpg) 
-**Ann Reinheimer**
-
-Design Fellow
-
-![alt](Kohei_Suzuki__tech4germany.jpg) 
-**Kohei Suzuki**
-
-Engineering Fellow
-
-![alt](Leon_Claaßen__tech4germany.jpg) 
-**Leon Claaßen**
-
-Engineering Fellow
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](Paula_Fischer__tech4germany.jpg){:class="profile-pic"} **Paula Fischer**<br>Product/Design Fellow | ![alt](Ann_Rheinheimer__tech4germany.jpg){:class="profile-pic"} **Ann Reinheimer**<br>Design Fellow |
+| ![alt](Kohei_Suzuki__tech4germany.jpg){:class="profile-pic"} **Kohei Suzuki**<br>Engineering Fellow | ![alt](Leon_Claaßen__tech4germany.jpg){:class="profile-pic"} **Leon Claaßen**<br>Engineering Fellow |h
 
 
 ## Projektpartner
 
-![alt](Maria_Formisano.jpg) 
-**Maria Formisano**
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](Maria_Formisano.jpg){: class="profile-pic"} **Maria Formisano** | ![alt](Maik_Bartelt.jpg){: class="profile-pic"} **Maik Bartelt** |
+| ![alt](Tobias_Wunderlich_DRVBund.jpg){: class="profile-pic"} **Tobias Wunderlich** | ![alt](Laura_Steinert.jpg){: class="profile-pic"} **Laura Steinert** |
+| ![alt](platzhalter.jpg){: class="profile-pic"} **Diana Pflieger** | |
 
-![alt](Maik_Bartelt.jpg) 
-**Maik Bartelt**
-
-![alt](Tobias_Wunderlich_DRVBund.jpg) 
-**Tobias Wunderlich**
-
-![alt](Laura_Steinert.jpg) 
-**Laura Steinert**
-
-![alt]() 
-**Diana Pflieger**

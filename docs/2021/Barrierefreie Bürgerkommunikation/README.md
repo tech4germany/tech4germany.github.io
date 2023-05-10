@@ -154,34 +154,9 @@ Unsere Leitlinien für das Arbeiten als moderne Verwaltung
 
 **ITZ Bund**
 
-![alt](8_GZD-Alexander-Gorski-800x1056-1.png)
-**Dr. Alexander Gorski \
-**Digitallotse, Referatsleiter    \
-GZD
+|                         |                         |                         |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ![alt](8_GZD-Alexander-Gorski-800x1056-1.png){: height="40%" width="40%"} **Dr. Alexander Gorski**<br>Digitallotse, Referatsleiter<br>GZD | ![alt](9_GZD-Annett-Eulitz-800x1056-1.png){: height="40%" width="40%"} **Annett Eulitz**<br>Digitallotsin, Ständige Vertretung Referatsleitung<br>GZD | ![alt](10_GZD-Gert-Kraus-800x1056-1.png){: height="40%" width="40%"} **Gert Krauß**<br>Digitallotse, Leiter Kompetenzzentrum für barrierefreie IT<br>GZD |
+| ![alt](11_ITZBund-Ursula-Rohmann-800x1056-1.png){: height="40%" width="40%"} **Ursula Rohmann**<br>Digitallotsin, Leiterin Koordinierende Stelle Barrierefreiheit<br>ITZBund | ![alt](12_ITZBund-Rene-Guerth.jpg){: height="40%" width="40%"} **René Gürth**<br>Digitallotse, Referent im Referat eGovernment<br>ITZBund | ![alt](13_GZD-Doreen-Laveatz-800x1056-1-1280x1690.jpg){: height="40%" width="40%"} **Doreen Laveatz**<br>Digitallotsin, Fachbereich Chat- und Voicebots<br>GZD |
 
-![alt](9_GZD-Annett-Eulitz-800x1056-1.png)
-**Annett Eulitz \
-**Digitallotsin, Ständige Vertretung Referatsleitung  \
-GZD
 
-![alt](10_GZD-Gert-Kraus-800x1056-1.png)
-**Gert Krauß \
-**Digitallotse, \
-Leiter Kompetenzzentrum für barrierefreie IT  \
-GZD
-
-![alt](11_ITZBund-Ursula-Rohmann-800x1056-1.png)
-**Ursula Rohmann ** Digitallotsin, \
-Leiterin Koordinierende Stelle Barrierefreiheit \
-ITZBund
-
-![alt](12_ITZBund-Rene-Guerth.jpg)
-**René Gürth**
-Digitallotse, Referent im Referat eGovernment \
-ITZBund
-
-![alt](13_GZD-Doreen-Laveatz-800x1056-1-1280x1690.jpg)
-**Doreen Laveatz**
-
-Digitallotsin, Fachbereich Chat- und Voicebots     \
-GZD

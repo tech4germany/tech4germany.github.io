@@ -41,29 +41,17 @@ Jobfix ist ein webbasiertes Tool für die Personalgewinnung. Ziel ist eine Stell
 
 
 ## Team
+|   |  | 
+| :-: | :-: | 
+| ![Diemut Bartl](Diemut_Bartl_ tech4germany.jpg){: class="profile-pic"} Diemut Bartl Product Fellow | ![Fabrice Höfgen](Fabrice_Hoefgen_ tech4germany.png){: class="profile-pic"} Fabrice Höfgen Design Fellow |  
+| ![Robin Wenzel](Robin_Wenzel_ tech4germany.png){: class="profile-pic"} Robin Wenzel Design Fellow | ![Clemens Meyer zu Rheda](Clemens_Meyer_ tech4germanyjpeg.jpeg){: class="profile-pic"} Clemens Meyer zu Rheda Engineering Fellow |  
 
-![alt_text](Diemut_Bartl_ tech4germany.jpg)
-**Diemut Bartl** Product Fellow
 
-![alt_text](Fabrice_Hoefgen_ tech4germany.png)
-**Fabrice Höfgen** Design Fellow
-
-![alt_text](Robin_Wenzel_ tech4germany.png)
-**Robin Wenzel** Design Fellow
-
-![alt_text](Clemens_Meyer_ tech4germanyjpeg.jpeg)
-**Clemens Meyer zu Rheda** Engineering Fellow
 
 ## Projektpartner
 
-![alt_text](tobias_granzow_bmi.jpg)
-Tobias Granzow
+|   |  | 
+| :-: | :-: | 
+| ![alt_text](tobias_granzow_bmi.jpg){: class="profile-pic"} **Tobias Granzow** | ![alt_text](ellenbeck_itzbund.jpg){: class="profile-pic"} **Ekaterina Ellenbeck** |
+| ![alt_text](rene_guerth.jpg){: class="profile-pic"} **René Guerth** | ![alt_text](platzhalter.jpg){: class="profile-pic"} **Michelle Groschupp** |
 
-![alt_text](ellenbeck_itzbund.jpg)
-Ekaterina Ellenbeck
-
-![alt_text](rene_guerth.jpg)
-René Guerth
-
-
-Michelle Groschupp

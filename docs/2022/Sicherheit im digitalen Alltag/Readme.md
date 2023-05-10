@@ -27,45 +27,22 @@ Eine Browser-Erweiterung, die automatisch warnt und auf BSI-Warnungen zu IT-Sich
 
 ![alt_text](screenshot_1.png)
 
-# Team
-
 
 # Team
 
-![alt_text](Carina_Schweiger__tech4germany.jpg)
-**Carina Schweiger**
-
-Product  Fellow
-
-![alt_text](Sveta_Goldstein.jpg)
-**Sveta Goldstein**
-
-Design Fellow
-
-![alt_text](Benjamin_Menrad__tech4germany.jpg)
-**Benjamin Menrad**
-
-Engineering Fellow
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt_text](Carina_Schweiger__tech4germany.jpg){: class="profile-pic"} **Carina Schweiger**<br>Product Fellow | ![alt_text](Sveta_Goldstein.jpg){: class="profile-pic"} **Sveta Goldstein**<br>Design Fellow |
+| ![alt_text](Benjamin_Menrad__tech4germany.jpg){: class="profile-pic"} **Benjamin Menrad**<br>Engineering Fellow | |
 
 
 # Projektpartner
 
-![alt_text](Sachs_Claudia.jpg)
-**Claudia Sachs**
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt_text](Sachs_Claudia.jpg){: class="profile-pic"} **Claudia Sachs** | ![alt_text](Berndt_Maximilian.jpg){: class="profile-pic"} **Maximilian Berndt** |
+| ![alt_text](Korn_Matthias.jpg){: class="profile-pic"} **Matthias Korn** | ![alt_text](Witterhold_Katharina.jpg){: class="profile-pic"} **Katharina Witterhold** |
+| ![alt_text](Schulze_Michael.jpg){: class="profile-pic"} **Michael Schulze** | ![alt_text](Sachert_Diana.jpg){: class="profile-pic"} **Diana Sachert** |
+| ![alt_text](platzhalter.jpg){: class="profile-pic"} **Hanna Heurer** | |
 
-![alt_text](Berndt_Maximilian.jpg)
-**Maximilian Berndt**
 
-![alt_text](Korn_Matthias.jpg)
-**Matthias Korn**
-
-![alt_text](Witterhold_Katharina.jpg)
-**Katharina Witterhold**
-
-![alt_text](Schulze_Michael.jpg)
-**Michael Schulze**
-
-![alt_text](Sachert_Diana.jpg)
-**Diana Sachert**
-
-**Hanna Heurer**

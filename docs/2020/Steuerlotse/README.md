@@ -110,21 +110,10 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 # Das Team
 
-![alt](08_Anna_Meshcheryakova.png) \
-**Anna Meshcheryakova** \
-Product Fellow
-
-![alt](09_Julia_Albrecht.png) \
-**Julia Albrecht** \
-Design Fellow
-
-![alt](10_Lisa_Kowalewski.png) \
-**Lisa Kowalewski** \
-Design Fellow
-
-![alt](11_Daniel_Hugenroth.png) \
-**Daniel Hugenroth** \
-Engineering Fellow
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](08_Anna_Meshcheryakova.png){:class="profile-pic"} **Anna Meshcheryakova**<br>Product Fellow | ![alt](09_Julia_Albrecht.png){:class="profile-pic"} **Julia Albrecht**<br>Design Fellow |
+| ![alt](10_Lisa_Kowalewski.png){:class="profile-pic"} **Lisa Kowalewski**<br>Design Fellow | ![alt](11_Daniel_Hugenroth.png){:class="profile-pic"} **Daniel Hugenroth**<br>Engineering Fellow |
 
 
 # Projektpartner:innen
@@ -133,10 +122,7 @@ Bundesministerium der Finanzen
 
 Land Brandenburg Ministerium der Finanzen und für Europa
 
-![alt](12_Alfried_Reusch.png) \
-**Alfried Reusch** \
-Projektleiter
+|                         |                         |
+|:-----------------------:|:-----------------------:|
+| ![alt](12_Alfried_Reusch.png){:class="profile-pic"} **Alfried Reusch**<br>Projektleiter | ![alt](13_Jördis_Rüdiger.png){:class="profile-pic"} **Jördis Rüdiger**<br>Digitallotsin |
 
-![alt](13_Jördis_Rüdiger.png) \
-**Jördis Rüdiger** \
-Digitallotsin

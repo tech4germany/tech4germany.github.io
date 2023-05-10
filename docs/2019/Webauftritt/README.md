@@ -120,35 +120,11 @@ Pressemitteilung 13.05.2020, BMBF
 
 # Projektteam
 
-![alt](03_Antonia_Borkenhagen.png)
-
-**Antonia Borkenhagen \
-**Product Fellow
-
-![alt](04_Katharina_Hasenlust.png)
-
-**Katharina Hasenlust \
-**Design Fellow
-
-![alt](05_Sarah_Hilker.png)
-
-**Sarah Hilker \
-**UI/UX Design Fellow
-
-![alt](06_Carolin_Ullrich.png)
-
-**Carolin Ullrich \
-**Product Fellow
-
-![alt](07_Katharina_Erbe.png)
-
-**Katharina Erbe \
-**Digitallotsin
-
-![alt](08_Martin_Kleinemas.png)
-
-**Martin Kleinemas \
-**Digitallotse
+|                         |                        |
+|:-------------------------:|:------------------------:|
+| ![alt](03_Antonia_Borkenhagen.png) **Antonia Borkenhagen**<br>Product Fellow | ![alt](04_Katharina_Hasenlust.png) **Katharina Hasenlust**<br>Design Fellow |
+| ![alt](05_Sarah_Hilker.png) **Sarah Hilker**<br>UI/UX Design Fellow | ![alt](06_Carolin_Ullrich.png) **Carolin Ullrich**<br>Product Fellow |
+| ![alt](07_Katharina_Erbe.png) **Katharina Erbe**<br>Digitallotsin | ![alt](08_Martin_Kleinemas.png) **Martin Kleinemas**<br>Digitallotse |
 
  
 

@@ -129,20 +129,9 @@ Der gesamte Code des Rechners zur freien Wieder- und Weiterverwendung auf GitHub
 
 # Das Team
 
-![alt](6_Simone_Kilian.jpg) \
-**Simone Kilian \
-**Product Fellow \
-[LinkedIn](https://www.linkedin.com/in/simone-kilian-540229151/)
-
-![alt](7_david_profilbild-1.jpg) \
-**David Probst \
-**Engineering Fellow \
-[LinkedIn](https://www.linkedin.com/in/daudprobst/)
-
-![alt](8_Christopher_Schmitz.jpg) \
-**Christopher Schmitz \
-**Engineering Fellow \
-[LinkedIn](https://www.linkedin.com/in/clschmitz/)
+|                         |                         |                         |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ![alt](6_Simone_Kilian.jpg){: height="40%" width="40%"} **Simone Kilian**<br>Product Fellow<br>[LinkedIn](https://www.linkedin.com/in/simone-kilian-540229151/) | ![alt](7_david_profilbild-1.jpg){: height="40%" width="40%"} **David Probst**<br>Engineering Fellow<br>[LinkedIn](https://www.linkedin.com/in/daudprobst/) | ![alt](8_Christopher_Schmitz.jpg){: height="40%" width="40%"} **Christopher Schmitz**<br>Engineering Fellow<br>[LinkedIn](https://www.linkedin.com/in/clschmitz/) |
 
 
 # Projektpartner:innen

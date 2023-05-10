@@ -9,7 +9,6 @@ Gleichzeitig weitet sich der Fachkräftemangel von einigen spezialisierten Beruf
 
 Diese Talente sind an moderne und flexible Arbeitsumgebungen gewöhnt und haben einen starken Wunsch nach einer sinnstiftenden Tätigkeit mit gesellschaftlichem Mehrwert. Der öffentliche Sektor bietet hierbei eigentlich ideale Voraussetzungen, schafft es aber oft nicht, diese Vorteile entsprechend zu kommunizieren.
 
-
 ## Herangehensweise und Erkenntnisse
 
 

@@ -1,8 +1,6 @@
 site_name: Tech4Germany Archiv
 extra_css: [css/extra.css]
 repo_url: https://github.com/tech4germany/tech4germany.github.io
-plugins:
-  - glightbox
 
 theme:
   name: material

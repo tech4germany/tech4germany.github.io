@@ -30,7 +30,7 @@ Aus dem zur Beantwortung vorgenommenen User-Research Prozess mit ergänzenden Ge
 Die JobFix-App soll Personalabteilungen dabei unterstützen, auf die Bedürfnisse von Bewerbenden zugeschnittene Stellenanzeigen zu erstellen. Sowohl Fachabteilungen als auch Personalgewinnung werden dabei durch einen als Dialog mit den Bewerbenden gestalteten Prozess geführt, in dem alle wesentlichen Themenblöcke aus sich von Behörden- und Bewerbenden ausgefüllt werden. Ziel des Projektes ist es, die Redaktion von Stellenausschreibungen im Rahmen der Dachmarke Bund und dem Bewerbungsportal karriere.bund.de neu zu denken und die Bedürfnisse der Bewerbenden von Anfang an in den Mittelpunkt zu stellen. Die aktuell entwickelte App dient dazu, das Erstellen von Stellenausschreibungen eng an den Prozessen von Personal- und Fachabteilungen zu testen und weiterzuentwickeln und somit die Ausschreibungen kontinuierlich weiter zu optimieren.
 
 
-## Der Prototyp läuft!
+## Der Prototyp ist online!
 
 Jobfix ist ein webbasiertes Tool für die Personalgewinnung. Ziel ist eine Stellenanzeige, die genau auf potenziellen Kandidat:innen zugeschnitten ist.
 

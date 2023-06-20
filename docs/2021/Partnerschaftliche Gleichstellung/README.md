@@ -8,7 +8,7 @@ Die „StartApp Familie“ ist ein Beitrag zur **_partnerschaftlichen Gleichstel
 
 # +++ In Umsetzung +++
 
-Die StartApp Familie befindet sich derzeit mit Unterstützung eines Work4Germany Fellows in der Umsetzung.
+Die StartApp Familie befindet sich derzeit mit Unterstützung in der Umsetzung.
 
 
 # Hintergrund & Herausforderung

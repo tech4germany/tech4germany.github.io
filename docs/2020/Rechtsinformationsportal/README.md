@@ -1,42 +1,14 @@
 # **Rechtsinformationsportal BMJV 2020**
 
-
 Darf der Zugang zu Rechtsinformationen im Jahr 2020 auf dem Stand der frühen 90er bleiben? Ein klares Urteil: Nein! Die bestehenden Portale des Bundes bieten interessierten Bürgerinnen und Bürgern keinen zeitgemäßen Zugang zu Rechtsinformationen.
-
 
 # Hintergrund & Herausforderung
 
-Die bestehenden Portale des Bundes
+![alt](1_Tech4Germany_Rechtsinformationsportal_GesetzeImInternet-1.png)
 
-
-### [ Gesetze-im-Internet.de](https://www.gesetze-im-internet.de/),[ Rechtsprechung-im-Internet.de](https://www.rechtsprechung-im-internet.de/) und[ Verwaltungsvorschriften-im-Internet.de](https://www.verwaltungsvorschriften-im-internet.de/)
-
- sind nicht gut lesbar. Die Portale sind nicht mobil optimiert, die Schrift ist klein, die Suche ist versteckt, die Filtermöglichkeiten sind sperrig und die Suchergebnisse sind wenig aussagekräftig. Auch die Kriterien von Open Data werden nicht erfüllt. Um die Rechtsinformationen weiterzuverwenden, müssen die Daten erst umständlich heruntergeladen, formatiert, und bereinigt werden. 
+Die bestehenden Portale des Bundes [gesetze-im-internet.de](https://www.gesetze-im-internet.de/), [rechtsprechung-im-internet.de](https://www.rechtsprechung-im-internet.de/) und [verwaltungsvorschriften-im-internet.de](https://www.verwaltungsvorschriften-im-internet.de/) sind nicht gut lesbar. Die Portale sind nicht mobil optimiert, die Schrift ist klein, die Suche ist versteckt, die Filtermöglichkeiten sind sperrig und die Suchergebnisse sind wenig aussagekräftig. Auch die Kriterien von Open Data werden nicht erfüllt. Um die Rechtsinformationen weiterzuverwenden, müssen die Daten erst umständlich heruntergeladen, formatiert, und bereinigt werden.
 
 Die mehr als 4 Mio. monatlichen Besuche der Seiten zeigen die Notwendigkeit für ein neues Rechtsinformationsportal, mit dem der Umfang, die Qualität und die Recherchierbarkeit von Rechtsinformationen verbessert werden.
-
-
-# LINKS
-
-
-### [Clickdummy](http://clickdummy.rechtsinformationsportal.de)
-
-
-### [Alpha Version](https://alpha.rechtsinformationsportal.de/)
-
-
-### [API ](https://api.rechtsinformationsportal.de/)
-
-
-### [Github (Alpha) ](https://github.com/tech4germany/rechtsinfo-fe)
-
-
-### [Github (API) ](https://github.com/tech4germany/rechtsinfo_api)
-
-
-### [Fallstudie als PDF](f1_Tech4Germany_Fallstudie_Rechtsinformationsportal.pdf)
-
-![alt](1_Tech4Germany_Rechtsinformationsportal_GesetzeImInternet-1.png)
 
 # Zielsetzung & Vorgehen
 
@@ -44,13 +16,9 @@ Im Rahmen des 12-wöchigen Fellowships war die Zielsetzung, so schnell wie mögl
 
 Um das zu erreichen, hat das Team über 40 qualitative Interviews geführt. Wieso und in welchem Kontext brauchen Menschen Rechtsinformationen? Und wie sollten diese aufbereitet und dargestellt werden? Nachdem das Team besser verstanden hat, was die Menschen brauchen, wurden Prototypen entwickelt, um diese Annahmen zu testen. Relevante Stakeholder wurden involviert, Zwischenergebnisse mit der Öffentlichkeit geteilt und dabei ergebnisoffen kommuniziert.
 
-Mit den Bedürfnissen der Menschen starten
-
-Annahmen mit Prototypen testen
-
-Transparent arbeiten
-
-![alt](2_Tech4Germany_Rechtsinformationsportal_Arbeitsweise_Menschen-1.png) ![alt](3_Tech4Germany_Rechtsinformationsportal_Arbeitsweise_Prototypen-1.png) ![alt](4_Tech4Germany_Rechtsinformationsportal_Arbeitsweise_Transparent-1.png)
+![Mit den Bedürfnissen der Menschen starten](2_Tech4Germany_Rechtsinformationsportal_Arbeitsweise_Menschen-1.png)
+![Annahmen mit Prototypen testen](3_Tech4Germany_Rechtsinformationsportal_Arbeitsweise_Prototypen-1.png)
+![Transparent arbeiten](4_Tech4Germany_Rechtsinformationsportal_Arbeitsweise_Transparent-1.png)
 
 # Erkenntnisse & Lösungen
 
@@ -59,14 +27,14 @@ Aus der Nutzer:innen-Recherche hat das Team drei Erkenntnisse abgeleitet, die ri
 
 ## 1 Nutzer:innen haben wesentliche Gemeinsamkeiten bei der Vorgehensweise und den Bedürfnissen.
 
-Alle Nutzer:innen starten ihre Recherche bei Google und suchen zu irgendeinem Zeitpunkt den Gesetzestext. Deshalb sollte im ersten Schritt ein Basisangebot für Gesetze geschaffen werden, das von Suchmaschinen gefunden wird. 
+Alle Nutzer:innen starten ihre Recherche bei Google und suchen zu irgendeinem Zeitpunkt den Gesetzestext. Deshalb sollte im ersten Schritt ein Basisangebot für Gesetze geschaffen werden, das von Suchmaschinen gefunden wird.
 
 Daher hat das Team eine erste funktionierende Version des Rechtsinformationsportals mit basalen Funktionalitäten für Gesetze entwickelt.
 
 
 ## 2 Nutzer:innen und ihre Bedürfnisse sind heterogen.
 
-Daher sollten die Daten für die Weiterverwendung zur Verfügung gestellt werden, damit Lücken mit spezialisierten Angeboten von der Zivilgesellschaft und Privatwirtschaft geschlossen werden können. 
+Daher sollten die Daten für die Weiterverwendung zur Verfügung gestellt werden, damit Lücken mit spezialisierten Angeboten von der Zivilgesellschaft und Privatwirtschaft geschlossen werden können.
 
 Um das zu erreichen, hat das Team eine Datenschnittstelle zum Abruf der aktuellen Gesetze entwickelt.
 
@@ -95,30 +63,26 @@ Die Schnittstelle (API) ermöglicht Dritten Zugriff auf die Daten von Gesetze-im
 
 ## Clickdummy — Die Zukunft ist klickbar
 
-Der Clickdummy zeigt anhand eines konkreten Beispiels die potentiellen Funktionen des zukünftigen Rechtsinformationsportals auf. Bedürfnisse der Nutzer:innen können getestet werden und helfen im Team ein gemeinsames Verständnis zu etablieren und nach außen zu kommunizieren. Der Clickdummy basiert nicht auf der Schnittstelle, und ist somit nicht funktionsfähig. 
+Der Clickdummy zeigt anhand eines konkreten Beispiels die potentiellen Funktionen des zukünftigen Rechtsinformationsportals auf. Bedürfnisse der Nutzer:innen können getestet werden und helfen im Team ein gemeinsames Verständnis zu etablieren und nach außen zu kommunizieren. Der Clickdummy basiert nicht auf der Schnittstelle, und ist somit nicht funktionsfähig.
 ![alt](7_Tech4Germany_Rechtsinformationsportal_Clickdummy.png)
 
 # Unsere Ergebnisse sind frei verfügbar
 
+### Fallstudie
 
-### [Alpha-Version](https://alpha.rechtsinformationsportal.de/) 
+Die [Zusammenfassung der Ergebnisse als PDF](./f1_Tech4Germany_Fallstudie_Rechtsinformationsportal.pdf).
 
-Die erste Version für Gesetze mit basalen Funktionalitäten ist live.
+### Click Dummy
 
+Die Vision des vollumfänglichen Rechtsinformationsportal ist als [Click Dummy](https://rechtsinformationsportal.webflow.io/).
 
-### [Clickdummy](http://clickdummy.rechtsinformationsportal.de) 
+### Prototyp
 
-Die Vision des vollumfänglichen Rechtsinformationsportal ist klickbar.
+!!! warning "Dieser Prototyp ist nicht mehr online verfügbar"
 
+    Der [DigitalService](https://digitalservice.bund.de/) arbeitet an einer [vollumfänglichen, offiziellen Lösung](https://digitalservice.bund.de/blog/neues-rechtsinformationssystem). Für die zwischenzeitliche Überbrückung ist möglicherweise dieses Open-Source Projekt hilfreich: [github.com/nfelger/gesetze-aus-dem-internet](https://github.com/nfelger/gesetze-aus-dem-internet).
 
-### [Datenschnittstelle](https://api.rechtsinformationsportal.de/) 
-
-Die Schnittstelle ermöglicht Dritten Zugriff auf die Daten von Gesetze-im-Internet.de.
-
-### [Code](https://github.com/tech4germany) 
-
-Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub.
-
+Unsere Arbeitsergebnisse finden Sie auf GitHub: [Frontend](https://github.com/tech4germany/rechtsinfo-fe) und [API](https://github.com/tech4germany/rechtsinfo_api)
 
 # Das Team
 

@@ -7,10 +7,11 @@ theme:
   font:
     text: inter
   logo: Logo/T4G_Logo_RGB_inverted.svg
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.indexes 
+    - navigation.indexes
 
 markdown_extensions:
   - attr_list
@@ -20,10 +21,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
-copyright: Copyright &copy; 2016 - 2023 DigitalService GmbH des Bundes <a href="https://digitalservice.bund.de/impressum">Impressum</a> 
+copyright: Copyright &copy; 2016 - 2023 DigitalService GmbH des Bundes &bullet; <a href="https://digitalservice.bund.de/impressum">Impressum</a>
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/linkedin 
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/tech4germany
-

@@ -1,0 +1,46 @@
+:root {
+  --md-primary-fg-color:              #4265FF;
+  --md-primary-fg-color--light:       #FFFFFF;
+  --md-primary-fg-color--dark:        #2A2B2D;
+  --md-primary-bg-color:              #FFFFFF;
+  --md-primary-bg-color--light:       #E9EEF3;
+  --md-accent-fg-color:               #60CFFF;
+  --md-accent-fg-color--transparent:  #48E1A1;
+  --md-accent-bg-color:               #60CFFF;
+  --md-accent-bg-color--light:        #E0F0FF;
+}
+
+
+img {
+  border-radius: 0px;
+  display: block;
+  margin-left: 0px;
+  margin-right: auto;
+  width: 75%;
+
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.profile-pic {
+   width: 50%;
+   height: auto;
+   display: block;
+   margin: auto;
+}
+
+md-typeset_table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+td {
+  text-align: center;
+  padding: 10px;
+  word-wrap: break-word;
+}

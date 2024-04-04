@@ -41,7 +41,7 @@ Das Angebot soll **_informierte und reflektierte Entscheidungen_** über die Rol
 # Links
 
 
-### [Prototyp](https://dev.tech4germany.org/bmfsfj-partnerschaftliche-gleichstellung)
+### [Prototyp](https://tech4germany.github.io/bmfsfj-partnerschaftliche-gleichstellung/)
 
 
 ### [Aktuelles-Meldung](https://www.bmfsfj.de/bmfsfj/aktuelles/alle-meldungen/digital-talente-entwickeln-app-prototypen-fuer-mehr-partnerschaftlichkeit-186718)

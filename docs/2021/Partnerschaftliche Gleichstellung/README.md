@@ -151,7 +151,7 @@ Empfehlungen an das BMFSFJ zur agilen Weiterführung des Projekts
 Funktionierender Prototyp „StartApp Familie“
 
 
-### [Ausprobieren](https://dev.tech4germany.org/bmfsfj-partnerschaftliche-gleichstellung) 
+### [Ausprobieren](https://tech4germany.github.io/bmfsfj-partnerschaftliche-gleichstellung/) 
 
 
 ## Code

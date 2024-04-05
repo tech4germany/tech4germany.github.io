@@ -92,7 +92,7 @@ Das Besondere ist: Die StartApp Familie ist dank der **_Sharing-Funktion_** auch
 
 Die Nutzer:innen bekommen nur die To-dos angezeigt, die für sie relevant sind. Dafür beantworten sie bei der Einführung wenige einfache Fragen und gelangen dann in ihre persönliche Übersicht der Module mit darin enthaltenen To-dos. 
 
-### Video<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Gd6kXbBxjbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### [Video](https://www.youtube.com/watch?v=Gd6kXbBxjbA)
 
 ## Partnerschaftlichkeit im Mittelpunkt
 
